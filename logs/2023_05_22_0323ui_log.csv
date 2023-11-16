@@ -1,0 +1,6 @@
+2023-05-22 05:23:52,1,Info,Checking prerequisites..
+2023-05-22 05:23:52,1,Info,Dumping c
+2023-05-22 05:23:54,1,Error,Error running launcher - C:\KB4\Varsim;error: The system cannot find the file specified, ,    at System.Diagnostics.Process.StartWithShellExecuteEx(ProcessStartInfo startInfo)
+   at System.Diagnostics.Process.Start()
+   at System.Diagnostics.Process.Start(ProcessStartInfo startInfo)
+   at RanframeDll.Runner.GetScenarios()

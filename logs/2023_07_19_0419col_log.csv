@@ -1,0 +1,520 @@
+2023-07-19 06:19:57,1,,C:\KB4\Varsim\MainRunner.exe started with 
+2023-07-19 06:20:04,1,
+,Error reading file;error: Could not find file 'C:\KB4\Varsim\MainRunner.csv'., ,    at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   at System.IO.File.Open(String path, FileMode mode, FileAccess access, FileShare share)
+   at .. .  (String testsFileName)
+2023-07-19 06:20:04,1, ,Result:0
+2023-07-19 06:20:05,1,
+,Error reading file;error: Could not find file 'C:\KB4\Varsim\MainRunner.csv'., ,    at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   at System.IO.File.Open(String path, FileMode mode, FileAccess access, FileShare share)
+   at .. .  (String testsFileName)
+2023-07-19 06:20:05,1, ,Result:0
+2023-07-19 06:20:06,1,
+,Error reading file;error: Could not find file 'C:\KB4\Varsim\MainRunner.csv'., ,    at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   at System.IO.File.Open(String path, FileMode mode, FileAccess access, FileShare share)
+   at .. .  (String testsFileName)
+2023-07-19 06:20:06,1, ,Result:0
+2023-07-19 06:20:07,1,
+,Error reading file;error: Could not find file 'C:\KB4\Varsim\MainRunner.csv'., ,    at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   at System.IO.File.Open(String path, FileMode mode, FileAccess access, FileShare share)
+   at .. .  (String testsFileName)
+2023-07-19 06:20:07,1, ,Result:0
+2023-07-19 06:20:09,1,
+,Error reading file;error: Could not find file 'C:\KB4\Varsim\MainRunner.csv'., ,    at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   at System.IO.File.Open(String path, FileMode mode, FileAccess access, FileShare share)
+   at .. .  (String testsFileName)
+2023-07-19 06:20:09,1, ,Result:0
+2023-07-19 06:20:10,1,
+,Error reading file;error: Could not find file 'C:\KB4\Varsim\MainRunner.csv'., ,    at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   at System.IO.File.Open(String path, FileMode mode, FileAccess access, FileShare share)
+   at .. .  (String testsFileName)
+2023-07-19 06:20:10,1, ,Result:0
+2023-07-19 06:20:11,1,
+,Error reading file;error: Could not find file 'C:\KB4\Varsim\MainRunner.csv'., ,    at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   at System.IO.File.Open(String path, FileMode mode, FileAccess access, FileShare share)
+   at .. .  (String testsFileName)
+2023-07-19 06:20:11,1, ,Result:0
+2023-07-19 06:20:12,1,
+,Error reading file;error: Could not find file 'C:\KB4\Varsim\MainRunner.csv'., ,    at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   at System.IO.File.Open(String path, FileMode mode, FileAccess access, FileShare share)
+   at .. .  (String testsFileName)
+2023-07-19 06:20:12,1, ,Result:0
+2023-07-19 06:20:13,1,
+,Error reading file;error: Could not find file 'C:\KB4\Varsim\MainRunner.csv'., ,    at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   at System.IO.File.Open(String path, FileMode mode, FileAccess access, FileShare share)
+   at .. .  (String testsFileName)
+2023-07-19 06:20:13,1, ,Result:0
+2023-07-19 06:20:14,1,
+,Error reading file;error: Could not find file 'C:\KB4\Varsim\MainRunner.csv'., ,    at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   at System.IO.File.Open(String path, FileMode mode, FileAccess access, FileShare share)
+   at .. .  (String testsFileName)
+2023-07-19 06:20:14,1, ,Result:0
+2023-07-19 06:20:15,1,
+,Error reading file;error: Could not find file 'C:\KB4\Varsim\MainRunner.csv'., ,    at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   at System.IO.File.Open(String path, FileMode mode, FileAccess access, FileShare share)
+   at .. .  (String testsFileName)
+2023-07-19 06:20:15,1, ,Result:0
+2023-07-19 06:20:16,1,
+,Error reading file;error: Could not find file 'C:\KB4\Varsim\MainRunner.csv'., ,    at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   at System.IO.File.Open(String path, FileMode mode, FileAccess access, FileShare share)
+   at .. .  (String testsFileName)
+2023-07-19 06:20:16,1, ,Result:0
+2023-07-19 06:20:17,1,
+,Error reading file;error: Could not find file 'C:\KB4\Varsim\MainRunner.csv'., ,    at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   at System.IO.File.Open(String path, FileMode mode, FileAccess access, FileShare share)
+   at .. .  (String testsFileName)
+2023-07-19 06:20:17,1, ,Result:0
+2023-07-19 06:20:18,1,
+,Error reading file;error: Could not find file 'C:\KB4\Varsim\MainRunner.csv'., ,    at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   at System.IO.File.Open(String path, FileMode mode, FileAccess access, FileShare share)
+   at .. .  (String testsFileName)
+2023-07-19 06:20:18,1, ,Result:0
+2023-07-19 06:20:19,1,
+,Error reading file;error: Could not find file 'C:\KB4\Varsim\MainRunner.csv'., ,    at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   at System.IO.File.Open(String path, FileMode mode, FileAccess access, FileShare share)
+   at .. .  (String testsFileName)
+2023-07-19 06:20:19,1, ,Result:0
+2023-07-19 06:20:20,1,
+,Error reading file;error: Could not find file 'C:\KB4\Varsim\MainRunner.csv'., ,    at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   at System.IO.File.Open(String path, FileMode mode, FileAccess access, FileShare share)
+   at .. .  (String testsFileName)
+2023-07-19 06:20:20,1, ,Result:0
+2023-07-19 06:20:21,1,
+,Error reading file;error: Could not find file 'C:\KB4\Varsim\MainRunner.csv'., ,    at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   at System.IO.File.Open(String path, FileMode mode, FileAccess access, FileShare share)
+   at .. .  (String testsFileName)
+2023-07-19 06:20:21,1, ,Result:0
+2023-07-19 06:20:23,1, ,Added A|&r|&c|&h|&i|&v|&e|&r|& - C:\KB4\Varsim\DataDir\MainTests\24\1207088805.cxp
+2023-07-19 06:20:23,1, ,Added B|&l|&a|&c|&k|&K|&i|&n|&g|&d|&o|&m|&V|&a|&r|&i|&a|&n|&t|& - C:\KB4\Varsim\DataDir\MainTests\23\792344728.cxp
+2023-07-19 06:20:23,1, ,Added C|&o|&l|&l|&a|&b|&o|&r|&a|&t|&o|&r|& - C:\KB4\Varsim\DataDir\MainTests\22\652957965.cxp
+2023-07-19 06:20:23,1, ,Added C|&r|&i|&t|&r|&o|&n|&i|&V|&a|&r|&i|&a|&n|&t|& - C:\KB4\Varsim\DataDir\MainTests\21\833151759.cxp
+2023-07-19 06:20:23,1, ,Result:4
+2023-07-19 06:20:24,1, ,Result:4
+2023-07-19 06:20:25,1, ,Result:4
+2023-07-19 06:20:26,1, ,Result:4
+2023-07-19 06:20:27,1, ,Result:4
+2023-07-19 06:20:29,1, ,Added D|&e|&a|&r|&C|&r|&y|&V|&a|&r|&i|&a|&n|&t|& - C:\KB4\Varsim\DataDir\MainTests\20\1374447230.cxp
+2023-07-19 06:20:29,1, ,Added H|&o|&l|&l|&o|&w|&I|&n|&j|&e|&c|&t|&o|&r|& - C:\KB4\Varsim\DataDir\MainTests\19\708476561.cxp
+2023-07-19 06:20:29,1, ,Result:6
+2023-07-19 06:20:30,1, ,Added I|&n|&j|&e|&c|&t|&o|&r|& - C:\KB4\Varsim\DataDir\MainTests\18\1847736095.cxp
+2023-07-19 06:20:30,1, ,Result:7
+2023-07-19 06:20:31,1, ,Result:7
+2023-07-19 06:20:32,1, ,Added I|&n|&s|&i|&d|&e|&C|&r|&y|&p|&t|&o|&r|& - C:\KB4\Varsim\DataDir\MainTests\17\509357967.cxp
+2023-07-19 06:20:32,1, ,Added L|&o|&c|&k|&y|&V|&a|&r|&i|&a|&n|&t|& - C:\KB4\Varsim\DataDir\MainTests\16\1370625065.cxp
+2023-07-19 06:20:32,1, ,Result:9
+2023-07-19 06:20:34,1, ,Result:9
+2023-07-19 06:20:35,1, ,Added M|&a|&z|&e|&V|&a|&r|&i|&a|&n|&t|& - C:\KB4\Varsim\DataDir\MainTests\15\179914448.cxp
+2023-07-19 06:20:35,1, ,Result:10
+2023-07-19 06:20:36,1, ,Added M|&o|&v|&e|&r|& - C:\KB4\Varsim\DataDir\MainTests\14\286822354.cxp
+2023-07-19 06:20:36,1, ,Result:11
+2023-07-19 06:20:38,1, ,Result:11
+2023-07-19 06:20:39,1, ,Added P|&a|&y|&m|&e|&r|&V|&a|&r|&i|&a|&n|&t|& - C:\KB4\Varsim\DataDir\MainTests\13\696151262.cxp
+2023-07-19 06:20:39,1, ,Result:12
+2023-07-19 06:20:40,1, ,Added R|&e|&f|&l|&e|&c|&t|&i|&v|&e|&I|&n|&j|&e|&c|&t|&o|&r|& - C:\KB4\Varsim\DataDir\MainTests\12\25963131.cxp
+2023-07-19 06:20:40,1, ,Result:13
+2023-07-19 06:20:41,1, ,Added R|&e|&m|&o|&v|&e|&r|& - C:\KB4\Varsim\DataDir\MainTests\11\601848792.cxp
+2023-07-19 06:20:41,1, ,Result:14
+2023-07-19 06:20:42,1, ,Added R|&e|&p|&l|&a|&c|&e|&r|& - C:\KB4\Varsim\DataDir\MainTests\10\98320586.cxp
+2023-07-19 06:20:42,1, ,Result:15
+2023-07-19 06:20:44,1, ,Added R|&i|&g|&S|&i|&m|&u|&l|&a|&t|&o|&r|& - C:\KB4\Varsim\DataDir\MainTests\9\2020519648.cxp
+2023-07-19 06:20:44,1, ,Added R|&I|&P|&l|&a|&c|&e|&r|& - C:\KB4\Varsim\DataDir\MainTests\8\1784454736.cxp
+2023-07-19 06:20:44,1, ,Result:17
+2023-07-19 06:20:45,1, ,Result:17
+2023-07-19 06:20:46,1, ,Added S|&l|&o|&w|&C|&r|&y|&p|&t|&o|&r|& - C:\KB4\Varsim\DataDir\MainTests\7\1218563011.cxp
+2023-07-19 06:20:46,1, ,Added S|&t|&r|&e|&a|&m|&e|&r|& - C:\KB4\Varsim\DataDir\MainTests\6\692158661.cxp
+2023-07-19 06:20:46,1, ,Result:19
+2023-07-19 06:20:47,1, ,Result:19
+2023-07-19 06:20:48,1, ,Result:19
+2023-07-19 06:20:50,1, ,Added S|&t|&r|&o|&n|&g|&C|&r|&y|&p|&t|&o|&r|& - C:\KB4\Varsim\DataDir\MainTests\5\111079431.cxp
+2023-07-19 06:20:50,1, ,Added S|&t|&r|&o|&n|&g|&C|&r|&y|&p|&t|&o|&r|&F|&a|&s|&t|& - C:\KB4\Varsim\DataDir\MainTests\4\1611646424.cxp
+2023-07-19 06:20:50,1, ,Result:21
+2023-07-19 06:20:52,1, ,Result:21
+2023-07-19 06:20:53,1, ,Added S|&t|&r|&o|&n|&g|&C|&r|&y|&p|&t|&o|&r|&N|&e|&t|& - C:\KB4\Varsim\DataDir\MainTests\3\515859295.cxp
+2023-07-19 06:20:53,1, ,Result:22
+2023-07-19 06:20:54,1, ,Added T|&h|&o|&r|&V|&a|&r|&i|&a|&n|&t|& - C:\KB4\Varsim\DataDir\MainTests\2\1683210901.cxp
+2023-07-19 06:20:54,1, ,Result:23
+2023-07-19 06:20:55,1, ,Added V|&i|&r|&l|&o|&c|&k|&V|&a|&r|&i|&a|&n|&t|& - C:\KB4\Varsim\DataDir\MainTests\1\2073474339.cxp
+2023-07-19 06:20:55,1, ,Result:24
+2023-07-19 06:20:56,1, ,Result:24
+2023-07-19 06:20:57,1, ,Added W|&e|&a|&k|&C|&r|&y|&p|&t|&o|&r|& - C:\KB4\Varsim\DataDir\MainTests\0\1883310814.cxp
+2023-07-19 06:20:57,1, ,Result:25
+2023-07-19 06:20:57,1, ,started:True
+2023-07-19 06:20:57,1, ,P done for 696151262
+2023-07-19 06:20:57,1, ,C:\KB4\Varsim\DataDir\MainTests\8\1784454736.cxp has progress -1; res file C:\KB4\Varsim\DataDir\MainTests\8\datart.csv, cnt 25
+2023-07-19 06:20:57,1, ,Current progress is 4
+2023-07-19 06:20:59,1, ,P done for 696151262
+2023-07-19 06:20:59,1, ,Current progress is 4
+2023-07-19 06:21:00,1, ,P done for 696151262
+2023-07-19 06:21:00,1, ,Current progress is 4
+2023-07-19 06:21:01,1, ,P done for 696151262
+2023-07-19 06:21:01,1, ,Current progress is 4
+2023-07-19 06:21:02,1, ,P done for 696151262
+2023-07-19 06:21:02,1, ,Current progress is 4
+2023-07-19 06:21:03,1, ,P done for 696151262
+2023-07-19 06:21:03,1, ,Current progress is 4
+2023-07-19 06:21:04,1, ,P done for 696151262
+2023-07-19 06:21:04,1, ,Current progress is 4
+2023-07-19 06:21:05,1,,Reading file pb: C:\KB4\Varsim\DataDir\MainTests\16\datart.csv, The process cannot access the file 'C:\KB4\Varsim\DataDir\MainTests\16\datart.csv' because it is being used by another process.
+2023-07-19 06:21:06,1, ,P done for 696151262
+2023-07-19 06:21:06,1, ,Current progress is 4
+2023-07-19 06:21:07,1, ,P done for 696151262
+2023-07-19 06:21:07,1, ,Current progress is 4
+2023-07-19 06:21:08,1, ,P done for 696151262
+2023-07-19 06:21:08,1, ,Current progress is 4
+2023-07-19 06:21:09,1, ,P done for 696151262
+2023-07-19 06:21:09,1, ,Current progress is 4
+2023-07-19 06:21:10,1, ,P done for 696151262
+2023-07-19 06:21:10,1, ,Current progress is 4
+2023-07-19 06:21:11,1, ,P done for 696151262
+2023-07-19 06:21:11,1, ,Current progress is 4
+2023-07-19 06:21:12,1, ,P done for 696151262
+2023-07-19 06:21:13,1, ,Current progress is 4
+2023-07-19 06:21:13,1, ,P done for 696151262
+2023-07-19 06:21:13,1, ,Current progress is 4
+2023-07-19 06:21:14,1, ,C:\KB4\Varsim\DataDir\MainTests\23\792344728.cxp has progress 100; res file C:\KB4\Varsim\DataDir\MainTests\23\datart.csv, cnt 25
+2023-07-19 06:21:14,1, ,P done for 696151262
+2023-07-19 06:21:15,1, ,Current progress is 8
+2023-07-19 06:21:15,1, ,P done for 696151262
+2023-07-19 06:21:15,1, ,Current progress is 8
+2023-07-19 06:21:16,1, ,P done for 696151262
+2023-07-19 06:21:16,1, ,Current progress is 8
+2023-07-19 06:21:17,1, ,P done for 696151262
+2023-07-19 06:21:17,1, ,Current progress is 8
+2023-07-19 06:21:18,1, ,P done for 696151262
+2023-07-19 06:21:18,1, ,Current progress is 8
+2023-07-19 06:21:19,1, ,P done for 696151262
+2023-07-19 06:21:19,1, ,Current progress is 8
+2023-07-19 06:21:20,1, ,P done for 696151262
+2023-07-19 06:21:20,1, ,Current progress is 8
+2023-07-19 06:21:21,1, ,C:\KB4\Varsim\DataDir\MainTests\20\1374447230.cxp has progress 100; res file C:\KB4\Varsim\DataDir\MainTests\20\datart.csv, cnt 25
+2023-07-19 06:21:21,1, ,P done for 696151262
+2023-07-19 06:21:21,1, ,Current progress is 12
+2023-07-19 06:21:21,1, ,P done for 696151262
+2023-07-19 06:21:21,1, ,Current progress is 12
+2023-07-19 06:21:22,1, ,P done for 696151262
+2023-07-19 06:21:22,1, ,Current progress is 12
+2023-07-19 06:21:23,1, ,P done for 696151262
+2023-07-19 06:21:23,1, ,Current progress is 12
+2023-07-19 06:21:24,1, ,P done for 1370625065
+2023-07-19 06:21:24,1, ,P done for 696151262
+2023-07-19 06:21:24,1, ,Current progress is 12
+2023-07-19 06:21:25,1, ,P done for 1370625065
+2023-07-19 06:21:25,1, ,P done for 696151262
+2023-07-19 06:21:25,1, ,Current progress is 12
+2023-07-19 06:21:26,1, ,P done for 1370625065
+2023-07-19 06:21:26,1, ,P done for 696151262
+2023-07-19 06:21:26,1, ,Current progress is 12
+2023-07-19 06:21:27,1, ,C:\KB4\Varsim\DataDir\MainTests\21\833151759.cxp has progress 100; res file C:\KB4\Varsim\DataDir\MainTests\21\datart.csv, cnt 25
+2023-07-19 06:21:27,1, ,P done for 1370625065
+2023-07-19 06:21:27,1, ,P done for 696151262
+2023-07-19 06:21:27,1, ,Current progress is 16
+2023-07-19 06:21:27,1, ,P done for 1370625065
+2023-07-19 06:21:27,1, ,P done for 696151262
+2023-07-19 06:21:27,1, ,Current progress is 16
+2023-07-19 06:21:28,1, ,P done for 1370625065
+2023-07-19 06:21:28,1, ,P done for 696151262
+2023-07-19 06:21:28,1, ,Current progress is 16
+2023-07-19 06:21:29,1, ,P done for 1370625065
+2023-07-19 06:21:29,1, ,C:\KB4\Varsim\DataDir\MainTests\15\179914448.cxp has progress 100; res file C:\KB4\Varsim\DataDir\MainTests\15\datart.csv, cnt 25
+2023-07-19 06:21:29,1, ,P done for 696151262
+2023-07-19 06:21:29,1, ,Current progress is 20
+2023-07-19 06:21:30,1, ,C:\KB4\Varsim\DataDir\MainTests\24\1207088805.cxp has progress 100; res file C:\KB4\Varsim\DataDir\MainTests\24\datart.csv, cnt 25
+2023-07-19 06:21:30,1, ,P done for 1370625065
+2023-07-19 06:21:30,1, ,P done for 696151262
+2023-07-19 06:21:30,1, ,Current progress is 24
+2023-07-19 06:21:31,1, ,P done for 1847736095
+2023-07-19 06:21:31,1, ,P done for 1370625065
+2023-07-19 06:21:31,1, ,P done for 696151262
+2023-07-19 06:21:31,1, ,Current progress is 24
+2023-07-19 06:21:32,1, ,P done for 1847736095
+2023-07-19 06:21:32,1, ,P done for 1370625065
+2023-07-19 06:21:32,1, ,P done for 696151262
+2023-07-19 06:21:32,1, ,C:\KB4\Varsim\DataDir\MainTests\11\601848792.cxp has progress 100; res file C:\KB4\Varsim\DataDir\MainTests\11\datart.csv, cnt 25
+2023-07-19 06:21:32,1, ,Current progress is 28
+2023-07-19 06:21:33,1, ,P done for 708476561
+2023-07-19 06:21:33,1, ,P done for 1847736095
+2023-07-19 06:21:33,1, ,P done for 1370625065
+2023-07-19 06:21:33,1, ,P done for 696151262
+2023-07-19 06:21:33,1, ,Current progress is 28
+2023-07-19 06:21:34,1, ,P done for 708476561
+2023-07-19 06:21:34,1, ,P done for 1847736095
+2023-07-19 06:21:34,1, ,C:\KB4\Varsim\DataDir\MainTests\17\509357967.cxp has progress 100; res file C:\KB4\Varsim\DataDir\MainTests\17\datart.csv, cnt 25
+2023-07-19 06:21:34,1, ,P done for 1370625065
+2023-07-19 06:21:34,1, ,P done for 696151262
+2023-07-19 06:21:34,1, ,C:\KB4\Varsim\DataDir\MainTests\12\25963131.cxp has progress 100; res file C:\KB4\Varsim\DataDir\MainTests\12\datart.csv, cnt 25
+2023-07-19 06:21:34,1, ,Current progress is 36
+2023-07-19 06:21:35,1, ,P done for 708476561
+2023-07-19 06:21:35,1, ,P done for 1847736095
+2023-07-19 06:21:35,1, ,P done for 1370625065
+2023-07-19 06:21:35,1, ,P done for 696151262
+2023-07-19 06:21:35,1, ,Current progress is 36
+2023-07-19 06:21:35,1, ,P done for 708476561
+2023-07-19 06:21:35,1, ,P done for 1847736095
+2023-07-19 06:21:35,1, ,P done for 1370625065
+2023-07-19 06:21:35,1, ,P done for 696151262
+2023-07-19 06:21:35,1, ,Current progress is 36
+2023-07-19 06:21:36,1, ,P done for 708476561
+2023-07-19 06:21:36,1, ,P done for 1847736095
+2023-07-19 06:21:36,1, ,P done for 1370625065
+2023-07-19 06:21:36,1, ,P done for 696151262
+2023-07-19 06:21:36,1, ,Current progress is 36
+2023-07-19 06:21:37,1, ,P done for 708476561
+2023-07-19 06:21:37,1, ,P done for 1847736095
+2023-07-19 06:21:37,1, ,P done for 1370625065
+2023-07-19 06:21:37,1, ,P done for 696151262
+2023-07-19 06:21:37,1, ,Current progress is 36
+2023-07-19 06:21:38,1, ,P done for 708476561
+2023-07-19 06:21:38,1, ,P done for 1847736095
+2023-07-19 06:21:38,1, ,P done for 1370625065
+2023-07-19 06:21:38,1, ,P done for 696151262
+2023-07-19 06:21:38,1, ,Current progress is 36
+2023-07-19 06:21:39,1, ,P done for 708476561
+2023-07-19 06:21:39,1, ,P done for 1847736095
+2023-07-19 06:21:39,1, ,P done for 1370625065
+2023-07-19 06:21:39,1, ,P done for 696151262
+2023-07-19 06:21:39,1, ,C:\KB4\Varsim\DataDir\MainTests\5\111079431.cxp has progress 100; res file C:\KB4\Varsim\DataDir\MainTests\5\datart.csv, cnt 25
+2023-07-19 06:21:39,1, ,Current progress is 40
+2023-07-19 06:21:40,1, ,P done for 708476561
+2023-07-19 06:21:40,1, ,P done for 1847736095
+2023-07-19 06:21:40,1, ,P done for 1370625065
+2023-07-19 06:21:40,1, ,P done for 696151262
+2023-07-19 06:21:40,1, ,Current progress is 40
+2023-07-19 06:21:40,1, ,P done for 708476561
+2023-07-19 06:21:40,1, ,P done for 1847736095
+2023-07-19 06:21:40,1, ,P done for 1370625065
+2023-07-19 06:21:40,1, ,P done for 696151262
+2023-07-19 06:21:40,1, ,C:\KB4\Varsim\DataDir\MainTests\10\98320586.cxp has progress 100; res file C:\KB4\Varsim\DataDir\MainTests\10\datart.csv, cnt 25
+2023-07-19 06:21:40,1, ,Current progress is 44
+2023-07-19 06:21:41,1, ,P done for 708476561
+2023-07-19 06:21:41,1, ,P done for 1847736095
+2023-07-19 06:21:41,1, ,P done for 1370625065
+2023-07-19 06:21:41,1, ,P done for 696151262
+2023-07-19 06:21:41,1, ,Current progress is 44
+2023-07-19 06:21:42,1, ,P done for 708476561
+2023-07-19 06:21:42,1, ,P done for 1847736095
+2023-07-19 06:21:42,1, ,P done for 1370625065
+2023-07-19 06:21:42,1, ,P done for 696151262
+2023-07-19 06:21:42,1, ,Current progress is 44
+2023-07-19 06:21:43,1, ,P done for 708476561
+2023-07-19 06:21:43,1, ,P done for 1847736095
+2023-07-19 06:21:43,1, ,P done for 1370625065
+2023-07-19 06:21:43,1, ,P done for 696151262
+2023-07-19 06:21:43,1, ,Current progress is 44
+2023-07-19 06:21:44,1, ,P done for 708476561
+2023-07-19 06:21:44,1, ,P done for 1847736095
+2023-07-19 06:21:44,1, ,P done for 1370625065
+2023-07-19 06:21:44,1, ,C:\KB4\Varsim\DataDir\MainTests\14\286822354.cxp has progress 100; res file C:\KB4\Varsim\DataDir\MainTests\14\datart.csv, cnt 25
+2023-07-19 06:21:44,1, ,P done for 696151262
+2023-07-19 06:21:44,1, ,Current progress is 48
+2023-07-19 06:21:44,1, ,P done for 708476561
+2023-07-19 06:21:44,1, ,P done for 1847736095
+2023-07-19 06:21:44,1, ,P done for 1370625065
+2023-07-19 06:21:44,1, ,P done for 696151262
+2023-07-19 06:21:44,1, ,Current progress is 48
+2023-07-19 06:21:45,1, ,P done for 708476561
+2023-07-19 06:21:45,1, ,P done for 1847736095
+2023-07-19 06:21:45,1, ,P done for 1370625065
+2023-07-19 06:21:45,1, ,P done for 696151262
+2023-07-19 06:21:45,1, ,Current progress is 48
+2023-07-19 06:21:46,1, ,P done for 708476561
+2023-07-19 06:21:46,1, ,P done for 1847736095
+2023-07-19 06:21:46,1, ,P done for 1370625065
+2023-07-19 06:21:46,1, ,P done for 696151262
+2023-07-19 06:21:46,1, ,Current progress is 48
+2023-07-19 06:21:47,1, ,P done for 708476561
+2023-07-19 06:21:47,1, ,P done for 1847736095
+2023-07-19 06:21:47,1, ,P done for 1370625065
+2023-07-19 06:21:47,1, ,P done for 696151262
+2023-07-19 06:21:47,1, ,C:\KB4\Varsim\DataDir\MainTests\9\2020519648.cxp has progress 100; res file C:\KB4\Varsim\DataDir\MainTests\9\datart.csv, cnt 25
+2023-07-19 06:21:47,1, ,Current progress is 52
+2023-07-19 06:21:47,1, ,P done for 708476561
+2023-07-19 06:21:47,1, ,P done for 1847736095
+2023-07-19 06:21:47,1, ,P done for 1370625065
+2023-07-19 06:21:47,1, ,P done for 696151262
+2023-07-19 06:21:47,1, ,Current progress is 52
+2023-07-19 06:21:48,1, ,P done for 708476561
+2023-07-19 06:21:48,1, ,P done for 1847736095
+2023-07-19 06:21:48,1, ,P done for 1370625065
+2023-07-19 06:21:48,1, ,P done for 696151262
+2023-07-19 06:21:48,1, ,C:\KB4\Varsim\DataDir\MainTests\1\2073474339.cxp has progress 100; res file C:\KB4\Varsim\DataDir\MainTests\1\datart.csv, cnt 25
+2023-07-19 06:21:48,1, ,Current progress is 56
+2023-07-19 06:21:49,1, ,P done for 708476561
+2023-07-19 06:21:49,1, ,P done for 1847736095
+2023-07-19 06:21:49,1, ,P done for 1370625065
+2023-07-19 06:21:49,1, ,P done for 696151262
+2023-07-19 06:21:49,1, ,C:\KB4\Varsim\DataDir\MainTests\4\1611646424.cxp has progress 100; res file C:\KB4\Varsim\DataDir\MainTests\4\datart.csv, cnt 25
+2023-07-19 06:21:49,1, ,C:\KB4\Varsim\DataDir\MainTests\3\515859295.cxp has progress 100; res file C:\KB4\Varsim\DataDir\MainTests\3\datart.csv, cnt 25
+2023-07-19 06:21:49,1, ,Current progress is 64
+2023-07-19 06:21:50,1, ,P done for 708476561
+2023-07-19 06:21:50,1, ,P done for 1847736095
+2023-07-19 06:21:50,1, ,P done for 1370625065
+2023-07-19 06:21:50,1, ,P done for 696151262
+2023-07-19 06:21:50,1, ,C:\KB4\Varsim\DataDir\MainTests\2\1683210901.cxp has progress 100; res file C:\KB4\Varsim\DataDir\MainTests\2\datart.csv, cnt 25
+2023-07-19 06:21:50,1, ,Current progress is 68
+2023-07-19 06:21:50,1, ,P done for 708476561
+2023-07-19 06:21:50,1, ,P done for 1847736095
+2023-07-19 06:21:50,1, ,P done for 1370625065
+2023-07-19 06:21:50,1, ,P done for 696151262
+2023-07-19 06:21:50,1, ,Current progress is 68
+2023-07-19 06:21:51,1, ,P done for 708476561
+2023-07-19 06:21:51,1, ,P done for 1847736095
+2023-07-19 06:21:51,1, ,P done for 1370625065
+2023-07-19 06:21:51,1, ,P done for 696151262
+2023-07-19 06:21:51,1, ,Current progress is 68
+2023-07-19 06:21:52,1, ,P done for 708476561
+2023-07-19 06:21:52,1, ,P done for 1847736095
+2023-07-19 06:21:52,1, ,P done for 1370625065
+2023-07-19 06:21:52,1, ,P done for 696151262
+2023-07-19 06:21:52,1, ,Current progress is 68
+2023-07-19 06:21:53,1, ,P done for 708476561
+2023-07-19 06:21:53,1, ,P done for 1847736095
+2023-07-19 06:21:53,1, ,P done for 1370625065
+2023-07-19 06:21:53,1, ,P done for 696151262
+2023-07-19 06:21:53,1, ,C:\KB4\Varsim\DataDir\MainTests\6\692158661.cxp has progress 100; res file C:\KB4\Varsim\DataDir\MainTests\6\datart.csv, cnt 25
+2023-07-19 06:21:53,1, ,C:\KB4\Varsim\DataDir\MainTests\0\1883310814.cxp has progress 100; res file C:\KB4\Varsim\DataDir\MainTests\0\datart.csv, cnt 25
+2023-07-19 06:21:53,1, ,Current progress is 76
+2023-07-19 06:21:53,1, ,P done for 708476561
+2023-07-19 06:21:53,1, ,P done for 1847736095
+2023-07-19 06:21:53,1, ,P done for 1370625065
+2023-07-19 06:21:53,1, ,P done for 696151262
+2023-07-19 06:21:53,1, ,Current progress is 76
+2023-07-19 06:21:54,1, ,P done for 708476561
+2023-07-19 06:21:54,1, ,P done for 1847736095
+2023-07-19 06:21:54,1, ,P done for 1370625065
+2023-07-19 06:21:54,1, ,P done for 696151262
+2023-07-19 06:21:54,1, ,Current progress is 76
+2023-07-19 06:21:55,1, ,P done for 708476561
+2023-07-19 06:21:55,1, ,P done for 1847736095
+2023-07-19 06:21:55,1, ,P done for 1370625065
+2023-07-19 06:21:55,1, ,P done for 696151262
+2023-07-19 06:21:55,1, ,Current progress is 76
+2023-07-19 06:21:56,1, ,P done for 708476561
+2023-07-19 06:21:56,1, ,P done for 1847736095
+2023-07-19 06:21:56,1, ,P done for 1370625065
+2023-07-19 06:21:56,1, ,P done for 696151262
+2023-07-19 06:21:56,1, ,Current progress is 76
+2023-07-19 06:21:56,1, ,P done for 708476561
+2023-07-19 06:21:56,1, ,P done for 1847736095
+2023-07-19 06:21:56,1, ,P done for 1370625065
+2023-07-19 06:21:56,1, ,P done for 696151262
+2023-07-19 06:21:56,1, ,Current progress is 76
+2023-07-19 06:21:57,1, ,P done for 708476561
+2023-07-19 06:21:57,1, ,P done for 1847736095
+2023-07-19 06:21:57,1, ,P done for 1370625065
+2023-07-19 06:21:57,1, ,P done for 696151262
+2023-07-19 06:21:57,1, ,Current progress is 76
+2023-07-19 06:21:58,1, ,P done for 708476561
+2023-07-19 06:21:58,1, ,P done for 1847736095
+2023-07-19 06:21:58,1, ,P done for 1370625065
+2023-07-19 06:21:58,1, ,P done for 696151262
+2023-07-19 06:21:58,1, ,Current progress is 76
+2023-07-19 06:21:59,1, ,P done for 708476561
+2023-07-19 06:21:59,1, ,P done for 1847736095
+2023-07-19 06:21:59,1, ,P done for 1370625065
+2023-07-19 06:21:59,1, ,C:\KB4\Varsim\DataDir\MainTests\16\1370625065.cxp did not finish in time
+2023-07-19 06:21:59,1, ,P done for 696151262
+2023-07-19 06:21:59,1, ,Current progress is 80
+2023-07-19 06:21:59,1, ,P done for 708476561
+2023-07-19 06:21:59,1, ,P done for 1847736095
+2023-07-19 06:21:59,1, ,P done for 696151262
+2023-07-19 06:21:59,1, ,Current progress is 80
+2023-07-19 06:22:00,1, ,P done for 708476561
+2023-07-19 06:22:00,1, ,P done for 1847736095
+2023-07-19 06:22:00,1, ,P done for 696151262
+2023-07-19 06:22:00,1, ,Current progress is 80
+2023-07-19 06:22:01,1, ,P done for 708476561
+2023-07-19 06:22:01,1, ,P done for 1847736095
+2023-07-19 06:22:01,1, ,P done for 696151262
+2023-07-19 06:22:01,1, ,Current progress is 80
+2023-07-19 06:22:01,1, ,P done for 708476561
+2023-07-19 06:22:01,1, ,P done for 1847736095
+2023-07-19 06:22:01,1, ,P done for 696151262
+2023-07-19 06:22:01,1, ,Current progress is 80
+2023-07-19 06:22:02,1, ,P done for 708476561
+2023-07-19 06:22:02,1, ,P done for 1847736095
+2023-07-19 06:22:02,1, ,P done for 696151262
+2023-07-19 06:22:02,1, ,Current progress is 80
+2023-07-19 06:22:03,1, ,P done for 708476561
+2023-07-19 06:22:03,1, ,P done for 1847736095
+2023-07-19 06:22:03,1, ,P done for 696151262
+2023-07-19 06:22:03,1, ,C:\KB4\Varsim\DataDir\MainTests\7\1218563011.cxp has progress 100; res file C:\KB4\Varsim\DataDir\MainTests\7\datart.csv, cnt 25
+2023-07-19 06:22:03,1, ,Current progress is 84
+2023-07-19 06:22:04,1, ,P done for 708476561
+2023-07-19 06:22:04,1, ,P done for 1847736095
+2023-07-19 06:22:04,1, ,P done for 696151262
+2023-07-19 06:22:04,1, ,Current progress is 84
+2023-07-19 06:22:04,1, ,C:\KB4\Varsim\DataDir\MainTests\22\652957965.cxp has progress 100; res file C:\KB4\Varsim\DataDir\MainTests\22\datart.csv, cnt 25
+2023-07-19 06:22:04,1, ,P done for 708476561
+2023-07-19 06:22:04,1, ,P done for 1847736095
+2023-07-19 06:22:04,1, ,P done for 696151262
+2023-07-19 06:22:04,1, ,Current progress is 88
+2023-07-19 06:22:05,1, ,P done for 708476561
+2023-07-19 06:22:05,1, ,P done for 1847736095
+2023-07-19 06:22:05,1, ,P done for 696151262
+2023-07-19 06:22:05,1, ,Current progress is 88
+2023-07-19 06:22:06,1, ,P done for 708476561
+2023-07-19 06:22:06,1, ,P done for 1847736095
+2023-07-19 06:22:06,1, ,C:\KB4\Varsim\DataDir\MainTests\18\1847736095.cxp did not finish in time
+2023-07-19 06:22:06,1, ,P done for 696151262
+2023-07-19 06:22:06,1, ,Current progress is 92
+2023-07-19 06:22:07,1, ,P done for 708476561
+2023-07-19 06:22:07,1, ,P done for 696151262
+2023-07-19 06:22:07,1, ,Current progress is 92
+2023-07-19 06:22:07,1, ,P done for 708476561
+2023-07-19 06:22:07,1, ,C:\KB4\Varsim\DataDir\MainTests\19\708476561.cxp did not finish in time
+2023-07-19 06:22:07,1, ,P done for 696151262
+2023-07-19 06:22:07,1, ,Current progress is 96
+2023-07-19 06:22:08,1, ,P done for 696151262
+2023-07-19 06:22:08,1, ,Current progress is 96
+2023-07-19 06:22:09,1, ,P done for 696151262
+2023-07-19 06:22:09,1, ,Current progress is 96
+2023-07-19 06:22:10,1, ,P done for 696151262
+2023-07-19 06:22:10,1, ,Current progress is 96
+2023-07-19 06:22:10,1, ,P done for 696151262
+2023-07-19 06:22:10,1, ,Current progress is 96
+2023-07-19 06:22:11,1, ,P done for 696151262
+2023-07-19 06:22:11,1, ,Current progress is 96
+2023-07-19 06:22:12,1, ,P done for 696151262
+2023-07-19 06:22:12,1, ,Current progress is 96
+2023-07-19 06:22:13,1, ,P done for 696151262
+2023-07-19 06:22:13,1, ,Current progress is 96
+2023-07-19 06:22:13,1, ,P done for 696151262
+2023-07-19 06:22:13,1, ,Current progress is 96
+2023-07-19 06:22:14,1, ,P done for 696151262
+2023-07-19 06:22:14,1, ,C:\KB4\Varsim\DataDir\MainTests\13\696151262.cxp did not finish in time
+2023-07-19 06:22:14,1, ,Progress is complete for 25 tests
+2023-07-19 06:22:14,1, ,Current progress is 100

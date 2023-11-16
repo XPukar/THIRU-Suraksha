@@ -1,0 +1,1800 @@
+2023-11-16 09:51:26,1,Info,Found Ranstart
+2023-11-16 09:51:26,1,Info,Found svchost
+2023-11-16 09:51:26,1,Info,Found svchost
+2023-11-16 09:51:26,1,Info,Found RuntimeBroker
+2023-11-16 09:51:26,1,Info,Found svchost
+2023-11-16 09:51:26,1,Info,Found svchost
+2023-11-16 09:51:26,1,Info,Found GoogleCrashHandler
+2023-11-16 09:51:26,1,Info,Found UltraViewer_Service
+2023-11-16 09:51:26,1,Info,Found svchost
+2023-11-16 09:51:26,1,Info,Found wlms
+2023-11-16 09:51:26,1,Info,Found svchost
+2023-11-16 09:51:26,1,Info,Found svchost
+2023-11-16 09:51:26,1,Info,Found svchost
+2023-11-16 09:51:26,1,Info,Found sihost
+2023-11-16 09:51:26,1,Info,Found csrss
+2023-11-16 09:51:26,1,Info,Found svchost
+2023-11-16 09:51:26,1,Info,Found svchost
+2023-11-16 09:51:26,1,Info,Found ismserv
+2023-11-16 09:51:26,1,Info,Found winlogon
+2023-11-16 09:51:26,1,Info,Found ctfmon
+2023-11-16 09:51:26,1,Info,Found svchost
+2023-11-16 09:51:26,1,Info,Found fontdrvhost
+2023-11-16 09:51:26,1,Info,Found svchost
+2023-11-16 09:51:26,1,Info,Found fontdrvhost
+2023-11-16 09:51:26,1,Info,Found ShellExperienceHost
+2023-11-16 09:51:26,1,Info,Found nssm
+2023-11-16 09:51:26,1,Info,Found svchost
+2023-11-16 09:51:26,1,Info,Found svchost
+2023-11-16 09:51:26,1,Info,Found RuntimeBroker
+2023-11-16 09:51:26,1,Info,Found conhost
+2023-11-16 09:51:26,1,Info,Found notepad
+2023-11-16 09:51:26,1,Info,Found NisSrv
+2023-11-16 09:51:26,1,Info,Found mmc
+2023-11-16 09:51:26,1,Info,Found svchost
+2023-11-16 09:51:26,1,Info,Found svchost
+2023-11-16 09:51:26,1,Info,Found SearchUI
+2023-11-16 09:51:26,1,Info,Found LogonUI
+2023-11-16 09:51:26,1,Info,Found svchost
+2023-11-16 09:51:26,1,Info,Found GoogleCrashHandler64
+2023-11-16 09:51:26,1,Info,Found svchost
+2023-11-16 09:51:26,1,Info,Found svchost
+2023-11-16 09:51:26,1,Info,Found MsMpEng
+2023-11-16 09:51:26,1,Info,Found svchost
+2023-11-16 09:51:26,1,Info,Found fontdrvhost
+2023-11-16 09:51:26,1,Info,Found RuntimeBroker
+2023-11-16 09:51:26,1,Info,Found svchost
+2023-11-16 09:51:26,1,Info,Found csrss
+2023-11-16 09:51:26,1,Info,Found svchost
+2023-11-16 09:51:26,1,Info,Found rdpclip
+2023-11-16 09:51:26,1,Info,Found csrss
+2023-11-16 09:51:26,1,Info,Found svchost
+2023-11-16 09:51:26,1,Info,Found svchost
+2023-11-16 09:51:26,1,Info,Found svchost
+2023-11-16 09:51:26,1,Info,Found svchost
+2023-11-16 09:51:26,1,Info,Found svchost
+2023-11-16 09:51:26,1,Info,Found smss
+2023-11-16 09:51:26,1,Info,Found svchost
+2023-11-16 09:51:26,1,Info,Found msdtc
+2023-11-16 09:51:26,1,Info,Found svchost
+2023-11-16 09:51:26,1,Info,Found svchost
+2023-11-16 09:51:26,1,Info,Found svchost
+2023-11-16 09:51:26,1,Info,Found dllhost
+2023-11-16 09:51:26,1,Info,Found dwm
+2023-11-16 09:51:26,1,Info,Found Taskmgr
+2023-11-16 09:51:26,1,Info,Found svchost
+2023-11-16 09:51:26,1,Info,Found svchost
+2023-11-16 09:51:26,1,Info,Found svchost
+2023-11-16 09:51:26,1,Info,Found fontdrvhost
+2023-11-16 09:51:26,1,Info,Found taskhostw
+2023-11-16 09:51:26,1,Info,Found RuntimeBroker
+2023-11-16 09:51:26,1,Info,Found dfsrs
+2023-11-16 09:51:26,1,Info,Found svchost
+2023-11-16 09:51:26,1,Info,Found backgroundTaskHost
+2023-11-16 09:51:26,1,Info,Found svchost
+2023-11-16 09:51:26,1,Info,Found rundll32
+2023-11-16 09:51:26,1,Info,Found svchost
+2023-11-16 09:51:26,1,Info,Found conhost
+2023-11-16 09:51:26,1,Info,Found svchost
+2023-11-16 09:51:26,1,Info,Found LockApp
+2023-11-16 09:51:26,1,Info,Found svchost
+2023-11-16 09:51:26,1,Info,Found dwm
+2023-11-16 09:51:26,1,Info,Found lsass
+2023-11-16 09:51:26,1,Info,Found svchost
+2023-11-16 09:51:26,1,Info,Found svchost
+2023-11-16 09:51:26,1,Info,Found ApplicationFrameHost
+2023-11-16 09:51:26,1,Info,Found svchost
+2023-11-16 09:51:26,1,Info,Found dfssvc
+2023-11-16 09:51:26,1,Info,Found RuntimeBroker
+2023-11-16 09:51:26,1,Info,Found svchost
+2023-11-16 09:51:26,1,Info,Found svchost
+2023-11-16 09:51:26,1,Info,Found services
+2023-11-16 09:51:26,1,Info,Found svchost
+2023-11-16 09:51:26,1,Info,Found svchost
+2023-11-16 09:51:26,1,Info,Found grafana-server
+2023-11-16 09:51:26,1,Info,Found svchost
+2023-11-16 09:51:26,1,Info,Found ShellExperienceHost
+2023-11-16 09:51:26,1,Info,Found dwm
+2023-11-16 09:51:26,1,Info,Found sihost
+2023-11-16 09:51:26,1,Info,Found svchost
+2023-11-16 09:51:26,1,Info,Found svchost
+2023-11-16 09:51:26,1,Info,Found explorer
+2023-11-16 09:51:26,1,Info,Found svchost
+2023-11-16 09:51:26,1,Info,Found spoolsv
+2023-11-16 09:51:26,1,Info,Found taskhostw
+2023-11-16 09:51:26,1,Info,Found Microsoft.ActiveDirectory.WebServices
+2023-11-16 09:51:26,1,Info,Found winlogon
+2023-11-16 09:51:26,1,Info,Found explorer
+2023-11-16 09:51:26,1,Info,Found svchost
+2023-11-16 09:51:26,1,Info,Found svchost
+2023-11-16 09:51:26,1,Info,Found svchost
+2023-11-16 09:51:26,1,Info,Found winlogon
+2023-11-16 09:51:26,1,Info,Found svchost
+2023-11-16 09:51:26,1,Info,Found LogonUI
+2023-11-16 09:51:26,1,Info,Found RuntimeBroker
+2023-11-16 09:51:26,1,Info,Found SecurityHealthService
+2023-11-16 09:51:26,1,Info,Found svchost
+2023-11-16 09:51:26,1,Info,Found svchost
+2023-11-16 09:51:26,1,Info,Found powershell_ise
+2023-11-16 09:51:26,1,Info,Found Registry
+2023-11-16 09:51:26,1,Info,Found SearchUI
+2023-11-16 09:51:26,1,Info,Found WUDFHost
+2023-11-16 09:51:26,1,Info,Found svchost
+2023-11-16 09:51:26,1,Info,Found svchost
+2023-11-16 09:51:26,1,Info,Found MusNotifyIcon
+2023-11-16 09:51:26,1,Info,Found RuntimeBroker
+2023-11-16 09:51:26,1,Info,Found svchost
+2023-11-16 09:51:26,1,Info,Found svchost
+2023-11-16 09:51:26,1,Info,Found svchost
+2023-11-16 09:51:26,1,Info,Found dns
+2023-11-16 09:51:26,1,Info,Found MySQLWorkbench
+2023-11-16 09:51:26,1,Info,Found svchost
+2023-11-16 09:51:26,1,Info,Found csrss
+2023-11-16 09:51:26,1,Info,Found ServerManager
+2023-11-16 09:51:26,1,Info,Found metricbeat
+2023-11-16 09:51:26,1,Info,Found wininit
+2023-11-16 09:51:26,1,Info,Found svchost
+2023-11-16 09:51:26,1,Info,Found svchost
+2023-11-16 09:51:26,1,Info,Found svchost
+2023-11-16 09:51:26,1,Info,Found svchost
+2023-11-16 09:51:26,1,Info,Found svchost
+2023-11-16 09:51:26,1,Info,Found svchost
+2023-11-16 09:51:26,1,Info,Found OfficeClickToRun
+2023-11-16 09:51:26,1,Info,Found svchost
+2023-11-16 09:51:26,1,Info,Found System
+2023-11-16 09:51:26,1,Info,Found Idle
+2023-11-16 09:51:26,1,Info,Found Ranstart
+2023-11-16 09:51:26,1,Info,Found svchost
+2023-11-16 09:51:26,1,Info,Found svchost
+2023-11-16 09:51:26,1,Info,Found RuntimeBroker
+2023-11-16 09:51:26,1,Info,Found svchost
+2023-11-16 09:51:26,1,Info,Found svchost
+2023-11-16 09:51:26,1,Info,Found GoogleCrashHandler
+2023-11-16 09:51:26,1,Info,Found UltraViewer_Service
+2023-11-16 09:51:26,1,Info,Found svchost
+2023-11-16 09:51:26,1,Info,Found wlms
+2023-11-16 09:51:26,1,Info,Found svchost
+2023-11-16 09:51:26,1,Info,Found svchost
+2023-11-16 09:51:26,1,Info,Found svchost
+2023-11-16 09:51:26,1,Info,Found sihost
+2023-11-16 09:51:26,1,Info,Found csrss
+2023-11-16 09:51:26,1,Info,Found svchost
+2023-11-16 09:51:26,1,Info,Found svchost
+2023-11-16 09:51:26,1,Info,Found ismserv
+2023-11-16 09:51:26,1,Info,Found winlogon
+2023-11-16 09:51:26,1,Info,Found ctfmon
+2023-11-16 09:51:26,1,Info,Found svchost
+2023-11-16 09:51:26,1,Info,Found fontdrvhost
+2023-11-16 09:51:26,1,Info,Found svchost
+2023-11-16 09:51:26,1,Info,Found fontdrvhost
+2023-11-16 09:51:26,1,Info,Found ShellExperienceHost
+2023-11-16 09:51:26,1,Info,Found nssm
+2023-11-16 09:51:26,1,Info,Found svchost
+2023-11-16 09:51:26,1,Info,Found svchost
+2023-11-16 09:51:26,1,Info,Found RuntimeBroker
+2023-11-16 09:51:26,1,Info,Found conhost
+2023-11-16 09:51:26,1,Info,Found notepad
+2023-11-16 09:51:26,1,Info,Found NisSrv
+2023-11-16 09:51:26,1,Info,Found mmc
+2023-11-16 09:51:26,1,Info,Found svchost
+2023-11-16 09:51:26,1,Info,Found svchost
+2023-11-16 09:51:26,1,Info,Found SearchUI
+2023-11-16 09:51:26,1,Info,Found LogonUI
+2023-11-16 09:51:26,1,Info,Found svchost
+2023-11-16 09:51:26,1,Info,Found GoogleCrashHandler64
+2023-11-16 09:51:26,1,Info,Found svchost
+2023-11-16 09:51:26,1,Info,Found svchost
+2023-11-16 09:51:26,1,Info,Found MsMpEng
+2023-11-16 09:51:26,1,Info,Found svchost
+2023-11-16 09:51:26,1,Info,Found fontdrvhost
+2023-11-16 09:51:26,1,Info,Found RuntimeBroker
+2023-11-16 09:51:26,1,Info,Found svchost
+2023-11-16 09:51:26,1,Info,Found csrss
+2023-11-16 09:51:26,1,Info,Found svchost
+2023-11-16 09:51:26,1,Info,Found rdpclip
+2023-11-16 09:51:26,1,Info,Found csrss
+2023-11-16 09:51:26,1,Info,Found svchost
+2023-11-16 09:51:26,1,Info,Found svchost
+2023-11-16 09:51:26,1,Info,Found svchost
+2023-11-16 09:51:26,1,Info,Found svchost
+2023-11-16 09:51:26,1,Info,Found svchost
+2023-11-16 09:51:26,1,Info,Found smss
+2023-11-16 09:51:26,1,Info,Found svchost
+2023-11-16 09:51:26,1,Info,Found msdtc
+2023-11-16 09:51:26,1,Info,Found svchost
+2023-11-16 09:51:26,1,Info,Found svchost
+2023-11-16 09:51:26,1,Info,Found svchost
+2023-11-16 09:51:26,1,Info,Found dllhost
+2023-11-16 09:51:26,1,Info,Found dwm
+2023-11-16 09:51:26,1,Info,Found Taskmgr
+2023-11-16 09:51:26,1,Info,Found svchost
+2023-11-16 09:51:26,1,Info,Found svchost
+2023-11-16 09:51:26,1,Info,Found svchost
+2023-11-16 09:51:26,1,Info,Found fontdrvhost
+2023-11-16 09:51:26,1,Info,Found taskhostw
+2023-11-16 09:51:26,1,Info,Found RuntimeBroker
+2023-11-16 09:51:26,1,Info,Found dfsrs
+2023-11-16 09:51:26,1,Info,Found svchost
+2023-11-16 09:51:26,1,Info,Found backgroundTaskHost
+2023-11-16 09:51:26,1,Info,Found svchost
+2023-11-16 09:51:26,1,Info,Found rundll32
+2023-11-16 09:51:26,1,Info,Found svchost
+2023-11-16 09:51:26,1,Info,Found conhost
+2023-11-16 09:51:26,1,Info,Found svchost
+2023-11-16 09:51:26,1,Info,Found LockApp
+2023-11-16 09:51:26,1,Info,Found svchost
+2023-11-16 09:51:26,1,Info,Found dwm
+2023-11-16 09:51:26,1,Info,Found lsass
+2023-11-16 09:51:26,1,Info,Found svchost
+2023-11-16 09:51:26,1,Info,Found svchost
+2023-11-16 09:51:26,1,Info,Found ApplicationFrameHost
+2023-11-16 09:51:26,1,Info,Found svchost
+2023-11-16 09:51:26,1,Info,Found dfssvc
+2023-11-16 09:51:26,1,Info,Found RuntimeBroker
+2023-11-16 09:51:26,1,Info,Found svchost
+2023-11-16 09:51:26,1,Info,Found svchost
+2023-11-16 09:51:26,1,Info,Found services
+2023-11-16 09:51:26,1,Info,Found svchost
+2023-11-16 09:51:26,1,Info,Found svchost
+2023-11-16 09:51:26,1,Info,Found grafana-server
+2023-11-16 09:51:26,1,Info,Found svchost
+2023-11-16 09:51:26,1,Info,Found ShellExperienceHost
+2023-11-16 09:51:26,1,Info,Found dwm
+2023-11-16 09:51:26,1,Info,Found sihost
+2023-11-16 09:51:26,1,Info,Found svchost
+2023-11-16 09:51:26,1,Info,Found svchost
+2023-11-16 09:51:26,1,Info,Found explorer
+2023-11-16 09:51:26,1,Info,Found svchost
+2023-11-16 09:51:26,1,Info,Found spoolsv
+2023-11-16 09:51:26,1,Info,Found taskhostw
+2023-11-16 09:51:26,1,Info,Found Microsoft.ActiveDirectory.WebServices
+2023-11-16 09:51:26,1,Info,Found winlogon
+2023-11-16 09:51:26,1,Info,Found explorer
+2023-11-16 09:51:26,1,Info,Found svchost
+2023-11-16 09:51:26,1,Info,Found svchost
+2023-11-16 09:51:26,1,Info,Found svchost
+2023-11-16 09:51:26,1,Info,Found winlogon
+2023-11-16 09:51:26,1,Info,Found svchost
+2023-11-16 09:51:26,1,Info,Found LogonUI
+2023-11-16 09:51:26,1,Info,Found RuntimeBroker
+2023-11-16 09:51:26,1,Info,Found SecurityHealthService
+2023-11-16 09:51:26,1,Info,Found svchost
+2023-11-16 09:51:26,1,Info,Found svchost
+2023-11-16 09:51:26,1,Info,Found powershell_ise
+2023-11-16 09:51:26,1,Info,Found Registry
+2023-11-16 09:51:26,1,Info,Found SearchUI
+2023-11-16 09:51:26,1,Info,Found WUDFHost
+2023-11-16 09:51:26,1,Info,Found svchost
+2023-11-16 09:51:26,1,Info,Found svchost
+2023-11-16 09:51:26,1,Info,Found MusNotifyIcon
+2023-11-16 09:51:26,1,Info,Found RuntimeBroker
+2023-11-16 09:51:26,1,Info,Found svchost
+2023-11-16 09:51:26,1,Info,Found svchost
+2023-11-16 09:51:26,1,Info,Found svchost
+2023-11-16 09:51:26,1,Info,Found dns
+2023-11-16 09:51:26,1,Info,Found MySQLWorkbench
+2023-11-16 09:51:26,1,Info,Found svchost
+2023-11-16 09:51:26,1,Info,Found csrss
+2023-11-16 09:51:26,1,Info,Found ServerManager
+2023-11-16 09:51:26,1,Info,Found metricbeat
+2023-11-16 09:51:26,1,Info,Found wininit
+2023-11-16 09:51:26,1,Info,Found svchost
+2023-11-16 09:51:26,1,Info,Found svchost
+2023-11-16 09:51:26,1,Info,Found svchost
+2023-11-16 09:51:26,1,Info,Found svchost
+2023-11-16 09:51:26,1,Info,Found svchost
+2023-11-16 09:51:26,1,Info,Found svchost
+2023-11-16 09:51:26,1,Info,Found OfficeClickToRun
+2023-11-16 09:51:26,1,Info,Found svchost
+2023-11-16 09:51:26,1,Info,Found System
+2023-11-16 09:51:26,1,Info,Found Idle
+2023-11-16 09:51:26,1,Info,Found Ranstart
+2023-11-16 09:51:26,1,Info,Found svchost
+2023-11-16 09:51:26,1,Info,Found svchost
+2023-11-16 09:51:26,1,Info,Found RuntimeBroker
+2023-11-16 09:51:26,1,Info,Found svchost
+2023-11-16 09:51:26,1,Info,Found svchost
+2023-11-16 09:51:26,1,Info,Found GoogleCrashHandler
+2023-11-16 09:51:26,1,Info,Found UltraViewer_Service
+2023-11-16 09:51:26,1,Info,Found svchost
+2023-11-16 09:51:26,1,Info,Found wlms
+2023-11-16 09:51:26,1,Info,Found svchost
+2023-11-16 09:51:26,1,Info,Found svchost
+2023-11-16 09:51:26,1,Info,Found svchost
+2023-11-16 09:51:26,1,Info,Found sihost
+2023-11-16 09:51:26,1,Info,Found csrss
+2023-11-16 09:51:26,1,Info,Found svchost
+2023-11-16 09:51:26,1,Info,Found svchost
+2023-11-16 09:51:26,1,Info,Found ismserv
+2023-11-16 09:51:26,1,Info,Found winlogon
+2023-11-16 09:51:26,1,Info,Found ctfmon
+2023-11-16 09:51:26,1,Info,Found svchost
+2023-11-16 09:51:26,1,Info,Found fontdrvhost
+2023-11-16 09:51:26,1,Info,Found svchost
+2023-11-16 09:51:26,1,Info,Found fontdrvhost
+2023-11-16 09:51:26,1,Info,Found ShellExperienceHost
+2023-11-16 09:51:26,1,Info,Found nssm
+2023-11-16 09:51:26,1,Info,Found svchost
+2023-11-16 09:51:26,1,Info,Found svchost
+2023-11-16 09:51:26,1,Info,Found RuntimeBroker
+2023-11-16 09:51:26,1,Info,Found conhost
+2023-11-16 09:51:26,1,Info,Found notepad
+2023-11-16 09:51:26,1,Info,Found NisSrv
+2023-11-16 09:51:26,1,Info,Found mmc
+2023-11-16 09:51:26,1,Info,Found svchost
+2023-11-16 09:51:26,1,Info,Found svchost
+2023-11-16 09:51:26,1,Info,Found SearchUI
+2023-11-16 09:51:26,1,Info,Found LogonUI
+2023-11-16 09:51:26,1,Info,Found svchost
+2023-11-16 09:51:26,1,Info,Found GoogleCrashHandler64
+2023-11-16 09:51:26,1,Info,Found svchost
+2023-11-16 09:51:26,1,Info,Found svchost
+2023-11-16 09:51:26,1,Info,Found MsMpEng
+2023-11-16 09:51:26,1,Info,Found svchost
+2023-11-16 09:51:26,1,Info,Found fontdrvhost
+2023-11-16 09:51:26,1,Info,Found RuntimeBroker
+2023-11-16 09:51:26,1,Info,Found svchost
+2023-11-16 09:51:26,1,Info,Found csrss
+2023-11-16 09:51:26,1,Info,Found svchost
+2023-11-16 09:51:26,1,Info,Found rdpclip
+2023-11-16 09:51:26,1,Info,Found csrss
+2023-11-16 09:51:26,1,Info,Found svchost
+2023-11-16 09:51:26,1,Info,Found svchost
+2023-11-16 09:51:26,1,Info,Found svchost
+2023-11-16 09:51:26,1,Info,Found svchost
+2023-11-16 09:51:26,1,Info,Found svchost
+2023-11-16 09:51:26,1,Info,Found smss
+2023-11-16 09:51:26,1,Info,Found svchost
+2023-11-16 09:51:26,1,Info,Found msdtc
+2023-11-16 09:51:26,1,Info,Found svchost
+2023-11-16 09:51:26,1,Info,Found svchost
+2023-11-16 09:51:26,1,Info,Found svchost
+2023-11-16 09:51:26,1,Info,Found dllhost
+2023-11-16 09:51:26,1,Info,Found dwm
+2023-11-16 09:51:26,1,Info,Found Taskmgr
+2023-11-16 09:51:26,1,Info,Found svchost
+2023-11-16 09:51:26,1,Info,Found svchost
+2023-11-16 09:51:26,1,Info,Found svchost
+2023-11-16 09:51:26,1,Info,Found fontdrvhost
+2023-11-16 09:51:26,1,Info,Found taskhostw
+2023-11-16 09:51:26,1,Info,Found RuntimeBroker
+2023-11-16 09:51:26,1,Info,Found dfsrs
+2023-11-16 09:51:26,1,Info,Found svchost
+2023-11-16 09:51:26,1,Info,Found backgroundTaskHost
+2023-11-16 09:51:26,1,Info,Found svchost
+2023-11-16 09:51:26,1,Info,Found rundll32
+2023-11-16 09:51:26,1,Info,Found svchost
+2023-11-16 09:51:26,1,Info,Found conhost
+2023-11-16 09:51:26,1,Info,Found svchost
+2023-11-16 09:51:26,1,Info,Found LockApp
+2023-11-16 09:51:26,1,Info,Found svchost
+2023-11-16 09:51:26,1,Info,Found dwm
+2023-11-16 09:51:26,1,Info,Found lsass
+2023-11-16 09:51:26,1,Info,Found svchost
+2023-11-16 09:51:26,1,Info,Found svchost
+2023-11-16 09:51:26,1,Info,Found ApplicationFrameHost
+2023-11-16 09:51:26,1,Info,Found svchost
+2023-11-16 09:51:26,1,Info,Found dfssvc
+2023-11-16 09:51:26,1,Info,Found RuntimeBroker
+2023-11-16 09:51:26,1,Info,Found svchost
+2023-11-16 09:51:26,1,Info,Found svchost
+2023-11-16 09:51:26,1,Info,Found services
+2023-11-16 09:51:26,1,Info,Found svchost
+2023-11-16 09:51:26,1,Info,Found svchost
+2023-11-16 09:51:26,1,Info,Found grafana-server
+2023-11-16 09:51:26,1,Info,Found svchost
+2023-11-16 09:51:26,1,Info,Found ShellExperienceHost
+2023-11-16 09:51:26,1,Info,Found dwm
+2023-11-16 09:51:26,1,Info,Found sihost
+2023-11-16 09:51:26,1,Info,Found svchost
+2023-11-16 09:51:26,1,Info,Found svchost
+2023-11-16 09:51:26,1,Info,Found explorer
+2023-11-16 09:51:26,1,Info,Found svchost
+2023-11-16 09:51:26,1,Info,Found spoolsv
+2023-11-16 09:51:26,1,Info,Found taskhostw
+2023-11-16 09:51:26,1,Info,Found Microsoft.ActiveDirectory.WebServices
+2023-11-16 09:51:26,1,Info,Found winlogon
+2023-11-16 09:51:26,1,Info,Found explorer
+2023-11-16 09:51:26,1,Info,Found svchost
+2023-11-16 09:51:26,1,Info,Found svchost
+2023-11-16 09:51:26,1,Info,Found svchost
+2023-11-16 09:51:26,1,Info,Found winlogon
+2023-11-16 09:51:26,1,Info,Found svchost
+2023-11-16 09:51:26,1,Info,Found LogonUI
+2023-11-16 09:51:26,1,Info,Found RuntimeBroker
+2023-11-16 09:51:26,1,Info,Found SecurityHealthService
+2023-11-16 09:51:26,1,Info,Found svchost
+2023-11-16 09:51:26,1,Info,Found svchost
+2023-11-16 09:51:26,1,Info,Found powershell_ise
+2023-11-16 09:51:26,1,Info,Found Registry
+2023-11-16 09:51:26,1,Info,Found SearchUI
+2023-11-16 09:51:26,1,Info,Found WUDFHost
+2023-11-16 09:51:26,1,Info,Found svchost
+2023-11-16 09:51:26,1,Info,Found svchost
+2023-11-16 09:51:26,1,Info,Found MusNotifyIcon
+2023-11-16 09:51:26,1,Info,Found RuntimeBroker
+2023-11-16 09:51:26,1,Info,Found svchost
+2023-11-16 09:51:26,1,Info,Found svchost
+2023-11-16 09:51:26,1,Info,Found svchost
+2023-11-16 09:51:26,1,Info,Found dns
+2023-11-16 09:51:26,1,Info,Found MySQLWorkbench
+2023-11-16 09:51:26,1,Info,Found svchost
+2023-11-16 09:51:26,1,Info,Found csrss
+2023-11-16 09:51:26,1,Info,Found ServerManager
+2023-11-16 09:51:26,1,Info,Found metricbeat
+2023-11-16 09:51:26,1,Info,Found wininit
+2023-11-16 09:51:26,1,Info,Found svchost
+2023-11-16 09:51:26,1,Info,Found svchost
+2023-11-16 09:51:26,1,Info,Found svchost
+2023-11-16 09:51:26,1,Info,Found svchost
+2023-11-16 09:51:26,1,Info,Found svchost
+2023-11-16 09:51:26,1,Info,Found svchost
+2023-11-16 09:51:26,1,Info,Found OfficeClickToRun
+2023-11-16 09:51:26,1,Info,Found svchost
+2023-11-16 09:51:26,1,Info,Found System
+2023-11-16 09:51:26,1,Info,Found Idle
+2023-11-16 09:51:26,1,Info,Launcher starting..
+2023-11-16 09:51:26,1,Info,Starting files statistics collector
+2023-11-16 09:51:26,3,Info,Status update for A|&r|&c|&h|&i|&v|&e|&r|& : Executing
+2023-11-16 09:51:26,3,Info,Status update for B|&l|&a|&c|&k|&K|&i|&n|&g|&d|&o|&m|&V|&a|&r|&i|&a|&n|&t|& : Executing
+2023-11-16 09:51:26,3,Info,Status update for C|&o|&l|&l|&a|&b|&o|&r|&a|&t|&o|&r|& : Executing
+2023-11-16 09:51:26,3,Info,Status update for C|&r|&i|&t|&r|&o|&n|&i|&V|&a|&r|&i|&a|&n|&t|& : Executing
+2023-11-16 09:51:26,3,Info,Status update for D|&e|&a|&r|&C|&r|&y|&V|&a|&r|&i|&a|&n|&t|& : Executing
+2023-11-16 09:51:26,3,Info,Status update for H|&o|&l|&l|&o|&w|&I|&n|&j|&e|&c|&t|&o|&r|& : Executing
+2023-11-16 09:51:26,3,Info,Status update for I|&n|&j|&e|&c|&t|&o|&r|& : Executing
+2023-11-16 09:51:26,3,Info,Status update for I|&n|&s|&i|&d|&e|&C|&r|&y|&p|&t|&o|&r|& : Executing
+2023-11-16 09:51:26,3,Info,Status update for L|&o|&c|&k|&y|&V|&a|&r|&i|&a|&n|&t|& : Executing
+2023-11-16 09:51:26,3,Info,Status update for M|&a|&z|&e|&V|&a|&r|&i|&a|&n|&t|& : Executing
+2023-11-16 09:51:26,3,Info,Status update for M|&o|&v|&e|&r|& : Executing
+2023-11-16 09:51:26,3,Info,Status update for P|&a|&y|&m|&e|&r|&V|&a|&r|&i|&a|&n|&t|& : Executing
+2023-11-16 09:51:26,3,Info,Status update for R|&e|&f|&l|&e|&c|&t|&i|&v|&e|&I|&n|&j|&e|&c|&t|&o|&r|& : Executing
+2023-11-16 09:51:26,3,Info,Status update for R|&e|&m|&o|&v|&e|&r|& : Executing
+2023-11-16 09:51:26,3,Info,Status update for R|&e|&p|&l|&a|&c|&e|&r|& : Executing
+2023-11-16 09:51:26,3,Info,Status update for R|&i|&g|&S|&i|&m|&u|&l|&a|&t|&o|&r|& : Executing
+2023-11-16 09:51:26,3,Info,Status update for R|&I|&P|&l|&a|&c|&e|&r|& : Executing
+2023-11-16 09:51:26,3,Info,Status update for S|&l|&o|&w|&C|&r|&y|&p|&t|&o|&r|& : Executing
+2023-11-16 09:51:26,3,Info,Status update for S|&t|&r|&e|&a|&m|&e|&r|& : Executing
+2023-11-16 09:51:26,3,Info,Status update for S|&t|&r|&o|&n|&g|&C|&r|&y|&p|&t|&o|&r|& : Executing
+2023-11-16 09:51:26,3,Info,Status update for S|&t|&r|&o|&n|&g|&C|&r|&y|&p|&t|&o|&r|&F|&a|&s|&t|& : Executing
+2023-11-16 09:51:26,3,Info,Status update for S|&t|&r|&o|&n|&g|&C|&r|&y|&p|&t|&o|&r|&N|&e|&t|& : Executing
+2023-11-16 09:51:26,3,Info,Status update for T|&h|&o|&r|&V|&a|&r|&i|&a|&n|&t|& : Executing
+2023-11-16 09:51:26,3,Info,Status update for V|&i|&r|&l|&o|&c|&k|&V|&a|&r|&i|&a|&n|&t|& : Executing
+2023-11-16 09:51:26,3,Info,Status update for W|&e|&a|&k|&C|&r|&y|&p|&t|&o|&r|& : Executing
+2023-11-16 09:51:26,3,Info,Global progress: 0
+2023-11-16 09:51:27,3,Info,Status update for A|&r|&c|&h|&i|&v|&e|&r|& : Executing
+2023-11-16 09:51:27,3,Info,Status update for B|&l|&a|&c|&k|&K|&i|&n|&g|&d|&o|&m|&V|&a|&r|&i|&a|&n|&t|& : Executing
+2023-11-16 09:51:27,3,Info,Status update for C|&o|&l|&l|&a|&b|&o|&r|&a|&t|&o|&r|& : Executing
+2023-11-16 09:51:27,3,Info,Status update for C|&r|&i|&t|&r|&o|&n|&i|&V|&a|&r|&i|&a|&n|&t|& : Executing
+2023-11-16 09:51:27,3,Info,Status update for D|&e|&a|&r|&C|&r|&y|&V|&a|&r|&i|&a|&n|&t|& : Executing
+2023-11-16 09:51:27,3,Info,Status update for H|&o|&l|&l|&o|&w|&I|&n|&j|&e|&c|&t|&o|&r|& : Executing
+2023-11-16 09:51:27,3,Info,Status update for I|&n|&j|&e|&c|&t|&o|&r|& : Executing
+2023-11-16 09:51:27,3,Info,Status update for I|&n|&s|&i|&d|&e|&C|&r|&y|&p|&t|&o|&r|& : Executing
+2023-11-16 09:51:27,3,Info,Status update for L|&o|&c|&k|&y|&V|&a|&r|&i|&a|&n|&t|& : Executing
+2023-11-16 09:51:27,3,Info,Status update for M|&a|&z|&e|&V|&a|&r|&i|&a|&n|&t|& : Executing
+2023-11-16 09:51:27,3,Info,Status update for M|&o|&v|&e|&r|& : Executing
+2023-11-16 09:51:27,3,Info,Status update for P|&a|&y|&m|&e|&r|&V|&a|&r|&i|&a|&n|&t|& : Executing
+2023-11-16 09:51:27,3,Info,Status update for R|&e|&f|&l|&e|&c|&t|&i|&v|&e|&I|&n|&j|&e|&c|&t|&o|&r|& : Executing
+2023-11-16 09:51:27,3,Info,Status update for R|&e|&m|&o|&v|&e|&r|& : Executing
+2023-11-16 09:51:27,3,Info,Status update for R|&e|&p|&l|&a|&c|&e|&r|& : Executing
+2023-11-16 09:51:27,3,Info,Status update for R|&i|&g|&S|&i|&m|&u|&l|&a|&t|&o|&r|& : Executing
+2023-11-16 09:51:27,3,Info,Status update for R|&I|&P|&l|&a|&c|&e|&r|& : Executing
+2023-11-16 09:51:27,3,Info,Status update for S|&l|&o|&w|&C|&r|&y|&p|&t|&o|&r|& : Executing
+2023-11-16 09:51:27,3,Info,Status update for S|&t|&r|&e|&a|&m|&e|&r|& : Executing
+2023-11-16 09:51:27,3,Info,Status update for S|&t|&r|&o|&n|&g|&C|&r|&y|&p|&t|&o|&r|& : Executing
+2023-11-16 09:51:27,3,Info,Status update for S|&t|&r|&o|&n|&g|&C|&r|&y|&p|&t|&o|&r|&F|&a|&s|&t|& : Executing
+2023-11-16 09:51:27,3,Info,Status update for S|&t|&r|&o|&n|&g|&C|&r|&y|&p|&t|&o|&r|&N|&e|&t|& : Executing
+2023-11-16 09:51:27,3,Info,Status update for T|&h|&o|&r|&V|&a|&r|&i|&a|&n|&t|& : Executing
+2023-11-16 09:51:27,3,Info,Status update for V|&i|&r|&l|&o|&c|&k|&V|&a|&r|&i|&a|&n|&t|& : Executing
+2023-11-16 09:51:27,3,Info,Status update for W|&e|&a|&k|&C|&r|&y|&p|&t|&o|&r|& : Executing
+2023-11-16 09:51:27,3,Info,Global progress: 0
+2023-11-16 09:51:27,3,Info,Status update for A|&r|&c|&h|&i|&v|&e|&r|& : Executing
+2023-11-16 09:51:27,3,Info,Status update for B|&l|&a|&c|&k|&K|&i|&n|&g|&d|&o|&m|&V|&a|&r|&i|&a|&n|&t|& : Executing
+2023-11-16 09:51:27,3,Info,Status update for C|&o|&l|&l|&a|&b|&o|&r|&a|&t|&o|&r|& : Executing
+2023-11-16 09:51:27,3,Info,Status update for C|&r|&i|&t|&r|&o|&n|&i|&V|&a|&r|&i|&a|&n|&t|& : Executing
+2023-11-16 09:51:27,3,Info,Status update for D|&e|&a|&r|&C|&r|&y|&V|&a|&r|&i|&a|&n|&t|& : Executing
+2023-11-16 09:51:27,3,Info,Status update for H|&o|&l|&l|&o|&w|&I|&n|&j|&e|&c|&t|&o|&r|& : Executing
+2023-11-16 09:51:27,3,Info,Status update for I|&n|&j|&e|&c|&t|&o|&r|& : Executing
+2023-11-16 09:51:27,3,Info,Status update for I|&n|&s|&i|&d|&e|&C|&r|&y|&p|&t|&o|&r|& : Executing
+2023-11-16 09:51:27,3,Info,Status update for L|&o|&c|&k|&y|&V|&a|&r|&i|&a|&n|&t|& : Executing
+2023-11-16 09:51:27,3,Info,Status update for M|&a|&z|&e|&V|&a|&r|&i|&a|&n|&t|& : Executing
+2023-11-16 09:51:27,3,Info,Status update for M|&o|&v|&e|&r|& : Executing
+2023-11-16 09:51:27,3,Info,Status update for P|&a|&y|&m|&e|&r|&V|&a|&r|&i|&a|&n|&t|& : Executing
+2023-11-16 09:51:27,3,Info,Status update for R|&e|&f|&l|&e|&c|&t|&i|&v|&e|&I|&n|&j|&e|&c|&t|&o|&r|& : Executing
+2023-11-16 09:51:27,3,Info,Status update for R|&e|&m|&o|&v|&e|&r|& : Executing
+2023-11-16 09:51:27,3,Info,Status update for R|&e|&p|&l|&a|&c|&e|&r|& : Executing
+2023-11-16 09:51:27,3,Info,Status update for R|&i|&g|&S|&i|&m|&u|&l|&a|&t|&o|&r|& : Executing
+2023-11-16 09:51:27,3,Info,Status update for R|&I|&P|&l|&a|&c|&e|&r|& : Executing
+2023-11-16 09:51:27,3,Info,Status update for S|&l|&o|&w|&C|&r|&y|&p|&t|&o|&r|& : Executing
+2023-11-16 09:51:27,3,Info,Status update for S|&t|&r|&e|&a|&m|&e|&r|& : Executing
+2023-11-16 09:51:27,3,Info,Status update for S|&t|&r|&o|&n|&g|&C|&r|&y|&p|&t|&o|&r|& : Executing
+2023-11-16 09:51:27,3,Info,Status update for S|&t|&r|&o|&n|&g|&C|&r|&y|&p|&t|&o|&r|&F|&a|&s|&t|& : Executing
+2023-11-16 09:51:27,3,Info,Status update for S|&t|&r|&o|&n|&g|&C|&r|&y|&p|&t|&o|&r|&N|&e|&t|& : Executing
+2023-11-16 09:51:27,3,Info,Status update for T|&h|&o|&r|&V|&a|&r|&i|&a|&n|&t|& : Executing
+2023-11-16 09:51:27,3,Info,Status update for V|&i|&r|&l|&o|&c|&k|&V|&a|&r|&i|&a|&n|&t|& : Executing
+2023-11-16 09:51:27,3,Info,Status update for W|&e|&a|&k|&C|&r|&y|&p|&t|&o|&r|& : Executing
+2023-11-16 09:51:27,3,Info,Global progress: 0
+2023-11-16 09:51:27,3,Info,Status update for A|&r|&c|&h|&i|&v|&e|&r|& : Executing
+2023-11-16 09:51:27,3,Info,Status update for B|&l|&a|&c|&k|&K|&i|&n|&g|&d|&o|&m|&V|&a|&r|&i|&a|&n|&t|& : Executing
+2023-11-16 09:51:27,3,Info,Status update for C|&o|&l|&l|&a|&b|&o|&r|&a|&t|&o|&r|& : Executing
+2023-11-16 09:51:27,3,Info,Status update for C|&r|&i|&t|&r|&o|&n|&i|&V|&a|&r|&i|&a|&n|&t|& : Executing
+2023-11-16 09:51:27,3,Info,Status update for D|&e|&a|&r|&C|&r|&y|&V|&a|&r|&i|&a|&n|&t|& : Executing
+2023-11-16 09:51:27,3,Info,Status update for H|&o|&l|&l|&o|&w|&I|&n|&j|&e|&c|&t|&o|&r|& : Executing
+2023-11-16 09:51:27,3,Info,Status update for I|&n|&j|&e|&c|&t|&o|&r|& : Executing
+2023-11-16 09:51:27,3,Info,Status update for I|&n|&s|&i|&d|&e|&C|&r|&y|&p|&t|&o|&r|& : Executing
+2023-11-16 09:51:27,3,Info,Status update for L|&o|&c|&k|&y|&V|&a|&r|&i|&a|&n|&t|& : Executing
+2023-11-16 09:51:27,3,Info,Status update for M|&a|&z|&e|&V|&a|&r|&i|&a|&n|&t|& : Executing
+2023-11-16 09:51:27,3,Info,Status update for M|&o|&v|&e|&r|& : Executing
+2023-11-16 09:51:27,3,Info,Status update for P|&a|&y|&m|&e|&r|&V|&a|&r|&i|&a|&n|&t|& : Executing
+2023-11-16 09:51:27,3,Info,Status update for R|&e|&f|&l|&e|&c|&t|&i|&v|&e|&I|&n|&j|&e|&c|&t|&o|&r|& : Executing
+2023-11-16 09:51:27,3,Info,Status update for R|&e|&m|&o|&v|&e|&r|& : Executing
+2023-11-16 09:51:27,3,Info,Status update for R|&e|&p|&l|&a|&c|&e|&r|& : Executing
+2023-11-16 09:51:27,3,Info,Status update for R|&i|&g|&S|&i|&m|&u|&l|&a|&t|&o|&r|& : Executing
+2023-11-16 09:51:27,3,Info,Status update for R|&I|&P|&l|&a|&c|&e|&r|& : Executing
+2023-11-16 09:51:27,3,Info,Status update for S|&l|&o|&w|&C|&r|&y|&p|&t|&o|&r|& : Executing
+2023-11-16 09:51:27,3,Info,Status update for S|&t|&r|&e|&a|&m|&e|&r|& : Executing
+2023-11-16 09:51:27,3,Info,Status update for S|&t|&r|&o|&n|&g|&C|&r|&y|&p|&t|&o|&r|& : Executing
+2023-11-16 09:51:27,3,Info,Status update for S|&t|&r|&o|&n|&g|&C|&r|&y|&p|&t|&o|&r|&F|&a|&s|&t|& : Executing
+2023-11-16 09:51:27,3,Info,Status update for S|&t|&r|&o|&n|&g|&C|&r|&y|&p|&t|&o|&r|&N|&e|&t|& : Executing
+2023-11-16 09:51:27,3,Info,Status update for T|&h|&o|&r|&V|&a|&r|&i|&a|&n|&t|& : Executing
+2023-11-16 09:51:27,3,Info,Status update for V|&i|&r|&l|&o|&c|&k|&V|&a|&r|&i|&a|&n|&t|& : Executing
+2023-11-16 09:51:27,3,Info,Status update for W|&e|&a|&k|&C|&r|&y|&p|&t|&o|&r|& : Executing
+2023-11-16 09:51:27,3,Info,Global progress: 0
+2023-11-16 09:51:28,3,Info,Status update for A|&r|&c|&h|&i|&v|&e|&r|& : Executing
+2023-11-16 09:51:28,3,Info,Status update for B|&l|&a|&c|&k|&K|&i|&n|&g|&d|&o|&m|&V|&a|&r|&i|&a|&n|&t|& : Executing
+2023-11-16 09:51:28,3,Info,Status update for C|&o|&l|&l|&a|&b|&o|&r|&a|&t|&o|&r|& : Executing
+2023-11-16 09:51:28,3,Info,Status update for C|&r|&i|&t|&r|&o|&n|&i|&V|&a|&r|&i|&a|&n|&t|& : Executing
+2023-11-16 09:51:28,3,Info,Status update for D|&e|&a|&r|&C|&r|&y|&V|&a|&r|&i|&a|&n|&t|& : Executing
+2023-11-16 09:51:28,3,Info,Status update for H|&o|&l|&l|&o|&w|&I|&n|&j|&e|&c|&t|&o|&r|& : Executing
+2023-11-16 09:51:28,3,Info,Status update for I|&n|&j|&e|&c|&t|&o|&r|& : Executing
+2023-11-16 09:51:28,3,Info,Status update for I|&n|&s|&i|&d|&e|&C|&r|&y|&p|&t|&o|&r|& : Executing
+2023-11-16 09:51:28,3,Info,Status update for L|&o|&c|&k|&y|&V|&a|&r|&i|&a|&n|&t|& : Executing
+2023-11-16 09:51:28,3,Info,Status update for M|&a|&z|&e|&V|&a|&r|&i|&a|&n|&t|& : Executing
+2023-11-16 09:51:28,3,Info,Status update for M|&o|&v|&e|&r|& : Executing
+2023-11-16 09:51:28,3,Info,Status update for P|&a|&y|&m|&e|&r|&V|&a|&r|&i|&a|&n|&t|& : Executing
+2023-11-16 09:51:28,3,Info,Status update for R|&e|&f|&l|&e|&c|&t|&i|&v|&e|&I|&n|&j|&e|&c|&t|&o|&r|& : Executing
+2023-11-16 09:51:28,3,Info,Status update for R|&e|&m|&o|&v|&e|&r|& : Executing
+2023-11-16 09:51:28,3,Info,Status update for R|&e|&p|&l|&a|&c|&e|&r|& : Executing
+2023-11-16 09:51:28,3,Info,Status update for R|&i|&g|&S|&i|&m|&u|&l|&a|&t|&o|&r|& : Executing
+2023-11-16 09:51:28,3,Info,Status update for R|&I|&P|&l|&a|&c|&e|&r|& : Executing
+2023-11-16 09:51:28,3,Info,Status update for S|&l|&o|&w|&C|&r|&y|&p|&t|&o|&r|& : Executing
+2023-11-16 09:51:28,3,Info,Status update for S|&t|&r|&e|&a|&m|&e|&r|& : Executing
+2023-11-16 09:51:28,3,Info,Status update for S|&t|&r|&o|&n|&g|&C|&r|&y|&p|&t|&o|&r|& : Executing
+2023-11-16 09:51:28,3,Info,Status update for S|&t|&r|&o|&n|&g|&C|&r|&y|&p|&t|&o|&r|&F|&a|&s|&t|& : Executing
+2023-11-16 09:51:28,3,Info,Status update for S|&t|&r|&o|&n|&g|&C|&r|&y|&p|&t|&o|&r|&N|&e|&t|& : Executing
+2023-11-16 09:51:28,3,Info,Status update for T|&h|&o|&r|&V|&a|&r|&i|&a|&n|&t|& : Executing
+2023-11-16 09:51:28,3,Info,Status update for V|&i|&r|&l|&o|&c|&k|&V|&a|&r|&i|&a|&n|&t|& : Executing
+2023-11-16 09:51:28,3,Info,Status update for W|&e|&a|&k|&C|&r|&y|&p|&t|&o|&r|& : Executing
+2023-11-16 09:51:28,3,Info,Global progress: 0
+2023-11-16 09:51:28,3,Info,Status update for A|&r|&c|&h|&i|&v|&e|&r|& : Executing
+2023-11-16 09:51:28,3,Info,Status update for B|&l|&a|&c|&k|&K|&i|&n|&g|&d|&o|&m|&V|&a|&r|&i|&a|&n|&t|& : Executing
+2023-11-16 09:51:28,3,Info,Status update for C|&o|&l|&l|&a|&b|&o|&r|&a|&t|&o|&r|& : Executing
+2023-11-16 09:51:28,3,Info,Status update for C|&r|&i|&t|&r|&o|&n|&i|&V|&a|&r|&i|&a|&n|&t|& : Executing
+2023-11-16 09:51:28,3,Info,Status update for D|&e|&a|&r|&C|&r|&y|&V|&a|&r|&i|&a|&n|&t|& : Executing
+2023-11-16 09:51:28,3,Info,Status update for H|&o|&l|&l|&o|&w|&I|&n|&j|&e|&c|&t|&o|&r|& : Executing
+2023-11-16 09:51:28,3,Info,Status update for I|&n|&j|&e|&c|&t|&o|&r|& : Executing
+2023-11-16 09:51:28,3,Info,Status update for I|&n|&s|&i|&d|&e|&C|&r|&y|&p|&t|&o|&r|& : Executing
+2023-11-16 09:51:28,3,Info,Status update for L|&o|&c|&k|&y|&V|&a|&r|&i|&a|&n|&t|& : Executing
+2023-11-16 09:51:28,3,Info,Status update for M|&a|&z|&e|&V|&a|&r|&i|&a|&n|&t|& : Executing
+2023-11-16 09:51:28,3,Info,Status update for M|&o|&v|&e|&r|& : Executing
+2023-11-16 09:51:28,3,Info,Status update for P|&a|&y|&m|&e|&r|&V|&a|&r|&i|&a|&n|&t|& : Executing
+2023-11-16 09:51:28,3,Info,Status update for R|&e|&f|&l|&e|&c|&t|&i|&v|&e|&I|&n|&j|&e|&c|&t|&o|&r|& : Executing
+2023-11-16 09:51:28,3,Info,Status update for R|&e|&m|&o|&v|&e|&r|& : Executing
+2023-11-16 09:51:28,3,Info,Status update for R|&e|&p|&l|&a|&c|&e|&r|& : Executing
+2023-11-16 09:51:28,3,Info,Status update for R|&i|&g|&S|&i|&m|&u|&l|&a|&t|&o|&r|& : Executing
+2023-11-16 09:51:28,3,Info,Status update for R|&I|&P|&l|&a|&c|&e|&r|& : Executing
+2023-11-16 09:51:28,3,Info,Status update for S|&l|&o|&w|&C|&r|&y|&p|&t|&o|&r|& : Executing
+2023-11-16 09:51:28,3,Info,Status update for S|&t|&r|&e|&a|&m|&e|&r|& : Executing
+2023-11-16 09:51:28,3,Info,Status update for S|&t|&r|&o|&n|&g|&C|&r|&y|&p|&t|&o|&r|& : Executing
+2023-11-16 09:51:28,3,Info,Status update for S|&t|&r|&o|&n|&g|&C|&r|&y|&p|&t|&o|&r|&F|&a|&s|&t|& : Executing
+2023-11-16 09:51:28,3,Info,Status update for S|&t|&r|&o|&n|&g|&C|&r|&y|&p|&t|&o|&r|&N|&e|&t|& : Executing
+2023-11-16 09:51:28,3,Info,Status update for T|&h|&o|&r|&V|&a|&r|&i|&a|&n|&t|& : Executing
+2023-11-16 09:51:28,3,Info,Status update for V|&i|&r|&l|&o|&c|&k|&V|&a|&r|&i|&a|&n|&t|& : Executing
+2023-11-16 09:51:28,3,Info,Status update for W|&e|&a|&k|&C|&r|&y|&p|&t|&o|&r|& : Executing
+2023-11-16 09:51:28,3,Info,Global progress: 0
+2023-11-16 09:51:28,3,Info,Status update for A|&r|&c|&h|&i|&v|&e|&r|& : Executing
+2023-11-16 09:51:28,3,Info,Status update for B|&l|&a|&c|&k|&K|&i|&n|&g|&d|&o|&m|&V|&a|&r|&i|&a|&n|&t|& : Executing
+2023-11-16 09:51:28,3,Info,Status update for C|&o|&l|&l|&a|&b|&o|&r|&a|&t|&o|&r|& : Executing
+2023-11-16 09:51:28,3,Info,Status update for C|&r|&i|&t|&r|&o|&n|&i|&V|&a|&r|&i|&a|&n|&t|& : Executing
+2023-11-16 09:51:28,3,Info,Status update for D|&e|&a|&r|&C|&r|&y|&V|&a|&r|&i|&a|&n|&t|& : Executing
+2023-11-16 09:51:28,3,Info,Status update for H|&o|&l|&l|&o|&w|&I|&n|&j|&e|&c|&t|&o|&r|& : Executing
+2023-11-16 09:51:28,3,Info,Status update for I|&n|&j|&e|&c|&t|&o|&r|& : Executing
+2023-11-16 09:51:28,3,Info,Status update for I|&n|&s|&i|&d|&e|&C|&r|&y|&p|&t|&o|&r|& : Executing
+2023-11-16 09:51:28,3,Info,Status update for L|&o|&c|&k|&y|&V|&a|&r|&i|&a|&n|&t|& : Executing
+2023-11-16 09:51:28,3,Info,Status update for M|&a|&z|&e|&V|&a|&r|&i|&a|&n|&t|& : Executing
+2023-11-16 09:51:28,3,Info,Status update for M|&o|&v|&e|&r|& : Executing
+2023-11-16 09:51:28,3,Info,Status update for P|&a|&y|&m|&e|&r|&V|&a|&r|&i|&a|&n|&t|& : Executing
+2023-11-16 09:51:28,3,Info,Status update for R|&e|&f|&l|&e|&c|&t|&i|&v|&e|&I|&n|&j|&e|&c|&t|&o|&r|& : Executing
+2023-11-16 09:51:28,3,Info,Status update for R|&e|&m|&o|&v|&e|&r|& : Executing
+2023-11-16 09:51:28,3,Info,Status update for R|&e|&p|&l|&a|&c|&e|&r|& : Executing
+2023-11-16 09:51:28,3,Info,Status update for R|&i|&g|&S|&i|&m|&u|&l|&a|&t|&o|&r|& : Executing
+2023-11-16 09:51:28,3,Info,Status update for R|&I|&P|&l|&a|&c|&e|&r|& : Executing
+2023-11-16 09:51:28,3,Info,Status update for S|&l|&o|&w|&C|&r|&y|&p|&t|&o|&r|& : Executing
+2023-11-16 09:51:28,3,Info,Status update for S|&t|&r|&e|&a|&m|&e|&r|& : Executing
+2023-11-16 09:51:28,3,Info,Status update for S|&t|&r|&o|&n|&g|&C|&r|&y|&p|&t|&o|&r|& : Executing
+2023-11-16 09:51:28,3,Info,Status update for S|&t|&r|&o|&n|&g|&C|&r|&y|&p|&t|&o|&r|&F|&a|&s|&t|& : Executing
+2023-11-16 09:51:28,3,Info,Status update for S|&t|&r|&o|&n|&g|&C|&r|&y|&p|&t|&o|&r|&N|&e|&t|& : Executing
+2023-11-16 09:51:28,3,Info,Status update for T|&h|&o|&r|&V|&a|&r|&i|&a|&n|&t|& : Executing
+2023-11-16 09:51:28,3,Info,Status update for V|&i|&r|&l|&o|&c|&k|&V|&a|&r|&i|&a|&n|&t|& : Executing
+2023-11-16 09:51:28,3,Info,Status update for W|&e|&a|&k|&C|&r|&y|&p|&t|&o|&r|& : Executing
+2023-11-16 09:51:28,3,Info,Global progress: 0
+2023-11-16 09:51:29,3,Info,Status update for A|&r|&c|&h|&i|&v|&e|&r|& : Executing
+2023-11-16 09:51:29,3,Info,Status update for B|&l|&a|&c|&k|&K|&i|&n|&g|&d|&o|&m|&V|&a|&r|&i|&a|&n|&t|& : Executing
+2023-11-16 09:51:29,3,Info,Status update for C|&o|&l|&l|&a|&b|&o|&r|&a|&t|&o|&r|& : Executing
+2023-11-16 09:51:29,3,Info,Status update for C|&r|&i|&t|&r|&o|&n|&i|&V|&a|&r|&i|&a|&n|&t|& : Executing
+2023-11-16 09:51:29,3,Info,Status update for D|&e|&a|&r|&C|&r|&y|&V|&a|&r|&i|&a|&n|&t|& : Executing
+2023-11-16 09:51:29,3,Info,Status update for H|&o|&l|&l|&o|&w|&I|&n|&j|&e|&c|&t|&o|&r|& : Executing
+2023-11-16 09:51:29,3,Info,Status update for I|&n|&j|&e|&c|&t|&o|&r|& : Executing
+2023-11-16 09:51:29,3,Info,Status update for I|&n|&s|&i|&d|&e|&C|&r|&y|&p|&t|&o|&r|& : Executing
+2023-11-16 09:51:29,3,Info,Status update for L|&o|&c|&k|&y|&V|&a|&r|&i|&a|&n|&t|& : Executing
+2023-11-16 09:51:29,3,Info,Status update for M|&a|&z|&e|&V|&a|&r|&i|&a|&n|&t|& : Executing
+2023-11-16 09:51:29,3,Info,Status update for M|&o|&v|&e|&r|& : Executing
+2023-11-16 09:51:29,3,Info,Status update for P|&a|&y|&m|&e|&r|&V|&a|&r|&i|&a|&n|&t|& : Executing
+2023-11-16 09:51:29,3,Info,Status update for R|&e|&f|&l|&e|&c|&t|&i|&v|&e|&I|&n|&j|&e|&c|&t|&o|&r|& : Executing
+2023-11-16 09:51:29,3,Info,Status update for R|&e|&m|&o|&v|&e|&r|& : Executing
+2023-11-16 09:51:29,3,Info,Status update for R|&e|&p|&l|&a|&c|&e|&r|& : Executing
+2023-11-16 09:51:29,3,Info,Status update for R|&i|&g|&S|&i|&m|&u|&l|&a|&t|&o|&r|& : Executing
+2023-11-16 09:51:29,3,Info,Status update for R|&I|&P|&l|&a|&c|&e|&r|& : Executing
+2023-11-16 09:51:29,3,Info,Status update for S|&l|&o|&w|&C|&r|&y|&p|&t|&o|&r|& : Executing
+2023-11-16 09:51:29,3,Info,Status update for S|&t|&r|&e|&a|&m|&e|&r|& : Executing
+2023-11-16 09:51:29,3,Info,Status update for S|&t|&r|&o|&n|&g|&C|&r|&y|&p|&t|&o|&r|& : Executing
+2023-11-16 09:51:29,3,Info,Status update for S|&t|&r|&o|&n|&g|&C|&r|&y|&p|&t|&o|&r|&F|&a|&s|&t|& : Executing
+2023-11-16 09:51:29,3,Info,Status update for S|&t|&r|&o|&n|&g|&C|&r|&y|&p|&t|&o|&r|&N|&e|&t|& : Executing
+2023-11-16 09:51:29,3,Info,Status update for T|&h|&o|&r|&V|&a|&r|&i|&a|&n|&t|& : Executing
+2023-11-16 09:51:29,3,Info,Status update for V|&i|&r|&l|&o|&c|&k|&V|&a|&r|&i|&a|&n|&t|& : Executing
+2023-11-16 09:51:29,3,Info,Status update for W|&e|&a|&k|&C|&r|&y|&p|&t|&o|&r|& : Executing
+2023-11-16 09:51:29,3,Info,Global progress: 0
+2023-11-16 09:51:29,3,Info,Status update for A|&r|&c|&h|&i|&v|&e|&r|& : Executing
+2023-11-16 09:51:29,3,Info,Status update for B|&l|&a|&c|&k|&K|&i|&n|&g|&d|&o|&m|&V|&a|&r|&i|&a|&n|&t|& : Executing
+2023-11-16 09:51:29,3,Info,Status update for C|&o|&l|&l|&a|&b|&o|&r|&a|&t|&o|&r|& : Executing
+2023-11-16 09:51:29,3,Info,Status update for C|&r|&i|&t|&r|&o|&n|&i|&V|&a|&r|&i|&a|&n|&t|& : Executing
+2023-11-16 09:51:29,3,Info,Status update for D|&e|&a|&r|&C|&r|&y|&V|&a|&r|&i|&a|&n|&t|& : Executing
+2023-11-16 09:51:29,3,Info,Status update for H|&o|&l|&l|&o|&w|&I|&n|&j|&e|&c|&t|&o|&r|& : Executing
+2023-11-16 09:51:29,3,Info,Status update for I|&n|&j|&e|&c|&t|&o|&r|& : Executing
+2023-11-16 09:51:29,3,Info,Status update for I|&n|&s|&i|&d|&e|&C|&r|&y|&p|&t|&o|&r|& : Executing
+2023-11-16 09:51:29,3,Info,Status update for L|&o|&c|&k|&y|&V|&a|&r|&i|&a|&n|&t|& : Executing
+2023-11-16 09:51:29,3,Info,Status update for M|&a|&z|&e|&V|&a|&r|&i|&a|&n|&t|& : Executing
+2023-11-16 09:51:29,3,Info,Status update for M|&o|&v|&e|&r|& : Executing
+2023-11-16 09:51:29,3,Info,Status update for P|&a|&y|&m|&e|&r|&V|&a|&r|&i|&a|&n|&t|& : Executing
+2023-11-16 09:51:29,3,Info,Status update for R|&e|&f|&l|&e|&c|&t|&i|&v|&e|&I|&n|&j|&e|&c|&t|&o|&r|& : Executing
+2023-11-16 09:51:29,3,Info,Status update for R|&e|&m|&o|&v|&e|&r|& : Executing
+2023-11-16 09:51:29,3,Info,Status update for R|&e|&p|&l|&a|&c|&e|&r|& : Executing
+2023-11-16 09:51:29,3,Info,Status update for R|&i|&g|&S|&i|&m|&u|&l|&a|&t|&o|&r|& : Executing
+2023-11-16 09:51:29,3,Info,Status update for R|&I|&P|&l|&a|&c|&e|&r|& : Executing
+2023-11-16 09:51:29,3,Info,Status update for S|&l|&o|&w|&C|&r|&y|&p|&t|&o|&r|& : Executing
+2023-11-16 09:51:29,3,Info,Status update for S|&t|&r|&e|&a|&m|&e|&r|& : Executing
+2023-11-16 09:51:29,3,Info,Status update for S|&t|&r|&o|&n|&g|&C|&r|&y|&p|&t|&o|&r|& : Executing
+2023-11-16 09:51:29,3,Info,Status update for S|&t|&r|&o|&n|&g|&C|&r|&y|&p|&t|&o|&r|&F|&a|&s|&t|& : Executing
+2023-11-16 09:51:29,3,Info,Status update for S|&t|&r|&o|&n|&g|&C|&r|&y|&p|&t|&o|&r|&N|&e|&t|& : Executing
+2023-11-16 09:51:29,3,Info,Status update for T|&h|&o|&r|&V|&a|&r|&i|&a|&n|&t|& : Executing
+2023-11-16 09:51:29,3,Info,Status update for V|&i|&r|&l|&o|&c|&k|&V|&a|&r|&i|&a|&n|&t|& : Executing
+2023-11-16 09:51:29,3,Info,Status update for W|&e|&a|&k|&C|&r|&y|&p|&t|&o|&r|& : Executing
+2023-11-16 09:51:29,3,Info,Global progress: 0
+2023-11-16 09:51:29,3,Info,Status update for A|&r|&c|&h|&i|&v|&e|&r|& : Executing
+2023-11-16 09:51:29,3,Info,Status update for B|&l|&a|&c|&k|&K|&i|&n|&g|&d|&o|&m|&V|&a|&r|&i|&a|&n|&t|& : Executing
+2023-11-16 09:51:29,3,Info,Status update for C|&o|&l|&l|&a|&b|&o|&r|&a|&t|&o|&r|& : Executing
+2023-11-16 09:51:29,3,Info,Status update for C|&r|&i|&t|&r|&o|&n|&i|&V|&a|&r|&i|&a|&n|&t|& : Executing
+2023-11-16 09:51:29,3,Info,Status update for D|&e|&a|&r|&C|&r|&y|&V|&a|&r|&i|&a|&n|&t|& : Executing
+2023-11-16 09:51:29,3,Info,Status update for H|&o|&l|&l|&o|&w|&I|&n|&j|&e|&c|&t|&o|&r|& : Executing
+2023-11-16 09:51:29,3,Info,Status update for I|&n|&j|&e|&c|&t|&o|&r|& : Executing
+2023-11-16 09:51:29,3,Info,Status update for I|&n|&s|&i|&d|&e|&C|&r|&y|&p|&t|&o|&r|& : Executing
+2023-11-16 09:51:29,3,Info,Status update for L|&o|&c|&k|&y|&V|&a|&r|&i|&a|&n|&t|& : Executing
+2023-11-16 09:51:29,3,Info,Status update for M|&a|&z|&e|&V|&a|&r|&i|&a|&n|&t|& : Executing
+2023-11-16 09:51:29,3,Info,Status update for M|&o|&v|&e|&r|& : Executing
+2023-11-16 09:51:29,3,Info,Status update for P|&a|&y|&m|&e|&r|&V|&a|&r|&i|&a|&n|&t|& : Executing
+2023-11-16 09:51:29,3,Info,Status update for R|&e|&f|&l|&e|&c|&t|&i|&v|&e|&I|&n|&j|&e|&c|&t|&o|&r|& : Executing
+2023-11-16 09:51:29,3,Info,Status update for R|&e|&m|&o|&v|&e|&r|& : Executing
+2023-11-16 09:51:29,3,Info,Status update for R|&e|&p|&l|&a|&c|&e|&r|& : Executing
+2023-11-16 09:51:29,3,Info,Status update for R|&i|&g|&S|&i|&m|&u|&l|&a|&t|&o|&r|& : Executing
+2023-11-16 09:51:29,3,Info,Status update for R|&I|&P|&l|&a|&c|&e|&r|& : Executing
+2023-11-16 09:51:29,3,Info,Status update for S|&l|&o|&w|&C|&r|&y|&p|&t|&o|&r|& : Executing
+2023-11-16 09:51:29,3,Info,Status update for S|&t|&r|&e|&a|&m|&e|&r|& : Executing
+2023-11-16 09:51:29,3,Info,Status update for S|&t|&r|&o|&n|&g|&C|&r|&y|&p|&t|&o|&r|& : Executing
+2023-11-16 09:51:29,3,Info,Status update for S|&t|&r|&o|&n|&g|&C|&r|&y|&p|&t|&o|&r|&F|&a|&s|&t|& : Executing
+2023-11-16 09:51:29,3,Info,Status update for S|&t|&r|&o|&n|&g|&C|&r|&y|&p|&t|&o|&r|&N|&e|&t|& : Executing
+2023-11-16 09:51:29,3,Info,Status update for T|&h|&o|&r|&V|&a|&r|&i|&a|&n|&t|& : Executing
+2023-11-16 09:51:29,3,Info,Status update for V|&i|&r|&l|&o|&c|&k|&V|&a|&r|&i|&a|&n|&t|& : Executing
+2023-11-16 09:51:29,3,Info,Status update for W|&e|&a|&k|&C|&r|&y|&p|&t|&o|&r|& : Executing
+2023-11-16 09:51:29,3,Info,Global progress: 0
+2023-11-16 09:51:29,3,Info,Status update for A|&r|&c|&h|&i|&v|&e|&r|& : Executing
+2023-11-16 09:51:29,3,Info,Status update for B|&l|&a|&c|&k|&K|&i|&n|&g|&d|&o|&m|&V|&a|&r|&i|&a|&n|&t|& : Executing
+2023-11-16 09:51:29,3,Info,Status update for C|&o|&l|&l|&a|&b|&o|&r|&a|&t|&o|&r|& : Executing
+2023-11-16 09:51:29,3,Info,Status update for C|&r|&i|&t|&r|&o|&n|&i|&V|&a|&r|&i|&a|&n|&t|& : Executing
+2023-11-16 09:51:29,3,Info,Status update for D|&e|&a|&r|&C|&r|&y|&V|&a|&r|&i|&a|&n|&t|& : Executing
+2023-11-16 09:51:29,3,Info,Status update for H|&o|&l|&l|&o|&w|&I|&n|&j|&e|&c|&t|&o|&r|& : Executing
+2023-11-16 09:51:29,3,Info,Status update for I|&n|&j|&e|&c|&t|&o|&r|& : Executing
+2023-11-16 09:51:29,3,Info,Status update for I|&n|&s|&i|&d|&e|&C|&r|&y|&p|&t|&o|&r|& : Executing
+2023-11-16 09:51:29,3,Info,Status update for L|&o|&c|&k|&y|&V|&a|&r|&i|&a|&n|&t|& : Executing
+2023-11-16 09:51:29,3,Info,Status update for M|&a|&z|&e|&V|&a|&r|&i|&a|&n|&t|& : Executing
+2023-11-16 09:51:29,3,Info,Status update for M|&o|&v|&e|&r|& : Executing
+2023-11-16 09:51:29,3,Info,Status update for P|&a|&y|&m|&e|&r|&V|&a|&r|&i|&a|&n|&t|& : Executing
+2023-11-16 09:51:29,3,Info,Status update for R|&e|&f|&l|&e|&c|&t|&i|&v|&e|&I|&n|&j|&e|&c|&t|&o|&r|& : Executing
+2023-11-16 09:51:29,3,Info,Status update for R|&e|&m|&o|&v|&e|&r|& : Executing
+2023-11-16 09:51:29,3,Info,Status update for R|&e|&p|&l|&a|&c|&e|&r|& : Executing
+2023-11-16 09:51:29,3,Info,Status update for R|&i|&g|&S|&i|&m|&u|&l|&a|&t|&o|&r|& : Executing
+2023-11-16 09:51:29,3,Info,Status update for R|&I|&P|&l|&a|&c|&e|&r|& : Executing
+2023-11-16 09:51:29,3,Info,Status update for S|&l|&o|&w|&C|&r|&y|&p|&t|&o|&r|& : Executing
+2023-11-16 09:51:29,3,Info,Status update for S|&t|&r|&e|&a|&m|&e|&r|& : Executing
+2023-11-16 09:51:29,3,Info,Status update for S|&t|&r|&o|&n|&g|&C|&r|&y|&p|&t|&o|&r|& : Executing
+2023-11-16 09:51:29,3,Info,Status update for S|&t|&r|&o|&n|&g|&C|&r|&y|&p|&t|&o|&r|&F|&a|&s|&t|& : Executing
+2023-11-16 09:51:29,3,Info,Status update for S|&t|&r|&o|&n|&g|&C|&r|&y|&p|&t|&o|&r|&N|&e|&t|& : Executing
+2023-11-16 09:51:29,3,Info,Status update for T|&h|&o|&r|&V|&a|&r|&i|&a|&n|&t|& : Executing
+2023-11-16 09:51:29,3,Info,Status update for V|&i|&r|&l|&o|&c|&k|&V|&a|&r|&i|&a|&n|&t|& : Executing
+2023-11-16 09:51:29,3,Info,Status update for W|&e|&a|&k|&C|&r|&y|&p|&t|&o|&r|& : Executing
+2023-11-16 09:51:29,3,Info,Global progress: 0
+2023-11-16 09:51:30,3,Info,Status update for A|&r|&c|&h|&i|&v|&e|&r|& : Executing
+2023-11-16 09:51:30,3,Info,Status update for B|&l|&a|&c|&k|&K|&i|&n|&g|&d|&o|&m|&V|&a|&r|&i|&a|&n|&t|& : Executing
+2023-11-16 09:51:30,3,Info,Status update for C|&o|&l|&l|&a|&b|&o|&r|&a|&t|&o|&r|& : Executing
+2023-11-16 09:51:30,3,Info,Status update for C|&r|&i|&t|&r|&o|&n|&i|&V|&a|&r|&i|&a|&n|&t|& : Executing
+2023-11-16 09:51:30,3,Info,Status update for D|&e|&a|&r|&C|&r|&y|&V|&a|&r|&i|&a|&n|&t|& : Executing
+2023-11-16 09:51:30,3,Info,Status update for H|&o|&l|&l|&o|&w|&I|&n|&j|&e|&c|&t|&o|&r|& : Executing
+2023-11-16 09:51:30,3,Info,Status update for I|&n|&j|&e|&c|&t|&o|&r|& : Executing
+2023-11-16 09:51:30,3,Info,Status update for I|&n|&s|&i|&d|&e|&C|&r|&y|&p|&t|&o|&r|& : Executing
+2023-11-16 09:51:30,3,Info,Status update for L|&o|&c|&k|&y|&V|&a|&r|&i|&a|&n|&t|& : Executing
+2023-11-16 09:51:30,3,Info,Status update for M|&a|&z|&e|&V|&a|&r|&i|&a|&n|&t|& : Executing
+2023-11-16 09:51:30,3,Info,Status update for M|&o|&v|&e|&r|& : Executing
+2023-11-16 09:51:30,3,Info,Status update for P|&a|&y|&m|&e|&r|&V|&a|&r|&i|&a|&n|&t|& : Executing
+2023-11-16 09:51:30,3,Info,Status update for R|&e|&f|&l|&e|&c|&t|&i|&v|&e|&I|&n|&j|&e|&c|&t|&o|&r|& : Executing
+2023-11-16 09:51:30,3,Info,Status update for R|&e|&m|&o|&v|&e|&r|& : Executing
+2023-11-16 09:51:30,3,Info,Status update for R|&e|&p|&l|&a|&c|&e|&r|& : Executing
+2023-11-16 09:51:30,3,Info,Status update for R|&i|&g|&S|&i|&m|&u|&l|&a|&t|&o|&r|& : Executing
+2023-11-16 09:51:30,3,Info,Status update for R|&I|&P|&l|&a|&c|&e|&r|& : Executing
+2023-11-16 09:51:30,3,Info,Status update for S|&l|&o|&w|&C|&r|&y|&p|&t|&o|&r|& : Executing
+2023-11-16 09:51:30,3,Info,Status update for S|&t|&r|&e|&a|&m|&e|&r|& : Executing
+2023-11-16 09:51:30,3,Info,Status update for S|&t|&r|&o|&n|&g|&C|&r|&y|&p|&t|&o|&r|& : Executing
+2023-11-16 09:51:30,3,Info,Status update for S|&t|&r|&o|&n|&g|&C|&r|&y|&p|&t|&o|&r|&F|&a|&s|&t|& : Executing
+2023-11-16 09:51:30,3,Info,Status update for S|&t|&r|&o|&n|&g|&C|&r|&y|&p|&t|&o|&r|&N|&e|&t|& : Executing
+2023-11-16 09:51:30,3,Info,Status update for T|&h|&o|&r|&V|&a|&r|&i|&a|&n|&t|& : Executing
+2023-11-16 09:51:30,3,Info,Status update for V|&i|&r|&l|&o|&c|&k|&V|&a|&r|&i|&a|&n|&t|& : Executing
+2023-11-16 09:51:30,3,Info,Status update for W|&e|&a|&k|&C|&r|&y|&p|&t|&o|&r|& : Executing
+2023-11-16 09:51:30,3,Info,Global progress: 0
+2023-11-16 09:51:31,3,Info,Status update for A|&r|&c|&h|&i|&v|&e|&r|& : Executing
+2023-11-16 09:51:31,3,Info,Status update for B|&l|&a|&c|&k|&K|&i|&n|&g|&d|&o|&m|&V|&a|&r|&i|&a|&n|&t|& : Executing
+2023-11-16 09:51:31,3,Info,Status update for C|&o|&l|&l|&a|&b|&o|&r|&a|&t|&o|&r|& : Executing
+2023-11-16 09:51:31,3,Info,Status update for C|&r|&i|&t|&r|&o|&n|&i|&V|&a|&r|&i|&a|&n|&t|& : Executing
+2023-11-16 09:51:31,3,Info,Status update for D|&e|&a|&r|&C|&r|&y|&V|&a|&r|&i|&a|&n|&t|& : Executing
+2023-11-16 09:51:31,3,Info,Status update for H|&o|&l|&l|&o|&w|&I|&n|&j|&e|&c|&t|&o|&r|& : Executing
+2023-11-16 09:51:31,3,Info,Status update for I|&n|&j|&e|&c|&t|&o|&r|& : Executing
+2023-11-16 09:51:31,3,Info,Status update for I|&n|&s|&i|&d|&e|&C|&r|&y|&p|&t|&o|&r|& : Executing
+2023-11-16 09:51:31,3,Info,Status update for L|&o|&c|&k|&y|&V|&a|&r|&i|&a|&n|&t|& : Executing
+2023-11-16 09:51:31,3,Info,Status update for M|&a|&z|&e|&V|&a|&r|&i|&a|&n|&t|& : Executing
+2023-11-16 09:51:31,3,Info,Status update for M|&o|&v|&e|&r|& : Executing
+2023-11-16 09:51:31,3,Info,Status update for P|&a|&y|&m|&e|&r|&V|&a|&r|&i|&a|&n|&t|& : Executing
+2023-11-16 09:51:31,3,Info,Status update for R|&e|&f|&l|&e|&c|&t|&i|&v|&e|&I|&n|&j|&e|&c|&t|&o|&r|& : Executing
+2023-11-16 09:51:31,3,Info,Status update for R|&e|&m|&o|&v|&e|&r|& : Executing
+2023-11-16 09:51:31,3,Info,Status update for R|&e|&p|&l|&a|&c|&e|&r|& : Executing
+2023-11-16 09:51:31,3,Info,Status update for R|&i|&g|&S|&i|&m|&u|&l|&a|&t|&o|&r|& : Executing
+2023-11-16 09:51:31,3,Info,Status update for R|&I|&P|&l|&a|&c|&e|&r|& : Executing
+2023-11-16 09:51:31,3,Info,Status update for S|&l|&o|&w|&C|&r|&y|&p|&t|&o|&r|& : Executing
+2023-11-16 09:51:31,3,Info,Status update for S|&t|&r|&e|&a|&m|&e|&r|& : Executing
+2023-11-16 09:51:31,3,Info,Status update for S|&t|&r|&o|&n|&g|&C|&r|&y|&p|&t|&o|&r|& : Executing
+2023-11-16 09:51:31,3,Info,Status update for S|&t|&r|&o|&n|&g|&C|&r|&y|&p|&t|&o|&r|&F|&a|&s|&t|& : Executing
+2023-11-16 09:51:31,3,Info,Status update for S|&t|&r|&o|&n|&g|&C|&r|&y|&p|&t|&o|&r|&N|&e|&t|& : Executing
+2023-11-16 09:51:31,3,Info,Status update for T|&h|&o|&r|&V|&a|&r|&i|&a|&n|&t|& : Executing
+2023-11-16 09:51:31,3,Info,Status update for V|&i|&r|&l|&o|&c|&k|&V|&a|&r|&i|&a|&n|&t|& : Executing
+2023-11-16 09:51:31,3,Info,Status update for W|&e|&a|&k|&C|&r|&y|&p|&t|&o|&r|& : Executing
+2023-11-16 09:51:31,3,Info,Global progress: 0
+2023-11-16 09:51:31,3,Info,Status update for A|&r|&c|&h|&i|&v|&e|&r|& : Executing
+2023-11-16 09:51:31,3,Info,Status update for B|&l|&a|&c|&k|&K|&i|&n|&g|&d|&o|&m|&V|&a|&r|&i|&a|&n|&t|& : Executing
+2023-11-16 09:51:31,3,Info,Status update for C|&o|&l|&l|&a|&b|&o|&r|&a|&t|&o|&r|& : Executing
+2023-11-16 09:51:31,3,Info,Status update for C|&r|&i|&t|&r|&o|&n|&i|&V|&a|&r|&i|&a|&n|&t|& : Executing
+2023-11-16 09:51:31,3,Info,Status update for D|&e|&a|&r|&C|&r|&y|&V|&a|&r|&i|&a|&n|&t|& : Executing
+2023-11-16 09:51:31,3,Info,Status update for H|&o|&l|&l|&o|&w|&I|&n|&j|&e|&c|&t|&o|&r|& : Executing
+2023-11-16 09:51:31,3,Info,Status update for I|&n|&j|&e|&c|&t|&o|&r|& : Executing
+2023-11-16 09:51:31,3,Info,Status update for I|&n|&s|&i|&d|&e|&C|&r|&y|&p|&t|&o|&r|& : Executing
+2023-11-16 09:51:31,3,Info,Status update for L|&o|&c|&k|&y|&V|&a|&r|&i|&a|&n|&t|& : Executing
+2023-11-16 09:51:31,3,Info,Status update for M|&a|&z|&e|&V|&a|&r|&i|&a|&n|&t|& : Executing
+2023-11-16 09:51:31,3,Info,Status update for M|&o|&v|&e|&r|& : Executing
+2023-11-16 09:51:31,3,Info,Status update for P|&a|&y|&m|&e|&r|&V|&a|&r|&i|&a|&n|&t|& : Executing
+2023-11-16 09:51:31,3,Info,Status update for R|&e|&f|&l|&e|&c|&t|&i|&v|&e|&I|&n|&j|&e|&c|&t|&o|&r|& : Executing
+2023-11-16 09:51:31,3,Info,Status update for R|&e|&m|&o|&v|&e|&r|& : Executing
+2023-11-16 09:51:31,3,Info,Status update for R|&e|&p|&l|&a|&c|&e|&r|& : Executing
+2023-11-16 09:51:31,3,Info,Status update for R|&i|&g|&S|&i|&m|&u|&l|&a|&t|&o|&r|& : Executing
+2023-11-16 09:51:31,3,Info,Status update for R|&I|&P|&l|&a|&c|&e|&r|& : Executing
+2023-11-16 09:51:31,3,Info,Status update for S|&l|&o|&w|&C|&r|&y|&p|&t|&o|&r|& : Executing
+2023-11-16 09:51:31,3,Info,Status update for S|&t|&r|&e|&a|&m|&e|&r|& : Executing
+2023-11-16 09:51:31,3,Info,Status update for S|&t|&r|&o|&n|&g|&C|&r|&y|&p|&t|&o|&r|& : Executing
+2023-11-16 09:51:31,3,Info,Status update for S|&t|&r|&o|&n|&g|&C|&r|&y|&p|&t|&o|&r|&F|&a|&s|&t|& : Executing
+2023-11-16 09:51:31,3,Info,Status update for S|&t|&r|&o|&n|&g|&C|&r|&y|&p|&t|&o|&r|&N|&e|&t|& : Executing
+2023-11-16 09:51:31,3,Info,Status update for T|&h|&o|&r|&V|&a|&r|&i|&a|&n|&t|& : Executing
+2023-11-16 09:51:31,3,Info,Status update for V|&i|&r|&l|&o|&c|&k|&V|&a|&r|&i|&a|&n|&t|& : Executing
+2023-11-16 09:51:31,3,Info,Status update for W|&e|&a|&k|&C|&r|&y|&p|&t|&o|&r|& : Executing
+2023-11-16 09:51:31,3,Info,Global progress: 0
+2023-11-16 09:51:31,3,Info,Status update for A|&r|&c|&h|&i|&v|&e|&r|& : Executing
+2023-11-16 09:51:31,3,Info,Status update for B|&l|&a|&c|&k|&K|&i|&n|&g|&d|&o|&m|&V|&a|&r|&i|&a|&n|&t|& : Executing
+2023-11-16 09:51:31,3,Info,Status update for C|&o|&l|&l|&a|&b|&o|&r|&a|&t|&o|&r|& : Executing
+2023-11-16 09:51:31,3,Info,Status update for C|&r|&i|&t|&r|&o|&n|&i|&V|&a|&r|&i|&a|&n|&t|& : Executing
+2023-11-16 09:51:31,3,Info,Status update for D|&e|&a|&r|&C|&r|&y|&V|&a|&r|&i|&a|&n|&t|& : Executing
+2023-11-16 09:51:31,3,Info,Status update for H|&o|&l|&l|&o|&w|&I|&n|&j|&e|&c|&t|&o|&r|& : Executing
+2023-11-16 09:51:31,3,Info,Status update for I|&n|&j|&e|&c|&t|&o|&r|& : Executing
+2023-11-16 09:51:31,3,Info,Status update for I|&n|&s|&i|&d|&e|&C|&r|&y|&p|&t|&o|&r|& : Executing
+2023-11-16 09:51:31,3,Info,Status update for L|&o|&c|&k|&y|&V|&a|&r|&i|&a|&n|&t|& : Executing
+2023-11-16 09:51:31,3,Info,Status update for M|&a|&z|&e|&V|&a|&r|&i|&a|&n|&t|& : Executing
+2023-11-16 09:51:31,3,Info,Status update for M|&o|&v|&e|&r|& : Executing
+2023-11-16 09:51:31,3,Info,Status update for P|&a|&y|&m|&e|&r|&V|&a|&r|&i|&a|&n|&t|& : Executing
+2023-11-16 09:51:31,3,Info,Status update for R|&e|&f|&l|&e|&c|&t|&i|&v|&e|&I|&n|&j|&e|&c|&t|&o|&r|& : Executing
+2023-11-16 09:51:31,3,Info,Status update for R|&e|&m|&o|&v|&e|&r|& : Executing
+2023-11-16 09:51:31,3,Info,Status update for R|&e|&p|&l|&a|&c|&e|&r|& : Executing
+2023-11-16 09:51:31,3,Info,Status update for R|&i|&g|&S|&i|&m|&u|&l|&a|&t|&o|&r|& : Executing
+2023-11-16 09:51:31,3,Info,Status update for R|&I|&P|&l|&a|&c|&e|&r|& : Executing
+2023-11-16 09:51:31,3,Info,Status update for S|&l|&o|&w|&C|&r|&y|&p|&t|&o|&r|& : Executing
+2023-11-16 09:51:31,3,Info,Status update for S|&t|&r|&e|&a|&m|&e|&r|& : Executing
+2023-11-16 09:51:31,3,Info,Status update for S|&t|&r|&o|&n|&g|&C|&r|&y|&p|&t|&o|&r|& : Executing
+2023-11-16 09:51:31,3,Info,Status update for S|&t|&r|&o|&n|&g|&C|&r|&y|&p|&t|&o|&r|&F|&a|&s|&t|& : Executing
+2023-11-16 09:51:31,3,Info,Status update for S|&t|&r|&o|&n|&g|&C|&r|&y|&p|&t|&o|&r|&N|&e|&t|& : Executing
+2023-11-16 09:51:31,3,Info,Status update for T|&h|&o|&r|&V|&a|&r|&i|&a|&n|&t|& : Executing
+2023-11-16 09:51:31,3,Info,Status update for V|&i|&r|&l|&o|&c|&k|&V|&a|&r|&i|&a|&n|&t|& : Executing
+2023-11-16 09:51:31,3,Info,Status update for W|&e|&a|&k|&C|&r|&y|&p|&t|&o|&r|& : Executing
+2023-11-16 09:51:31,3,Info,Global progress: 0
+2023-11-16 09:51:32,3,Info,Status update for A|&r|&c|&h|&i|&v|&e|&r|& : Executing
+2023-11-16 09:51:32,3,Info,Status update for B|&l|&a|&c|&k|&K|&i|&n|&g|&d|&o|&m|&V|&a|&r|&i|&a|&n|&t|& : Executing
+2023-11-16 09:51:32,3,Info,Status update for C|&o|&l|&l|&a|&b|&o|&r|&a|&t|&o|&r|& : Executing
+2023-11-16 09:51:32,3,Info,Status update for C|&r|&i|&t|&r|&o|&n|&i|&V|&a|&r|&i|&a|&n|&t|& : Executing
+2023-11-16 09:51:32,3,Info,Status update for D|&e|&a|&r|&C|&r|&y|&V|&a|&r|&i|&a|&n|&t|& : Executing
+2023-11-16 09:51:32,3,Info,Status update for H|&o|&l|&l|&o|&w|&I|&n|&j|&e|&c|&t|&o|&r|& : Executing
+2023-11-16 09:51:32,3,Info,Status update for I|&n|&j|&e|&c|&t|&o|&r|& : Executing
+2023-11-16 09:51:32,3,Info,Status update for I|&n|&s|&i|&d|&e|&C|&r|&y|&p|&t|&o|&r|& : Executing
+2023-11-16 09:51:32,3,Info,Status update for L|&o|&c|&k|&y|&V|&a|&r|&i|&a|&n|&t|& : Executing
+2023-11-16 09:51:32,3,Info,Status update for M|&a|&z|&e|&V|&a|&r|&i|&a|&n|&t|& : Executing
+2023-11-16 09:51:32,3,Info,Status update for M|&o|&v|&e|&r|& : Executing
+2023-11-16 09:51:32,3,Info,Status update for P|&a|&y|&m|&e|&r|&V|&a|&r|&i|&a|&n|&t|& : Executing
+2023-11-16 09:51:32,3,Info,Status update for R|&e|&f|&l|&e|&c|&t|&i|&v|&e|&I|&n|&j|&e|&c|&t|&o|&r|& : Executing
+2023-11-16 09:51:32,3,Info,Status update for R|&e|&m|&o|&v|&e|&r|& : Executing
+2023-11-16 09:51:32,3,Info,Status update for R|&e|&p|&l|&a|&c|&e|&r|& : Executing
+2023-11-16 09:51:32,3,Info,Status update for R|&i|&g|&S|&i|&m|&u|&l|&a|&t|&o|&r|& : Executing
+2023-11-16 09:51:32,3,Info,Status update for R|&I|&P|&l|&a|&c|&e|&r|& : Executing
+2023-11-16 09:51:32,3,Info,Status update for S|&l|&o|&w|&C|&r|&y|&p|&t|&o|&r|& : Executing
+2023-11-16 09:51:32,3,Info,Status update for S|&t|&r|&e|&a|&m|&e|&r|& : Executing
+2023-11-16 09:51:32,3,Info,Status update for S|&t|&r|&o|&n|&g|&C|&r|&y|&p|&t|&o|&r|& : Executing
+2023-11-16 09:51:32,3,Info,Status update for S|&t|&r|&o|&n|&g|&C|&r|&y|&p|&t|&o|&r|&F|&a|&s|&t|& : Executing
+2023-11-16 09:51:32,3,Info,Status update for S|&t|&r|&o|&n|&g|&C|&r|&y|&p|&t|&o|&r|&N|&e|&t|& : Executing
+2023-11-16 09:51:32,3,Info,Status update for T|&h|&o|&r|&V|&a|&r|&i|&a|&n|&t|& : Executing
+2023-11-16 09:51:32,3,Info,Status update for V|&i|&r|&l|&o|&c|&k|&V|&a|&r|&i|&a|&n|&t|& : Executing
+2023-11-16 09:51:32,3,Info,Status update for W|&e|&a|&k|&C|&r|&y|&p|&t|&o|&r|& : Executing
+2023-11-16 09:51:32,3,Info,Global progress: 0
+2023-11-16 09:51:32,3,Info,Status update for A|&r|&c|&h|&i|&v|&e|&r|& : Executing
+2023-11-16 09:51:32,3,Info,Status update for B|&l|&a|&c|&k|&K|&i|&n|&g|&d|&o|&m|&V|&a|&r|&i|&a|&n|&t|& : Executing
+2023-11-16 09:51:32,3,Info,Status update for C|&o|&l|&l|&a|&b|&o|&r|&a|&t|&o|&r|& : Executing
+2023-11-16 09:51:32,3,Info,Status update for C|&r|&i|&t|&r|&o|&n|&i|&V|&a|&r|&i|&a|&n|&t|& : Executing
+2023-11-16 09:51:32,3,Info,Status update for D|&e|&a|&r|&C|&r|&y|&V|&a|&r|&i|&a|&n|&t|& : Executing
+2023-11-16 09:51:32,3,Info,Status update for H|&o|&l|&l|&o|&w|&I|&n|&j|&e|&c|&t|&o|&r|& : Executing
+2023-11-16 09:51:32,3,Info,Status update for I|&n|&j|&e|&c|&t|&o|&r|& : Executing
+2023-11-16 09:51:32,3,Info,Status update for I|&n|&s|&i|&d|&e|&C|&r|&y|&p|&t|&o|&r|& : Executing
+2023-11-16 09:51:32,3,Info,Status update for L|&o|&c|&k|&y|&V|&a|&r|&i|&a|&n|&t|& : Executing
+2023-11-16 09:51:32,3,Info,Status update for M|&a|&z|&e|&V|&a|&r|&i|&a|&n|&t|& : Executing
+2023-11-16 09:51:32,3,Info,Status update for M|&o|&v|&e|&r|& : Executing
+2023-11-16 09:51:32,3,Info,Status update for P|&a|&y|&m|&e|&r|&V|&a|&r|&i|&a|&n|&t|& : Executing
+2023-11-16 09:51:32,3,Info,Status update for R|&e|&f|&l|&e|&c|&t|&i|&v|&e|&I|&n|&j|&e|&c|&t|&o|&r|& : Executing
+2023-11-16 09:51:32,3,Info,Status update for R|&e|&m|&o|&v|&e|&r|& : Executing
+2023-11-16 09:51:32,3,Info,Status update for R|&e|&p|&l|&a|&c|&e|&r|& : Executing
+2023-11-16 09:51:32,3,Info,Status update for R|&i|&g|&S|&i|&m|&u|&l|&a|&t|&o|&r|& : Executing
+2023-11-16 09:51:32,3,Info,Status update for R|&I|&P|&l|&a|&c|&e|&r|& : Executing
+2023-11-16 09:51:32,3,Info,Status update for S|&l|&o|&w|&C|&r|&y|&p|&t|&o|&r|& : Executing
+2023-11-16 09:51:32,3,Info,Status update for S|&t|&r|&e|&a|&m|&e|&r|& : Executing
+2023-11-16 09:51:32,3,Info,Status update for S|&t|&r|&o|&n|&g|&C|&r|&y|&p|&t|&o|&r|& : Executing
+2023-11-16 09:51:32,3,Info,Status update for S|&t|&r|&o|&n|&g|&C|&r|&y|&p|&t|&o|&r|&F|&a|&s|&t|& : Executing
+2023-11-16 09:51:32,3,Info,Status update for S|&t|&r|&o|&n|&g|&C|&r|&y|&p|&t|&o|&r|&N|&e|&t|& : Executing
+2023-11-16 09:51:32,3,Info,Status update for T|&h|&o|&r|&V|&a|&r|&i|&a|&n|&t|& : Executing
+2023-11-16 09:51:32,3,Info,Status update for V|&i|&r|&l|&o|&c|&k|&V|&a|&r|&i|&a|&n|&t|& : Executing
+2023-11-16 09:51:32,3,Info,Status update for W|&e|&a|&k|&C|&r|&y|&p|&t|&o|&r|& : Executing
+2023-11-16 09:51:32,3,Info,Global progress: 0
+2023-11-16 09:51:33,3,Info,Status update for A|&r|&c|&h|&i|&v|&e|&r|& : Executing
+2023-11-16 09:51:33,3,Info,Status update for B|&l|&a|&c|&k|&K|&i|&n|&g|&d|&o|&m|&V|&a|&r|&i|&a|&n|&t|& : Executing
+2023-11-16 09:51:33,3,Info,Status update for C|&o|&l|&l|&a|&b|&o|&r|&a|&t|&o|&r|& : Executing
+2023-11-16 09:51:33,3,Info,Status update for C|&r|&i|&t|&r|&o|&n|&i|&V|&a|&r|&i|&a|&n|&t|& : Executing
+2023-11-16 09:51:33,3,Info,Status update for D|&e|&a|&r|&C|&r|&y|&V|&a|&r|&i|&a|&n|&t|& : Executing
+2023-11-16 09:51:33,3,Info,Status update for H|&o|&l|&l|&o|&w|&I|&n|&j|&e|&c|&t|&o|&r|& : Executing
+2023-11-16 09:51:33,3,Info,Status update for I|&n|&j|&e|&c|&t|&o|&r|& : Executing
+2023-11-16 09:51:33,3,Info,Status update for I|&n|&s|&i|&d|&e|&C|&r|&y|&p|&t|&o|&r|& : Executing
+2023-11-16 09:51:33,3,Info,Status update for L|&o|&c|&k|&y|&V|&a|&r|&i|&a|&n|&t|& : Executing
+2023-11-16 09:51:33,3,Info,Status update for M|&a|&z|&e|&V|&a|&r|&i|&a|&n|&t|& : Executing
+2023-11-16 09:51:33,3,Info,Status update for M|&o|&v|&e|&r|& : Executing
+2023-11-16 09:51:33,3,Info,Status update for P|&a|&y|&m|&e|&r|&V|&a|&r|&i|&a|&n|&t|& : Executing
+2023-11-16 09:51:33,3,Info,Status update for R|&e|&f|&l|&e|&c|&t|&i|&v|&e|&I|&n|&j|&e|&c|&t|&o|&r|& : Executing
+2023-11-16 09:51:33,3,Info,Status update for R|&e|&m|&o|&v|&e|&r|& : Executing
+2023-11-16 09:51:33,3,Info,Status update for R|&e|&p|&l|&a|&c|&e|&r|& : Executing
+2023-11-16 09:51:33,3,Info,Status update for R|&i|&g|&S|&i|&m|&u|&l|&a|&t|&o|&r|& : Executing
+2023-11-16 09:51:33,3,Info,Status update for R|&I|&P|&l|&a|&c|&e|&r|& : Executing
+2023-11-16 09:51:33,3,Info,Status update for S|&l|&o|&w|&C|&r|&y|&p|&t|&o|&r|& : Executing
+2023-11-16 09:51:33,3,Info,Status update for S|&t|&r|&e|&a|&m|&e|&r|& : Executing
+2023-11-16 09:51:33,3,Info,Status update for S|&t|&r|&o|&n|&g|&C|&r|&y|&p|&t|&o|&r|& : Executing
+2023-11-16 09:51:33,3,Info,Status update for S|&t|&r|&o|&n|&g|&C|&r|&y|&p|&t|&o|&r|&F|&a|&s|&t|& : Executing
+2023-11-16 09:51:33,3,Info,Status update for S|&t|&r|&o|&n|&g|&C|&r|&y|&p|&t|&o|&r|&N|&e|&t|& : Executing
+2023-11-16 09:51:33,3,Info,Status update for T|&h|&o|&r|&V|&a|&r|&i|&a|&n|&t|& : Executing
+2023-11-16 09:51:33,3,Info,Status update for V|&i|&r|&l|&o|&c|&k|&V|&a|&r|&i|&a|&n|&t|& : Executing
+2023-11-16 09:51:33,3,Info,Status update for W|&e|&a|&k|&C|&r|&y|&p|&t|&o|&r|& : Executing
+2023-11-16 09:51:33,3,Info,Global progress: 0
+2023-11-16 09:51:33,3,Info,Status update for A|&r|&c|&h|&i|&v|&e|&r|& : Executing
+2023-11-16 09:51:33,3,Info,Status update for B|&l|&a|&c|&k|&K|&i|&n|&g|&d|&o|&m|&V|&a|&r|&i|&a|&n|&t|& : Executing
+2023-11-16 09:51:33,3,Info,Status update for C|&o|&l|&l|&a|&b|&o|&r|&a|&t|&o|&r|& : Executing
+2023-11-16 09:51:33,3,Info,Status update for C|&r|&i|&t|&r|&o|&n|&i|&V|&a|&r|&i|&a|&n|&t|& : Executing
+2023-11-16 09:51:33,3,Info,Status update for D|&e|&a|&r|&C|&r|&y|&V|&a|&r|&i|&a|&n|&t|& : Executing
+2023-11-16 09:51:33,3,Info,Status update for H|&o|&l|&l|&o|&w|&I|&n|&j|&e|&c|&t|&o|&r|& : Executing
+2023-11-16 09:51:33,3,Info,Status update for I|&n|&j|&e|&c|&t|&o|&r|& : Executing
+2023-11-16 09:51:33,3,Info,Status update for I|&n|&s|&i|&d|&e|&C|&r|&y|&p|&t|&o|&r|& : Executing
+2023-11-16 09:51:33,3,Info,Status update for L|&o|&c|&k|&y|&V|&a|&r|&i|&a|&n|&t|& : Executing
+2023-11-16 09:51:33,3,Info,Status update for M|&a|&z|&e|&V|&a|&r|&i|&a|&n|&t|& : Executing
+2023-11-16 09:51:33,3,Info,Status update for M|&o|&v|&e|&r|& : Executing
+2023-11-16 09:51:33,3,Info,Status update for P|&a|&y|&m|&e|&r|&V|&a|&r|&i|&a|&n|&t|& : Executing
+2023-11-16 09:51:33,3,Info,Status update for R|&e|&f|&l|&e|&c|&t|&i|&v|&e|&I|&n|&j|&e|&c|&t|&o|&r|& : Executing
+2023-11-16 09:51:33,3,Info,Status update for R|&e|&m|&o|&v|&e|&r|& : Executing
+2023-11-16 09:51:33,3,Info,Status update for R|&e|&p|&l|&a|&c|&e|&r|& : Executing
+2023-11-16 09:51:33,3,Info,Status update for R|&i|&g|&S|&i|&m|&u|&l|&a|&t|&o|&r|& : Executing
+2023-11-16 09:51:33,3,Info,Status update for R|&I|&P|&l|&a|&c|&e|&r|& : Executing
+2023-11-16 09:51:33,3,Info,Status update for S|&l|&o|&w|&C|&r|&y|&p|&t|&o|&r|& : Executing
+2023-11-16 09:51:33,3,Info,Status update for S|&t|&r|&e|&a|&m|&e|&r|& : Executing
+2023-11-16 09:51:33,3,Info,Status update for S|&t|&r|&o|&n|&g|&C|&r|&y|&p|&t|&o|&r|& : Executing
+2023-11-16 09:51:33,3,Info,Status update for S|&t|&r|&o|&n|&g|&C|&r|&y|&p|&t|&o|&r|&F|&a|&s|&t|& : Executing
+2023-11-16 09:51:33,3,Info,Status update for S|&t|&r|&o|&n|&g|&C|&r|&y|&p|&t|&o|&r|&N|&e|&t|& : Executing
+2023-11-16 09:51:33,3,Info,Status update for T|&h|&o|&r|&V|&a|&r|&i|&a|&n|&t|& : Executing
+2023-11-16 09:51:33,3,Info,Status update for V|&i|&r|&l|&o|&c|&k|&V|&a|&r|&i|&a|&n|&t|& : Executing
+2023-11-16 09:51:33,3,Info,Status update for W|&e|&a|&k|&C|&r|&y|&p|&t|&o|&r|& : Executing
+2023-11-16 09:51:33,3,Info,Global progress: 0
+2023-11-16 09:51:34,3,Info,Status update for A|&r|&c|&h|&i|&v|&e|&r|& : Executing
+2023-11-16 09:51:34,3,Info,Status update for B|&l|&a|&c|&k|&K|&i|&n|&g|&d|&o|&m|&V|&a|&r|&i|&a|&n|&t|& : Executing
+2023-11-16 09:51:34,3,Info,Status update for C|&o|&l|&l|&a|&b|&o|&r|&a|&t|&o|&r|& : Executing
+2023-11-16 09:51:34,3,Info,Status update for C|&r|&i|&t|&r|&o|&n|&i|&V|&a|&r|&i|&a|&n|&t|& : Executing
+2023-11-16 09:51:34,3,Info,Status update for D|&e|&a|&r|&C|&r|&y|&V|&a|&r|&i|&a|&n|&t|& : Executing
+2023-11-16 09:51:34,3,Info,Status update for H|&o|&l|&l|&o|&w|&I|&n|&j|&e|&c|&t|&o|&r|& : Executing
+2023-11-16 09:51:34,3,Info,Status update for I|&n|&j|&e|&c|&t|&o|&r|& : Executing
+2023-11-16 09:51:34,3,Info,Status update for I|&n|&s|&i|&d|&e|&C|&r|&y|&p|&t|&o|&r|& : Executing
+2023-11-16 09:51:34,3,Info,Status update for L|&o|&c|&k|&y|&V|&a|&r|&i|&a|&n|&t|& : Executing
+2023-11-16 09:51:34,3,Info,Status update for M|&a|&z|&e|&V|&a|&r|&i|&a|&n|&t|& : Executing
+2023-11-16 09:51:34,3,Info,Status update for M|&o|&v|&e|&r|& : Executing
+2023-11-16 09:51:34,3,Info,Status update for P|&a|&y|&m|&e|&r|&V|&a|&r|&i|&a|&n|&t|& : Executing
+2023-11-16 09:51:34,3,Info,Status update for R|&e|&f|&l|&e|&c|&t|&i|&v|&e|&I|&n|&j|&e|&c|&t|&o|&r|& : Executing
+2023-11-16 09:51:34,3,Info,Status update for R|&e|&m|&o|&v|&e|&r|& : Executing
+2023-11-16 09:51:34,3,Info,Status update for R|&e|&p|&l|&a|&c|&e|&r|& : Executing
+2023-11-16 09:51:34,3,Info,Status update for R|&i|&g|&S|&i|&m|&u|&l|&a|&t|&o|&r|& : Executing
+2023-11-16 09:51:34,3,Info,Status update for R|&I|&P|&l|&a|&c|&e|&r|& : Executing
+2023-11-16 09:51:34,3,Info,Status update for S|&l|&o|&w|&C|&r|&y|&p|&t|&o|&r|& : Executing
+2023-11-16 09:51:34,3,Info,Status update for S|&t|&r|&e|&a|&m|&e|&r|& : Executing
+2023-11-16 09:51:34,3,Info,Status update for S|&t|&r|&o|&n|&g|&C|&r|&y|&p|&t|&o|&r|& : Executing
+2023-11-16 09:51:34,3,Info,Status update for S|&t|&r|&o|&n|&g|&C|&r|&y|&p|&t|&o|&r|&F|&a|&s|&t|& : Executing
+2023-11-16 09:51:34,3,Info,Status update for S|&t|&r|&o|&n|&g|&C|&r|&y|&p|&t|&o|&r|&N|&e|&t|& : Executing
+2023-11-16 09:51:34,3,Info,Status update for T|&h|&o|&r|&V|&a|&r|&i|&a|&n|&t|& : Executing
+2023-11-16 09:51:34,3,Info,Status update for V|&i|&r|&l|&o|&c|&k|&V|&a|&r|&i|&a|&n|&t|& : Executing
+2023-11-16 09:51:34,3,Info,Status update for W|&e|&a|&k|&C|&r|&y|&p|&t|&o|&r|& : Executing
+2023-11-16 09:51:34,3,Info,Global progress: 0
+2023-11-16 09:51:34,3,Info,Status update for A|&r|&c|&h|&i|&v|&e|&r|& : Executing
+2023-11-16 09:51:34,3,Info,Status update for B|&l|&a|&c|&k|&K|&i|&n|&g|&d|&o|&m|&V|&a|&r|&i|&a|&n|&t|& : Executing
+2023-11-16 09:51:34,3,Info,Status update for C|&o|&l|&l|&a|&b|&o|&r|&a|&t|&o|&r|& : Executing
+2023-11-16 09:51:34,3,Info,Status update for C|&r|&i|&t|&r|&o|&n|&i|&V|&a|&r|&i|&a|&n|&t|& : Executing
+2023-11-16 09:51:34,3,Info,Status update for D|&e|&a|&r|&C|&r|&y|&V|&a|&r|&i|&a|&n|&t|& : Executing
+2023-11-16 09:51:34,3,Info,Status update for H|&o|&l|&l|&o|&w|&I|&n|&j|&e|&c|&t|&o|&r|& : Executing
+2023-11-16 09:51:34,3,Info,Status update for I|&n|&j|&e|&c|&t|&o|&r|& : Executing
+2023-11-16 09:51:34,3,Info,Status update for I|&n|&s|&i|&d|&e|&C|&r|&y|&p|&t|&o|&r|& : Executing
+2023-11-16 09:51:34,3,Info,Status update for L|&o|&c|&k|&y|&V|&a|&r|&i|&a|&n|&t|& : Executing
+2023-11-16 09:51:34,3,Info,Status update for M|&a|&z|&e|&V|&a|&r|&i|&a|&n|&t|& : Executing
+2023-11-16 09:51:34,3,Info,Status update for M|&o|&v|&e|&r|& : Executing
+2023-11-16 09:51:34,3,Info,Status update for P|&a|&y|&m|&e|&r|&V|&a|&r|&i|&a|&n|&t|& : Executing
+2023-11-16 09:51:34,3,Info,Status update for R|&e|&f|&l|&e|&c|&t|&i|&v|&e|&I|&n|&j|&e|&c|&t|&o|&r|& : Executing
+2023-11-16 09:51:34,3,Info,Status update for R|&e|&m|&o|&v|&e|&r|& : Executing
+2023-11-16 09:51:34,3,Info,Status update for R|&e|&p|&l|&a|&c|&e|&r|& : Executing
+2023-11-16 09:51:34,3,Info,Status update for R|&i|&g|&S|&i|&m|&u|&l|&a|&t|&o|&r|& : Executing
+2023-11-16 09:51:34,3,Info,Status update for R|&I|&P|&l|&a|&c|&e|&r|& : Executing
+2023-11-16 09:51:34,3,Info,Status update for S|&l|&o|&w|&C|&r|&y|&p|&t|&o|&r|& : Executing
+2023-11-16 09:51:34,3,Info,Status update for S|&t|&r|&e|&a|&m|&e|&r|& : Executing
+2023-11-16 09:51:34,3,Info,Status update for S|&t|&r|&o|&n|&g|&C|&r|&y|&p|&t|&o|&r|& : Executing
+2023-11-16 09:51:34,3,Info,Status update for S|&t|&r|&o|&n|&g|&C|&r|&y|&p|&t|&o|&r|&F|&a|&s|&t|& : Executing
+2023-11-16 09:51:34,3,Info,Status update for S|&t|&r|&o|&n|&g|&C|&r|&y|&p|&t|&o|&r|&N|&e|&t|& : Executing
+2023-11-16 09:51:34,3,Info,Status update for T|&h|&o|&r|&V|&a|&r|&i|&a|&n|&t|& : Executing
+2023-11-16 09:51:34,3,Info,Status update for V|&i|&r|&l|&o|&c|&k|&V|&a|&r|&i|&a|&n|&t|& : Executing
+2023-11-16 09:51:34,3,Info,Status update for W|&e|&a|&k|&C|&r|&y|&p|&t|&o|&r|& : Executing
+2023-11-16 09:51:34,3,Info,Global progress: 0
+2023-11-16 09:51:35,3,Info,Status update for A|&r|&c|&h|&i|&v|&e|&r|& : Executing
+2023-11-16 09:51:35,3,Info,Status update for B|&l|&a|&c|&k|&K|&i|&n|&g|&d|&o|&m|&V|&a|&r|&i|&a|&n|&t|& : Executing
+2023-11-16 09:51:35,3,Info,Status update for C|&o|&l|&l|&a|&b|&o|&r|&a|&t|&o|&r|& : Executing
+2023-11-16 09:51:35,3,Info,Status update for C|&r|&i|&t|&r|&o|&n|&i|&V|&a|&r|&i|&a|&n|&t|& : Executing
+2023-11-16 09:51:35,3,Info,Status update for D|&e|&a|&r|&C|&r|&y|&V|&a|&r|&i|&a|&n|&t|& : Executing
+2023-11-16 09:51:35,3,Info,Status update for H|&o|&l|&l|&o|&w|&I|&n|&j|&e|&c|&t|&o|&r|& : Executing
+2023-11-16 09:51:35,3,Info,Status update for I|&n|&j|&e|&c|&t|&o|&r|& : Executing
+2023-11-16 09:51:35,3,Info,Status update for I|&n|&s|&i|&d|&e|&C|&r|&y|&p|&t|&o|&r|& : Executing
+2023-11-16 09:51:35,3,Info,Status update for L|&o|&c|&k|&y|&V|&a|&r|&i|&a|&n|&t|& : Executing
+2023-11-16 09:51:35,3,Info,Status update for M|&a|&z|&e|&V|&a|&r|&i|&a|&n|&t|& : Executing
+2023-11-16 09:51:35,3,Info,Status update for M|&o|&v|&e|&r|& : Executing
+2023-11-16 09:51:35,3,Info,Status update for P|&a|&y|&m|&e|&r|&V|&a|&r|&i|&a|&n|&t|& : Executing
+2023-11-16 09:51:35,3,Info,Status update for R|&e|&f|&l|&e|&c|&t|&i|&v|&e|&I|&n|&j|&e|&c|&t|&o|&r|& : Executing
+2023-11-16 09:51:35,3,Info,Status update for R|&e|&m|&o|&v|&e|&r|& : Executing
+2023-11-16 09:51:35,3,Info,Status update for R|&e|&p|&l|&a|&c|&e|&r|& : Executing
+2023-11-16 09:51:35,3,Info,Status update for R|&i|&g|&S|&i|&m|&u|&l|&a|&t|&o|&r|& : Executing
+2023-11-16 09:51:35,3,Info,Status update for R|&I|&P|&l|&a|&c|&e|&r|& : Executing
+2023-11-16 09:51:35,3,Info,Status update for S|&l|&o|&w|&C|&r|&y|&p|&t|&o|&r|& : Executing
+2023-11-16 09:51:35,3,Info,Status update for S|&t|&r|&e|&a|&m|&e|&r|& : Executing
+2023-11-16 09:51:35,3,Info,Status update for S|&t|&r|&o|&n|&g|&C|&r|&y|&p|&t|&o|&r|& : Executing
+2023-11-16 09:51:35,3,Info,Status update for S|&t|&r|&o|&n|&g|&C|&r|&y|&p|&t|&o|&r|&F|&a|&s|&t|& : Executing
+2023-11-16 09:51:35,3,Info,Status update for S|&t|&r|&o|&n|&g|&C|&r|&y|&p|&t|&o|&r|&N|&e|&t|& : Executing
+2023-11-16 09:51:35,3,Info,Status update for T|&h|&o|&r|&V|&a|&r|&i|&a|&n|&t|& : Executing
+2023-11-16 09:51:35,3,Info,Status update for V|&i|&r|&l|&o|&c|&k|&V|&a|&r|&i|&a|&n|&t|& : Executing
+2023-11-16 09:51:35,3,Info,Status update for W|&e|&a|&k|&C|&r|&y|&p|&t|&o|&r|& : Executing
+2023-11-16 09:51:35,3,Info,Global progress: 0
+2023-11-16 09:51:35,3,Info,Status update for A|&r|&c|&h|&i|&v|&e|&r|& : Executing
+2023-11-16 09:51:35,3,Info,Status update for B|&l|&a|&c|&k|&K|&i|&n|&g|&d|&o|&m|&V|&a|&r|&i|&a|&n|&t|& : Executing
+2023-11-16 09:51:35,3,Info,Status update for C|&o|&l|&l|&a|&b|&o|&r|&a|&t|&o|&r|& : Executing
+2023-11-16 09:51:35,3,Info,Status update for C|&r|&i|&t|&r|&o|&n|&i|&V|&a|&r|&i|&a|&n|&t|& : Executing
+2023-11-16 09:51:35,3,Info,Status update for D|&e|&a|&r|&C|&r|&y|&V|&a|&r|&i|&a|&n|&t|& : Executing
+2023-11-16 09:51:35,3,Info,Status update for H|&o|&l|&l|&o|&w|&I|&n|&j|&e|&c|&t|&o|&r|& : Executing
+2023-11-16 09:51:35,3,Info,Status update for I|&n|&j|&e|&c|&t|&o|&r|& : Executing
+2023-11-16 09:51:35,3,Info,Status update for I|&n|&s|&i|&d|&e|&C|&r|&y|&p|&t|&o|&r|& : Executing
+2023-11-16 09:51:35,3,Info,Status update for L|&o|&c|&k|&y|&V|&a|&r|&i|&a|&n|&t|& : Executing
+2023-11-16 09:51:35,3,Info,Status update for M|&a|&z|&e|&V|&a|&r|&i|&a|&n|&t|& : Executing
+2023-11-16 09:51:35,3,Info,Status update for M|&o|&v|&e|&r|& : Executing
+2023-11-16 09:51:35,3,Info,Status update for P|&a|&y|&m|&e|&r|&V|&a|&r|&i|&a|&n|&t|& : Executing
+2023-11-16 09:51:35,3,Info,Status update for R|&e|&f|&l|&e|&c|&t|&i|&v|&e|&I|&n|&j|&e|&c|&t|&o|&r|& : Executing
+2023-11-16 09:51:35,3,Info,Status update for R|&e|&m|&o|&v|&e|&r|& : Executing
+2023-11-16 09:51:35,3,Info,Status update for R|&e|&p|&l|&a|&c|&e|&r|& : Executing
+2023-11-16 09:51:35,3,Info,Status update for R|&i|&g|&S|&i|&m|&u|&l|&a|&t|&o|&r|& : Executing
+2023-11-16 09:51:35,3,Info,Status update for R|&I|&P|&l|&a|&c|&e|&r|& : Executing
+2023-11-16 09:51:35,3,Info,Status update for S|&l|&o|&w|&C|&r|&y|&p|&t|&o|&r|& : Executing
+2023-11-16 09:51:35,3,Info,Status update for S|&t|&r|&e|&a|&m|&e|&r|& : Executing
+2023-11-16 09:51:35,3,Info,Status update for S|&t|&r|&o|&n|&g|&C|&r|&y|&p|&t|&o|&r|& : Executing
+2023-11-16 09:51:35,3,Info,Status update for S|&t|&r|&o|&n|&g|&C|&r|&y|&p|&t|&o|&r|&F|&a|&s|&t|& : Executing
+2023-11-16 09:51:35,3,Info,Status update for S|&t|&r|&o|&n|&g|&C|&r|&y|&p|&t|&o|&r|&N|&e|&t|& : Executing
+2023-11-16 09:51:35,3,Info,Status update for T|&h|&o|&r|&V|&a|&r|&i|&a|&n|&t|& : Executing
+2023-11-16 09:51:35,3,Info,Status update for V|&i|&r|&l|&o|&c|&k|&V|&a|&r|&i|&a|&n|&t|& : Executing
+2023-11-16 09:51:35,3,Info,Status update for W|&e|&a|&k|&C|&r|&y|&p|&t|&o|&r|& : Executing
+2023-11-16 09:51:35,3,Info,Global progress: 0
+2023-11-16 09:51:35,3,Info,Status update for A|&r|&c|&h|&i|&v|&e|&r|& : Executing
+2023-11-16 09:51:35,3,Info,Status update for B|&l|&a|&c|&k|&K|&i|&n|&g|&d|&o|&m|&V|&a|&r|&i|&a|&n|&t|& : Executing
+2023-11-16 09:51:35,3,Info,Status update for C|&o|&l|&l|&a|&b|&o|&r|&a|&t|&o|&r|& : Executing
+2023-11-16 09:51:35,3,Info,Status update for C|&r|&i|&t|&r|&o|&n|&i|&V|&a|&r|&i|&a|&n|&t|& : Executing
+2023-11-16 09:51:35,3,Info,Status update for D|&e|&a|&r|&C|&r|&y|&V|&a|&r|&i|&a|&n|&t|& : Executing
+2023-11-16 09:51:35,3,Info,Status update for H|&o|&l|&l|&o|&w|&I|&n|&j|&e|&c|&t|&o|&r|& : Executing
+2023-11-16 09:51:35,3,Info,Status update for I|&n|&j|&e|&c|&t|&o|&r|& : Executing
+2023-11-16 09:51:35,3,Info,Status update for I|&n|&s|&i|&d|&e|&C|&r|&y|&p|&t|&o|&r|& : Executing
+2023-11-16 09:51:35,3,Info,Status update for L|&o|&c|&k|&y|&V|&a|&r|&i|&a|&n|&t|& : Executing
+2023-11-16 09:51:35,3,Info,Status update for M|&a|&z|&e|&V|&a|&r|&i|&a|&n|&t|& : Executing
+2023-11-16 09:51:35,3,Info,Status update for M|&o|&v|&e|&r|& : Executing
+2023-11-16 09:51:35,3,Info,Status update for P|&a|&y|&m|&e|&r|&V|&a|&r|&i|&a|&n|&t|& : Executing
+2023-11-16 09:51:35,3,Info,Status update for R|&e|&f|&l|&e|&c|&t|&i|&v|&e|&I|&n|&j|&e|&c|&t|&o|&r|& : Executing
+2023-11-16 09:51:35,3,Info,Status update for R|&e|&m|&o|&v|&e|&r|& : Executing
+2023-11-16 09:51:35,3,Info,Status update for R|&e|&p|&l|&a|&c|&e|&r|& : Executing
+2023-11-16 09:51:35,3,Info,Status update for R|&i|&g|&S|&i|&m|&u|&l|&a|&t|&o|&r|& : Executing
+2023-11-16 09:51:35,3,Info,Status update for R|&I|&P|&l|&a|&c|&e|&r|& : Executing
+2023-11-16 09:51:35,3,Info,Status update for S|&l|&o|&w|&C|&r|&y|&p|&t|&o|&r|& : Executing
+2023-11-16 09:51:35,3,Info,Status update for S|&t|&r|&e|&a|&m|&e|&r|& : Executing
+2023-11-16 09:51:35,3,Info,Status update for S|&t|&r|&o|&n|&g|&C|&r|&y|&p|&t|&o|&r|& : Executing
+2023-11-16 09:51:35,3,Info,Status update for S|&t|&r|&o|&n|&g|&C|&r|&y|&p|&t|&o|&r|&F|&a|&s|&t|& : Executing
+2023-11-16 09:51:35,3,Info,Status update for S|&t|&r|&o|&n|&g|&C|&r|&y|&p|&t|&o|&r|&N|&e|&t|& : Executing
+2023-11-16 09:51:35,3,Info,Status update for T|&h|&o|&r|&V|&a|&r|&i|&a|&n|&t|& : Executing
+2023-11-16 09:51:35,3,Info,Status update for V|&i|&r|&l|&o|&c|&k|&V|&a|&r|&i|&a|&n|&t|& : Executing
+2023-11-16 09:51:35,3,Info,Status update for W|&e|&a|&k|&C|&r|&y|&p|&t|&o|&r|& : Executing
+2023-11-16 09:51:35,3,Info,Global progress: 0
+2023-11-16 09:51:36,3,Info,Status update for A|&r|&c|&h|&i|&v|&e|&r|& : Executing
+2023-11-16 09:51:36,3,Info,Status update for B|&l|&a|&c|&k|&K|&i|&n|&g|&d|&o|&m|&V|&a|&r|&i|&a|&n|&t|& : Executing
+2023-11-16 09:51:36,3,Info,Status update for C|&o|&l|&l|&a|&b|&o|&r|&a|&t|&o|&r|& : Executing
+2023-11-16 09:51:36,3,Info,Status update for C|&r|&i|&t|&r|&o|&n|&i|&V|&a|&r|&i|&a|&n|&t|& : Executing
+2023-11-16 09:51:36,3,Info,Status update for D|&e|&a|&r|&C|&r|&y|&V|&a|&r|&i|&a|&n|&t|& : Executing
+2023-11-16 09:51:36,3,Info,Status update for H|&o|&l|&l|&o|&w|&I|&n|&j|&e|&c|&t|&o|&r|& : Executing
+2023-11-16 09:51:36,3,Info,Status update for I|&n|&j|&e|&c|&t|&o|&r|& : Executing
+2023-11-16 09:51:36,3,Info,Status update for I|&n|&s|&i|&d|&e|&C|&r|&y|&p|&t|&o|&r|& : Executing
+2023-11-16 09:51:36,3,Info,Status update for L|&o|&c|&k|&y|&V|&a|&r|&i|&a|&n|&t|& : Executing
+2023-11-16 09:51:36,3,Info,Status update for M|&a|&z|&e|&V|&a|&r|&i|&a|&n|&t|& : Executing
+2023-11-16 09:51:36,3,Info,Status update for M|&o|&v|&e|&r|& : Executing
+2023-11-16 09:51:36,3,Info,Status update for P|&a|&y|&m|&e|&r|&V|&a|&r|&i|&a|&n|&t|& : Executing
+2023-11-16 09:51:36,3,Info,Status update for R|&e|&f|&l|&e|&c|&t|&i|&v|&e|&I|&n|&j|&e|&c|&t|&o|&r|& : Executing
+2023-11-16 09:51:36,3,Info,Status update for R|&e|&m|&o|&v|&e|&r|& : Executing
+2023-11-16 09:51:36,3,Info,Status update for R|&e|&p|&l|&a|&c|&e|&r|& : Executing
+2023-11-16 09:51:36,3,Info,Status update for R|&i|&g|&S|&i|&m|&u|&l|&a|&t|&o|&r|& : Executing
+2023-11-16 09:51:36,3,Info,Status update for R|&I|&P|&l|&a|&c|&e|&r|& : Executing
+2023-11-16 09:51:36,3,Info,Status update for S|&l|&o|&w|&C|&r|&y|&p|&t|&o|&r|& : Executing
+2023-11-16 09:51:36,3,Info,Status update for S|&t|&r|&e|&a|&m|&e|&r|& : Executing
+2023-11-16 09:51:36,3,Info,Status update for S|&t|&r|&o|&n|&g|&C|&r|&y|&p|&t|&o|&r|& : Executing
+2023-11-16 09:51:36,3,Info,Status update for S|&t|&r|&o|&n|&g|&C|&r|&y|&p|&t|&o|&r|&F|&a|&s|&t|& : Executing
+2023-11-16 09:51:36,3,Info,Status update for S|&t|&r|&o|&n|&g|&C|&r|&y|&p|&t|&o|&r|&N|&e|&t|& : Executing
+2023-11-16 09:51:36,3,Info,Status update for T|&h|&o|&r|&V|&a|&r|&i|&a|&n|&t|& : Executing
+2023-11-16 09:51:36,3,Info,Status update for V|&i|&r|&l|&o|&c|&k|&V|&a|&r|&i|&a|&n|&t|& : Executing
+2023-11-16 09:51:36,3,Info,Status update for W|&e|&a|&k|&C|&r|&y|&p|&t|&o|&r|& : Executing
+2023-11-16 09:51:36,3,Info,Global progress: 0
+2023-11-16 09:51:36,3,Info,Status update for A|&r|&c|&h|&i|&v|&e|&r|& : Executing
+2023-11-16 09:51:36,3,Info,Status update for B|&l|&a|&c|&k|&K|&i|&n|&g|&d|&o|&m|&V|&a|&r|&i|&a|&n|&t|& : Executing
+2023-11-16 09:51:36,3,Info,Status update for C|&o|&l|&l|&a|&b|&o|&r|&a|&t|&o|&r|& : Executing
+2023-11-16 09:51:36,3,Info,Status update for C|&r|&i|&t|&r|&o|&n|&i|&V|&a|&r|&i|&a|&n|&t|& : Executing
+2023-11-16 09:51:36,3,Info,Status update for D|&e|&a|&r|&C|&r|&y|&V|&a|&r|&i|&a|&n|&t|& : Executing
+2023-11-16 09:51:36,3,Info,Status update for H|&o|&l|&l|&o|&w|&I|&n|&j|&e|&c|&t|&o|&r|& : Executing
+2023-11-16 09:51:36,3,Info,Status update for I|&n|&j|&e|&c|&t|&o|&r|& : Executing
+2023-11-16 09:51:36,3,Info,Status update for I|&n|&s|&i|&d|&e|&C|&r|&y|&p|&t|&o|&r|& : Executing
+2023-11-16 09:51:36,3,Info,Status update for L|&o|&c|&k|&y|&V|&a|&r|&i|&a|&n|&t|& : Executing
+2023-11-16 09:51:36,3,Info,Status update for M|&a|&z|&e|&V|&a|&r|&i|&a|&n|&t|& : Executing
+2023-11-16 09:51:36,3,Info,Status update for M|&o|&v|&e|&r|& : Executing
+2023-11-16 09:51:36,3,Info,Status update for P|&a|&y|&m|&e|&r|&V|&a|&r|&i|&a|&n|&t|& : Executing
+2023-11-16 09:51:36,3,Info,Status update for R|&e|&f|&l|&e|&c|&t|&i|&v|&e|&I|&n|&j|&e|&c|&t|&o|&r|& : Executing
+2023-11-16 09:51:36,3,Info,Status update for R|&e|&m|&o|&v|&e|&r|& : Executing
+2023-11-16 09:51:36,3,Info,Status update for R|&e|&p|&l|&a|&c|&e|&r|& : Executing
+2023-11-16 09:51:36,3,Info,Status update for R|&i|&g|&S|&i|&m|&u|&l|&a|&t|&o|&r|& : Executing
+2023-11-16 09:51:36,3,Info,Status update for R|&I|&P|&l|&a|&c|&e|&r|& : Executing
+2023-11-16 09:51:36,3,Info,Status update for S|&l|&o|&w|&C|&r|&y|&p|&t|&o|&r|& : Executing
+2023-11-16 09:51:36,3,Info,Status update for S|&t|&r|&e|&a|&m|&e|&r|& : Executing
+2023-11-16 09:51:36,3,Info,Status update for S|&t|&r|&o|&n|&g|&C|&r|&y|&p|&t|&o|&r|& : Executing
+2023-11-16 09:51:36,3,Info,Status update for S|&t|&r|&o|&n|&g|&C|&r|&y|&p|&t|&o|&r|&F|&a|&s|&t|& : Executing
+2023-11-16 09:51:36,3,Info,Status update for S|&t|&r|&o|&n|&g|&C|&r|&y|&p|&t|&o|&r|&N|&e|&t|& : Executing
+2023-11-16 09:51:36,3,Info,Status update for T|&h|&o|&r|&V|&a|&r|&i|&a|&n|&t|& : Executing
+2023-11-16 09:51:36,3,Info,Status update for V|&i|&r|&l|&o|&c|&k|&V|&a|&r|&i|&a|&n|&t|& : Executing
+2023-11-16 09:51:36,3,Info,Status update for W|&e|&a|&k|&C|&r|&y|&p|&t|&o|&r|& : Executing
+2023-11-16 09:51:36,3,Info,Global progress: 0
+2023-11-16 09:51:37,3,Info,Status update for A|&r|&c|&h|&i|&v|&e|&r|& : Executing
+2023-11-16 09:51:37,3,Info,Status update for B|&l|&a|&c|&k|&K|&i|&n|&g|&d|&o|&m|&V|&a|&r|&i|&a|&n|&t|& : Executing
+2023-11-16 09:51:37,3,Info,Status update for C|&o|&l|&l|&a|&b|&o|&r|&a|&t|&o|&r|& : Executing
+2023-11-16 09:51:37,3,Info,Status update for C|&r|&i|&t|&r|&o|&n|&i|&V|&a|&r|&i|&a|&n|&t|& : Executing
+2023-11-16 09:51:37,3,Info,Status update for D|&e|&a|&r|&C|&r|&y|&V|&a|&r|&i|&a|&n|&t|& : Executing
+2023-11-16 09:51:37,3,Info,Status update for H|&o|&l|&l|&o|&w|&I|&n|&j|&e|&c|&t|&o|&r|& : Executing
+2023-11-16 09:51:37,3,Info,Status update for I|&n|&j|&e|&c|&t|&o|&r|& : Executing
+2023-11-16 09:51:37,3,Info,Status update for I|&n|&s|&i|&d|&e|&C|&r|&y|&p|&t|&o|&r|& : Executing
+2023-11-16 09:51:37,3,Info,Status update for L|&o|&c|&k|&y|&V|&a|&r|&i|&a|&n|&t|& : Executing
+2023-11-16 09:51:37,3,Info,Status update for M|&a|&z|&e|&V|&a|&r|&i|&a|&n|&t|& : Executing
+2023-11-16 09:51:37,3,Info,Status update for M|&o|&v|&e|&r|& : Executing
+2023-11-16 09:51:37,3,Info,Status update for P|&a|&y|&m|&e|&r|&V|&a|&r|&i|&a|&n|&t|& : Executing
+2023-11-16 09:51:37,3,Info,Status update for R|&e|&f|&l|&e|&c|&t|&i|&v|&e|&I|&n|&j|&e|&c|&t|&o|&r|& : Executing
+2023-11-16 09:51:37,3,Info,Status update for R|&e|&m|&o|&v|&e|&r|& : Executing
+2023-11-16 09:51:37,3,Info,Status update for R|&e|&p|&l|&a|&c|&e|&r|& : Executing
+2023-11-16 09:51:37,3,Info,Status update for R|&i|&g|&S|&i|&m|&u|&l|&a|&t|&o|&r|& : Executing
+2023-11-16 09:51:37,3,Info,Status update for R|&I|&P|&l|&a|&c|&e|&r|& : Executing
+2023-11-16 09:51:37,3,Info,Status update for S|&l|&o|&w|&C|&r|&y|&p|&t|&o|&r|& : Executing
+2023-11-16 09:51:37,3,Info,Status update for S|&t|&r|&e|&a|&m|&e|&r|& : Executing
+2023-11-16 09:51:37,3,Info,Status update for S|&t|&r|&o|&n|&g|&C|&r|&y|&p|&t|&o|&r|& : Executing
+2023-11-16 09:51:37,3,Info,Status update for S|&t|&r|&o|&n|&g|&C|&r|&y|&p|&t|&o|&r|&F|&a|&s|&t|& : Executing
+2023-11-16 09:51:37,3,Info,Status update for S|&t|&r|&o|&n|&g|&C|&r|&y|&p|&t|&o|&r|&N|&e|&t|& : Executing
+2023-11-16 09:51:37,3,Info,Status update for T|&h|&o|&r|&V|&a|&r|&i|&a|&n|&t|& : Executing
+2023-11-16 09:51:37,3,Info,Status update for V|&i|&r|&l|&o|&c|&k|&V|&a|&r|&i|&a|&n|&t|& : Executing
+2023-11-16 09:51:37,3,Info,Status update for W|&e|&a|&k|&C|&r|&y|&p|&t|&o|&r|& : Executing
+2023-11-16 09:51:37,3,Info,Global progress: 0
+2023-11-16 09:51:37,3,Info,Status update for A|&r|&c|&h|&i|&v|&e|&r|& : Executing
+2023-11-16 09:51:37,3,Info,Status update for B|&l|&a|&c|&k|&K|&i|&n|&g|&d|&o|&m|&V|&a|&r|&i|&a|&n|&t|& : Executing
+2023-11-16 09:51:37,3,Info,Status update for C|&o|&l|&l|&a|&b|&o|&r|&a|&t|&o|&r|& : Executing
+2023-11-16 09:51:37,3,Info,Status update for C|&r|&i|&t|&r|&o|&n|&i|&V|&a|&r|&i|&a|&n|&t|& : Executing
+2023-11-16 09:51:37,3,Info,Status update for D|&e|&a|&r|&C|&r|&y|&V|&a|&r|&i|&a|&n|&t|& : Executing
+2023-11-16 09:51:37,3,Info,Status update for H|&o|&l|&l|&o|&w|&I|&n|&j|&e|&c|&t|&o|&r|& : Executing
+2023-11-16 09:51:37,3,Info,Status update for I|&n|&j|&e|&c|&t|&o|&r|& : Executing
+2023-11-16 09:51:37,3,Info,Status update for I|&n|&s|&i|&d|&e|&C|&r|&y|&p|&t|&o|&r|& : Executing
+2023-11-16 09:51:37,3,Info,Status update for L|&o|&c|&k|&y|&V|&a|&r|&i|&a|&n|&t|& : Executing
+2023-11-16 09:51:37,3,Info,Status update for M|&a|&z|&e|&V|&a|&r|&i|&a|&n|&t|& : Executing
+2023-11-16 09:51:37,3,Info,Status update for M|&o|&v|&e|&r|& : Executing
+2023-11-16 09:51:37,3,Info,Status update for P|&a|&y|&m|&e|&r|&V|&a|&r|&i|&a|&n|&t|& : Executing
+2023-11-16 09:51:37,3,Info,Status update for R|&e|&f|&l|&e|&c|&t|&i|&v|&e|&I|&n|&j|&e|&c|&t|&o|&r|& : Executing
+2023-11-16 09:51:37,3,Info,Status update for R|&e|&m|&o|&v|&e|&r|& : Executing
+2023-11-16 09:51:37,3,Info,Status update for R|&e|&p|&l|&a|&c|&e|&r|& : Executing
+2023-11-16 09:51:37,3,Info,Status update for R|&i|&g|&S|&i|&m|&u|&l|&a|&t|&o|&r|& : Executing
+2023-11-16 09:51:37,3,Info,Status update for R|&I|&P|&l|&a|&c|&e|&r|& : Executing
+2023-11-16 09:51:37,3,Info,Status update for S|&l|&o|&w|&C|&r|&y|&p|&t|&o|&r|& : Executing
+2023-11-16 09:51:37,3,Info,Status update for S|&t|&r|&e|&a|&m|&e|&r|& : Executing
+2023-11-16 09:51:37,3,Info,Status update for S|&t|&r|&o|&n|&g|&C|&r|&y|&p|&t|&o|&r|& : Executing
+2023-11-16 09:51:37,3,Info,Status update for S|&t|&r|&o|&n|&g|&C|&r|&y|&p|&t|&o|&r|&F|&a|&s|&t|& : Executing
+2023-11-16 09:51:37,3,Info,Status update for S|&t|&r|&o|&n|&g|&C|&r|&y|&p|&t|&o|&r|&N|&e|&t|& : Executing
+2023-11-16 09:51:37,3,Info,Status update for T|&h|&o|&r|&V|&a|&r|&i|&a|&n|&t|& : Executing
+2023-11-16 09:51:37,3,Info,Status update for V|&i|&r|&l|&o|&c|&k|&V|&a|&r|&i|&a|&n|&t|& : Executing
+2023-11-16 09:51:37,3,Info,Status update for W|&e|&a|&k|&C|&r|&y|&p|&t|&o|&r|& : Executing
+2023-11-16 09:51:37,3,Info,Global progress: 0
+2023-11-16 09:51:37,3,Info,Status update for A|&r|&c|&h|&i|&v|&e|&r|& : Executing
+2023-11-16 09:51:37,3,Info,Status update for B|&l|&a|&c|&k|&K|&i|&n|&g|&d|&o|&m|&V|&a|&r|&i|&a|&n|&t|& : Executing
+2023-11-16 09:51:37,3,Info,Status update for C|&o|&l|&l|&a|&b|&o|&r|&a|&t|&o|&r|& : Executing
+2023-11-16 09:51:37,3,Info,Status update for C|&r|&i|&t|&r|&o|&n|&i|&V|&a|&r|&i|&a|&n|&t|& : Executing
+2023-11-16 09:51:37,3,Info,Status update for D|&e|&a|&r|&C|&r|&y|&V|&a|&r|&i|&a|&n|&t|& : Executing
+2023-11-16 09:51:37,3,Info,Status update for H|&o|&l|&l|&o|&w|&I|&n|&j|&e|&c|&t|&o|&r|& : Executing
+2023-11-16 09:51:37,3,Info,Status update for I|&n|&j|&e|&c|&t|&o|&r|& : Executing
+2023-11-16 09:51:37,3,Info,Status update for I|&n|&s|&i|&d|&e|&C|&r|&y|&p|&t|&o|&r|& : Executing
+2023-11-16 09:51:37,3,Info,Status update for L|&o|&c|&k|&y|&V|&a|&r|&i|&a|&n|&t|& : Executing
+2023-11-16 09:51:37,3,Info,Status update for M|&a|&z|&e|&V|&a|&r|&i|&a|&n|&t|& : Executing
+2023-11-16 09:51:37,3,Info,Status update for M|&o|&v|&e|&r|& : Executing
+2023-11-16 09:51:37,3,Info,Status update for P|&a|&y|&m|&e|&r|&V|&a|&r|&i|&a|&n|&t|& : Executing
+2023-11-16 09:51:37,3,Info,Status update for R|&e|&f|&l|&e|&c|&t|&i|&v|&e|&I|&n|&j|&e|&c|&t|&o|&r|& : Executing
+2023-11-16 09:51:37,3,Info,Status update for R|&e|&m|&o|&v|&e|&r|& : Executing
+2023-11-16 09:51:37,3,Info,Status update for R|&e|&p|&l|&a|&c|&e|&r|& : Executing
+2023-11-16 09:51:37,3,Info,Status update for R|&i|&g|&S|&i|&m|&u|&l|&a|&t|&o|&r|& : Executing
+2023-11-16 09:51:37,3,Info,Status update for R|&I|&P|&l|&a|&c|&e|&r|& : Executing
+2023-11-16 09:51:37,3,Info,Status update for S|&l|&o|&w|&C|&r|&y|&p|&t|&o|&r|& : Executing
+2023-11-16 09:51:37,3,Info,Status update for S|&t|&r|&e|&a|&m|&e|&r|& : Executing
+2023-11-16 09:51:37,3,Info,Status update for S|&t|&r|&o|&n|&g|&C|&r|&y|&p|&t|&o|&r|& : Executing
+2023-11-16 09:51:37,3,Info,Status update for S|&t|&r|&o|&n|&g|&C|&r|&y|&p|&t|&o|&r|&F|&a|&s|&t|& : Executing
+2023-11-16 09:51:37,3,Info,Status update for S|&t|&r|&o|&n|&g|&C|&r|&y|&p|&t|&o|&r|&N|&e|&t|& : Executing
+2023-11-16 09:51:37,3,Info,Status update for T|&h|&o|&r|&V|&a|&r|&i|&a|&n|&t|& : Executing
+2023-11-16 09:51:37,3,Info,Status update for V|&i|&r|&l|&o|&c|&k|&V|&a|&r|&i|&a|&n|&t|& : Executing
+2023-11-16 09:51:37,3,Info,Status update for W|&e|&a|&k|&C|&r|&y|&p|&t|&o|&r|& : Executing
+2023-11-16 09:51:37,3,Info,Global progress: 0
+2023-11-16 09:51:38,3,Info,Status update for A|&r|&c|&h|&i|&v|&e|&r|& : Executing
+2023-11-16 09:51:38,3,Info,Status update for B|&l|&a|&c|&k|&K|&i|&n|&g|&d|&o|&m|&V|&a|&r|&i|&a|&n|&t|& : Executing
+2023-11-16 09:51:38,3,Info,Status update for C|&o|&l|&l|&a|&b|&o|&r|&a|&t|&o|&r|& : Executing
+2023-11-16 09:51:38,3,Info,Status update for C|&r|&i|&t|&r|&o|&n|&i|&V|&a|&r|&i|&a|&n|&t|& : Executing
+2023-11-16 09:51:38,3,Info,Status update for D|&e|&a|&r|&C|&r|&y|&V|&a|&r|&i|&a|&n|&t|& : Executing
+2023-11-16 09:51:38,3,Info,Status update for H|&o|&l|&l|&o|&w|&I|&n|&j|&e|&c|&t|&o|&r|& : Executing
+2023-11-16 09:51:38,3,Info,Status update for I|&n|&j|&e|&c|&t|&o|&r|& : Executing
+2023-11-16 09:51:38,3,Info,Status update for I|&n|&s|&i|&d|&e|&C|&r|&y|&p|&t|&o|&r|& : Executing
+2023-11-16 09:51:38,3,Info,Status update for L|&o|&c|&k|&y|&V|&a|&r|&i|&a|&n|&t|& : Executing
+2023-11-16 09:51:38,3,Info,Status update for M|&a|&z|&e|&V|&a|&r|&i|&a|&n|&t|& : Executing
+2023-11-16 09:51:38,3,Info,Status update for M|&o|&v|&e|&r|& : Executing
+2023-11-16 09:51:38,3,Info,Status update for P|&a|&y|&m|&e|&r|&V|&a|&r|&i|&a|&n|&t|& : Executing
+2023-11-16 09:51:38,3,Info,Status update for R|&e|&f|&l|&e|&c|&t|&i|&v|&e|&I|&n|&j|&e|&c|&t|&o|&r|& : Executing
+2023-11-16 09:51:38,3,Info,Status update for R|&e|&m|&o|&v|&e|&r|& : Executing
+2023-11-16 09:51:38,3,Info,Status update for R|&e|&p|&l|&a|&c|&e|&r|& : Executing
+2023-11-16 09:51:38,3,Info,Status update for R|&i|&g|&S|&i|&m|&u|&l|&a|&t|&o|&r|& : Executing
+2023-11-16 09:51:38,3,Info,Status update for R|&I|&P|&l|&a|&c|&e|&r|& : Executing
+2023-11-16 09:51:38,3,Info,Status update for S|&l|&o|&w|&C|&r|&y|&p|&t|&o|&r|& : Executing
+2023-11-16 09:51:38,3,Info,Status update for S|&t|&r|&e|&a|&m|&e|&r|& : Executing
+2023-11-16 09:51:38,3,Info,Status update for S|&t|&r|&o|&n|&g|&C|&r|&y|&p|&t|&o|&r|& : Executing
+2023-11-16 09:51:38,3,Info,Status update for S|&t|&r|&o|&n|&g|&C|&r|&y|&p|&t|&o|&r|&F|&a|&s|&t|& : Executing
+2023-11-16 09:51:38,3,Info,Status update for S|&t|&r|&o|&n|&g|&C|&r|&y|&p|&t|&o|&r|&N|&e|&t|& : Executing
+2023-11-16 09:51:38,3,Info,Status update for T|&h|&o|&r|&V|&a|&r|&i|&a|&n|&t|& : Executing
+2023-11-16 09:51:38,3,Info,Status update for V|&i|&r|&l|&o|&c|&k|&V|&a|&r|&i|&a|&n|&t|& : Executing
+2023-11-16 09:51:38,3,Info,Status update for W|&e|&a|&k|&C|&r|&y|&p|&t|&o|&r|& : Executing
+2023-11-16 09:51:38,3,Info,Global progress: 0
+2023-11-16 09:51:38,3,Info,Status update for A|&r|&c|&h|&i|&v|&e|&r|& : Executing
+2023-11-16 09:51:38,3,Info,Status update for B|&l|&a|&c|&k|&K|&i|&n|&g|&d|&o|&m|&V|&a|&r|&i|&a|&n|&t|& : Executing
+2023-11-16 09:51:38,3,Info,Status update for C|&o|&l|&l|&a|&b|&o|&r|&a|&t|&o|&r|& : Executing
+2023-11-16 09:51:38,3,Info,Status update for C|&r|&i|&t|&r|&o|&n|&i|&V|&a|&r|&i|&a|&n|&t|& : Executing
+2023-11-16 09:51:38,3,Info,Status update for D|&e|&a|&r|&C|&r|&y|&V|&a|&r|&i|&a|&n|&t|& : Executing
+2023-11-16 09:51:38,3,Info,Status update for H|&o|&l|&l|&o|&w|&I|&n|&j|&e|&c|&t|&o|&r|& : Executing
+2023-11-16 09:51:38,3,Info,Status update for I|&n|&j|&e|&c|&t|&o|&r|& : Executing
+2023-11-16 09:51:38,3,Info,Status update for I|&n|&s|&i|&d|&e|&C|&r|&y|&p|&t|&o|&r|& : Executing
+2023-11-16 09:51:38,3,Info,Status update for L|&o|&c|&k|&y|&V|&a|&r|&i|&a|&n|&t|& : Executing
+2023-11-16 09:51:38,3,Info,Status update for M|&a|&z|&e|&V|&a|&r|&i|&a|&n|&t|& : Executing
+2023-11-16 09:51:38,3,Info,Status update for M|&o|&v|&e|&r|& : Executing
+2023-11-16 09:51:38,3,Info,Status update for P|&a|&y|&m|&e|&r|&V|&a|&r|&i|&a|&n|&t|& : Executing
+2023-11-16 09:51:38,3,Info,Status update for R|&e|&f|&l|&e|&c|&t|&i|&v|&e|&I|&n|&j|&e|&c|&t|&o|&r|& : Executing
+2023-11-16 09:51:38,3,Info,Status update for R|&e|&m|&o|&v|&e|&r|& : Executing
+2023-11-16 09:51:38,3,Info,Status update for R|&e|&p|&l|&a|&c|&e|&r|& : Executing
+2023-11-16 09:51:38,3,Info,Status update for R|&i|&g|&S|&i|&m|&u|&l|&a|&t|&o|&r|& : Executing
+2023-11-16 09:51:38,3,Info,Status update for R|&I|&P|&l|&a|&c|&e|&r|& : Executing
+2023-11-16 09:51:38,3,Info,Status update for S|&l|&o|&w|&C|&r|&y|&p|&t|&o|&r|& : Executing
+2023-11-16 09:51:38,3,Info,Status update for S|&t|&r|&e|&a|&m|&e|&r|& : Executing
+2023-11-16 09:51:38,3,Info,Status update for S|&t|&r|&o|&n|&g|&C|&r|&y|&p|&t|&o|&r|& : Executing
+2023-11-16 09:51:38,3,Info,Status update for S|&t|&r|&o|&n|&g|&C|&r|&y|&p|&t|&o|&r|&F|&a|&s|&t|& : Executing
+2023-11-16 09:51:38,3,Info,Status update for S|&t|&r|&o|&n|&g|&C|&r|&y|&p|&t|&o|&r|&N|&e|&t|& : Executing
+2023-11-16 09:51:38,3,Info,Status update for T|&h|&o|&r|&V|&a|&r|&i|&a|&n|&t|& : Executing
+2023-11-16 09:51:38,3,Info,Status update for V|&i|&r|&l|&o|&c|&k|&V|&a|&r|&i|&a|&n|&t|& : Executing
+2023-11-16 09:51:38,3,Info,Status update for W|&e|&a|&k|&C|&r|&y|&p|&t|&o|&r|& : Executing
+2023-11-16 09:51:38,3,Info,Global progress: 0
+2023-11-16 09:51:39,3,Info,Status update for A|&r|&c|&h|&i|&v|&e|&r|& : Executing
+2023-11-16 09:51:39,3,Info,Status update for B|&l|&a|&c|&k|&K|&i|&n|&g|&d|&o|&m|&V|&a|&r|&i|&a|&n|&t|& : Executing
+2023-11-16 09:51:39,3,Info,Status update for C|&o|&l|&l|&a|&b|&o|&r|&a|&t|&o|&r|& : Executing
+2023-11-16 09:51:39,3,Info,Status update for C|&r|&i|&t|&r|&o|&n|&i|&V|&a|&r|&i|&a|&n|&t|& : Executing
+2023-11-16 09:51:39,3,Info,Status update for D|&e|&a|&r|&C|&r|&y|&V|&a|&r|&i|&a|&n|&t|& : Executing
+2023-11-16 09:51:39,3,Info,Status update for H|&o|&l|&l|&o|&w|&I|&n|&j|&e|&c|&t|&o|&r|& : Executing
+2023-11-16 09:51:39,3,Info,Status update for I|&n|&j|&e|&c|&t|&o|&r|& : Executing
+2023-11-16 09:51:39,3,Info,Status update for I|&n|&s|&i|&d|&e|&C|&r|&y|&p|&t|&o|&r|& : Executing
+2023-11-16 09:51:39,3,Info,Status update for L|&o|&c|&k|&y|&V|&a|&r|&i|&a|&n|&t|& : Executing
+2023-11-16 09:51:39,3,Info,Status update for M|&a|&z|&e|&V|&a|&r|&i|&a|&n|&t|& : Executing
+2023-11-16 09:51:39,3,Info,Status update for M|&o|&v|&e|&r|& : Executing
+2023-11-16 09:51:39,3,Info,Status update for P|&a|&y|&m|&e|&r|&V|&a|&r|&i|&a|&n|&t|& : Executing
+2023-11-16 09:51:39,3,Info,Status update for R|&e|&f|&l|&e|&c|&t|&i|&v|&e|&I|&n|&j|&e|&c|&t|&o|&r|& : Executing
+2023-11-16 09:51:39,3,Info,Status update for R|&e|&m|&o|&v|&e|&r|& : Executing
+2023-11-16 09:51:39,3,Info,Status update for R|&e|&p|&l|&a|&c|&e|&r|& : Executing
+2023-11-16 09:51:39,3,Info,Status update for R|&i|&g|&S|&i|&m|&u|&l|&a|&t|&o|&r|& : Executing
+2023-11-16 09:51:39,3,Info,Status update for R|&I|&P|&l|&a|&c|&e|&r|& : Executing
+2023-11-16 09:51:39,3,Info,Status update for S|&l|&o|&w|&C|&r|&y|&p|&t|&o|&r|& : Executing
+2023-11-16 09:51:39,3,Info,Status update for S|&t|&r|&e|&a|&m|&e|&r|& : Executing
+2023-11-16 09:51:39,3,Info,Status update for S|&t|&r|&o|&n|&g|&C|&r|&y|&p|&t|&o|&r|& : Executing
+2023-11-16 09:51:39,3,Info,Status update for S|&t|&r|&o|&n|&g|&C|&r|&y|&p|&t|&o|&r|&F|&a|&s|&t|& : Executing
+2023-11-16 09:51:39,3,Info,Status update for S|&t|&r|&o|&n|&g|&C|&r|&y|&p|&t|&o|&r|&N|&e|&t|& : Executing
+2023-11-16 09:51:39,3,Info,Status update for T|&h|&o|&r|&V|&a|&r|&i|&a|&n|&t|& : Executing
+2023-11-16 09:51:39,3,Info,Status update for V|&i|&r|&l|&o|&c|&k|&V|&a|&r|&i|&a|&n|&t|& : Executing
+2023-11-16 09:51:39,3,Info,Status update for W|&e|&a|&k|&C|&r|&y|&p|&t|&o|&r|& : Executing
+2023-11-16 09:51:39,3,Info,Global progress: 0
+2023-11-16 09:51:39,3,Info,Status update for A|&r|&c|&h|&i|&v|&e|&r|& : Executing
+2023-11-16 09:51:39,3,Info,Status update for B|&l|&a|&c|&k|&K|&i|&n|&g|&d|&o|&m|&V|&a|&r|&i|&a|&n|&t|& : Executing
+2023-11-16 09:51:39,3,Info,Status update for C|&o|&l|&l|&a|&b|&o|&r|&a|&t|&o|&r|& : Executing
+2023-11-16 09:51:39,3,Info,Status update for C|&r|&i|&t|&r|&o|&n|&i|&V|&a|&r|&i|&a|&n|&t|& : Executing
+2023-11-16 09:51:39,3,Info,Status update for D|&e|&a|&r|&C|&r|&y|&V|&a|&r|&i|&a|&n|&t|& : Executing
+2023-11-16 09:51:39,3,Info,Status update for H|&o|&l|&l|&o|&w|&I|&n|&j|&e|&c|&t|&o|&r|& : Executing
+2023-11-16 09:51:39,3,Info,Status update for I|&n|&j|&e|&c|&t|&o|&r|& : Executing
+2023-11-16 09:51:39,3,Info,Status update for I|&n|&s|&i|&d|&e|&C|&r|&y|&p|&t|&o|&r|& : Executing
+2023-11-16 09:51:39,3,Info,Status update for L|&o|&c|&k|&y|&V|&a|&r|&i|&a|&n|&t|& : Executing
+2023-11-16 09:51:39,3,Info,Status update for M|&a|&z|&e|&V|&a|&r|&i|&a|&n|&t|& : Executing
+2023-11-16 09:51:39,3,Info,Status update for M|&o|&v|&e|&r|& : Executing
+2023-11-16 09:51:39,3,Info,Status update for P|&a|&y|&m|&e|&r|&V|&a|&r|&i|&a|&n|&t|& : Executing
+2023-11-16 09:51:39,3,Info,Status update for R|&e|&f|&l|&e|&c|&t|&i|&v|&e|&I|&n|&j|&e|&c|&t|&o|&r|& : Executing
+2023-11-16 09:51:39,3,Info,Status update for R|&e|&m|&o|&v|&e|&r|& : Executing
+2023-11-16 09:51:39,3,Info,Status update for R|&e|&p|&l|&a|&c|&e|&r|& : Executing
+2023-11-16 09:51:39,3,Info,Status update for R|&i|&g|&S|&i|&m|&u|&l|&a|&t|&o|&r|& : Executing
+2023-11-16 09:51:39,3,Info,Status update for R|&I|&P|&l|&a|&c|&e|&r|& : Executing
+2023-11-16 09:51:39,3,Info,Status update for S|&l|&o|&w|&C|&r|&y|&p|&t|&o|&r|& : Executing
+2023-11-16 09:51:39,3,Info,Status update for S|&t|&r|&e|&a|&m|&e|&r|& : Executing
+2023-11-16 09:51:39,3,Info,Status update for S|&t|&r|&o|&n|&g|&C|&r|&y|&p|&t|&o|&r|& : Executing
+2023-11-16 09:51:39,3,Info,Status update for S|&t|&r|&o|&n|&g|&C|&r|&y|&p|&t|&o|&r|&F|&a|&s|&t|& : Executing
+2023-11-16 09:51:39,3,Info,Status update for S|&t|&r|&o|&n|&g|&C|&r|&y|&p|&t|&o|&r|&N|&e|&t|& : Executing
+2023-11-16 09:51:39,3,Info,Status update for T|&h|&o|&r|&V|&a|&r|&i|&a|&n|&t|& : Executing
+2023-11-16 09:51:39,3,Info,Status update for V|&i|&r|&l|&o|&c|&k|&V|&a|&r|&i|&a|&n|&t|& : Executing
+2023-11-16 09:51:39,3,Info,Status update for W|&e|&a|&k|&C|&r|&y|&p|&t|&o|&r|& : Executing
+2023-11-16 09:51:39,3,Info,Global progress: 0
+2023-11-16 09:51:39,3,Info,Status update for A|&r|&c|&h|&i|&v|&e|&r|& : Executing
+2023-11-16 09:51:39,3,Info,Status update for B|&l|&a|&c|&k|&K|&i|&n|&g|&d|&o|&m|&V|&a|&r|&i|&a|&n|&t|& : Executing
+2023-11-16 09:51:39,3,Info,Status update for C|&o|&l|&l|&a|&b|&o|&r|&a|&t|&o|&r|& : Executing
+2023-11-16 09:51:39,3,Info,Status update for C|&r|&i|&t|&r|&o|&n|&i|&V|&a|&r|&i|&a|&n|&t|& : Executing
+2023-11-16 09:51:39,3,Info,Status update for D|&e|&a|&r|&C|&r|&y|&V|&a|&r|&i|&a|&n|&t|& : Executing
+2023-11-16 09:51:39,3,Info,Status update for H|&o|&l|&l|&o|&w|&I|&n|&j|&e|&c|&t|&o|&r|& : Executing
+2023-11-16 09:51:39,3,Info,Status update for I|&n|&j|&e|&c|&t|&o|&r|& : Executing
+2023-11-16 09:51:39,3,Info,Status update for I|&n|&s|&i|&d|&e|&C|&r|&y|&p|&t|&o|&r|& : Executing
+2023-11-16 09:51:39,3,Info,Status update for L|&o|&c|&k|&y|&V|&a|&r|&i|&a|&n|&t|& : Executing
+2023-11-16 09:51:39,3,Info,Status update for M|&a|&z|&e|&V|&a|&r|&i|&a|&n|&t|& : Executing
+2023-11-16 09:51:39,3,Info,Status update for M|&o|&v|&e|&r|& : Executing
+2023-11-16 09:51:39,3,Info,Status update for P|&a|&y|&m|&e|&r|&V|&a|&r|&i|&a|&n|&t|& : Executing
+2023-11-16 09:51:39,3,Info,Status update for R|&e|&f|&l|&e|&c|&t|&i|&v|&e|&I|&n|&j|&e|&c|&t|&o|&r|& : Executing
+2023-11-16 09:51:39,3,Info,Status update for R|&e|&m|&o|&v|&e|&r|& : Executing
+2023-11-16 09:51:39,3,Info,Status update for R|&e|&p|&l|&a|&c|&e|&r|& : Executing
+2023-11-16 09:51:39,3,Info,Status update for R|&i|&g|&S|&i|&m|&u|&l|&a|&t|&o|&r|& : Executing
+2023-11-16 09:51:39,3,Info,Status update for R|&I|&P|&l|&a|&c|&e|&r|& : Executing
+2023-11-16 09:51:39,3,Info,Status update for S|&l|&o|&w|&C|&r|&y|&p|&t|&o|&r|& : Executing
+2023-11-16 09:51:39,3,Info,Status update for S|&t|&r|&e|&a|&m|&e|&r|& : Executing
+2023-11-16 09:51:39,3,Info,Status update for S|&t|&r|&o|&n|&g|&C|&r|&y|&p|&t|&o|&r|& : Executing
+2023-11-16 09:51:39,3,Info,Status update for S|&t|&r|&o|&n|&g|&C|&r|&y|&p|&t|&o|&r|&F|&a|&s|&t|& : Executing
+2023-11-16 09:51:39,3,Info,Status update for S|&t|&r|&o|&n|&g|&C|&r|&y|&p|&t|&o|&r|&N|&e|&t|& : Executing
+2023-11-16 09:51:39,3,Info,Status update for T|&h|&o|&r|&V|&a|&r|&i|&a|&n|&t|& : Executing
+2023-11-16 09:51:39,3,Info,Status update for V|&i|&r|&l|&o|&c|&k|&V|&a|&r|&i|&a|&n|&t|& : Executing
+2023-11-16 09:51:39,3,Info,Status update for W|&e|&a|&k|&C|&r|&y|&p|&t|&o|&r|& : Executing
+2023-11-16 09:51:39,3,Info,Global progress: 0
+2023-11-16 09:51:40,3,Info,Status update for A|&r|&c|&h|&i|&v|&e|&r|& : Executing
+2023-11-16 09:51:40,3,Info,Status update for B|&l|&a|&c|&k|&K|&i|&n|&g|&d|&o|&m|&V|&a|&r|&i|&a|&n|&t|& : Executing
+2023-11-16 09:51:40,3,Info,Status update for C|&o|&l|&l|&a|&b|&o|&r|&a|&t|&o|&r|& : Executing
+2023-11-16 09:51:40,3,Info,Status update for C|&r|&i|&t|&r|&o|&n|&i|&V|&a|&r|&i|&a|&n|&t|& : Executing
+2023-11-16 09:51:40,3,Info,Status update for D|&e|&a|&r|&C|&r|&y|&V|&a|&r|&i|&a|&n|&t|& : Executing
+2023-11-16 09:51:40,3,Info,Status update for H|&o|&l|&l|&o|&w|&I|&n|&j|&e|&c|&t|&o|&r|& : Executing
+2023-11-16 09:51:40,3,Info,Status update for I|&n|&j|&e|&c|&t|&o|&r|& : Executing
+2023-11-16 09:51:40,3,Info,Status update for I|&n|&s|&i|&d|&e|&C|&r|&y|&p|&t|&o|&r|& : Executing
+2023-11-16 09:51:40,3,Info,Status update for L|&o|&c|&k|&y|&V|&a|&r|&i|&a|&n|&t|& : Executing
+2023-11-16 09:51:40,3,Info,Status update for M|&a|&z|&e|&V|&a|&r|&i|&a|&n|&t|& : Executing
+2023-11-16 09:51:40,3,Info,Status update for M|&o|&v|&e|&r|& : Executing
+2023-11-16 09:51:40,3,Info,Status update for P|&a|&y|&m|&e|&r|&V|&a|&r|&i|&a|&n|&t|& : Executing
+2023-11-16 09:51:40,3,Info,Status update for R|&e|&f|&l|&e|&c|&t|&i|&v|&e|&I|&n|&j|&e|&c|&t|&o|&r|& : Executing
+2023-11-16 09:51:40,3,Info,Status update for R|&e|&m|&o|&v|&e|&r|& : Executing
+2023-11-16 09:51:40,3,Info,Status update for R|&e|&p|&l|&a|&c|&e|&r|& : Executing
+2023-11-16 09:51:40,3,Info,Status update for R|&i|&g|&S|&i|&m|&u|&l|&a|&t|&o|&r|& : Executing
+2023-11-16 09:51:40,3,Info,Status update for R|&I|&P|&l|&a|&c|&e|&r|& : Executing
+2023-11-16 09:51:40,3,Info,Status update for S|&l|&o|&w|&C|&r|&y|&p|&t|&o|&r|& : Executing
+2023-11-16 09:51:40,3,Info,Status update for S|&t|&r|&e|&a|&m|&e|&r|& : Executing
+2023-11-16 09:51:40,3,Info,Status update for S|&t|&r|&o|&n|&g|&C|&r|&y|&p|&t|&o|&r|& : Executing
+2023-11-16 09:51:40,3,Info,Status update for S|&t|&r|&o|&n|&g|&C|&r|&y|&p|&t|&o|&r|&F|&a|&s|&t|& : Executing
+2023-11-16 09:51:40,3,Info,Status update for S|&t|&r|&o|&n|&g|&C|&r|&y|&p|&t|&o|&r|&N|&e|&t|& : Executing
+2023-11-16 09:51:40,3,Info,Status update for T|&h|&o|&r|&V|&a|&r|&i|&a|&n|&t|& : Executing
+2023-11-16 09:51:40,3,Info,Status update for V|&i|&r|&l|&o|&c|&k|&V|&a|&r|&i|&a|&n|&t|& : Executing
+2023-11-16 09:51:40,3,Info,Status update for W|&e|&a|&k|&C|&r|&y|&p|&t|&o|&r|& : Executing
+2023-11-16 09:51:40,3,Info,Global progress: 0
+2023-11-16 09:51:40,1,Info,Found Ranstart
+2023-11-16 09:51:40,1,Info,Found svchost
+2023-11-16 09:51:40,1,Info,Found svchost
+2023-11-16 09:51:40,1,Info,Found RuntimeBroker
+2023-11-16 09:51:40,1,Info,Found svchost
+2023-11-16 09:51:40,1,Info,Found svchost
+2023-11-16 09:51:40,1,Info,Found Collector
+2023-11-16 09:51:40,1,Info,Found GoogleCrashHandler
+2023-11-16 09:51:40,1,Info,Found UltraViewer_Service
+2023-11-16 09:51:40,1,Info,Found svchost
+2023-11-16 09:51:40,1,Info,Found wlms
+2023-11-16 09:51:40,1,Info,Found svchost
+2023-11-16 09:51:40,1,Info,Found svchost
+2023-11-16 09:51:40,1,Info,Found svchost
+2023-11-16 09:51:40,1,Info,Found sihost
+2023-11-16 09:51:40,1,Info,Found csrss
+2023-11-16 09:51:40,1,Info,Found svchost
+2023-11-16 09:51:40,1,Info,Found svchost
+2023-11-16 09:51:40,1,Info,Found ismserv
+2023-11-16 09:51:40,1,Info,Found winlogon
+2023-11-16 09:51:40,1,Info,Found ctfmon
+2023-11-16 09:51:40,1,Info,Found conhost
+2023-11-16 09:51:40,1,Info,Found svchost
+2023-11-16 09:51:40,1,Info,Found fontdrvhost
+2023-11-16 09:51:40,1,Info,Found svchost
+2023-11-16 09:51:40,1,Info,Found fontdrvhost
+2023-11-16 09:51:40,1,Info,Found ShellExperienceHost
+2023-11-16 09:51:40,1,Info,Found nssm
+2023-11-16 09:51:40,1,Info,Found svchost
+2023-11-16 09:51:40,1,Info,Found svchost
+2023-11-16 09:51:40,1,Info,Found RuntimeBroker
+2023-11-16 09:51:40,1,Info,Found conhost
+2023-11-16 09:51:40,1,Info,Found notepad
+2023-11-16 09:51:40,1,Info,Found MainRunner
+2023-11-16 09:51:40,1,Info,Found NisSrv
+2023-11-16 09:51:40,1,Info,Found mmc
+2023-11-16 09:51:40,1,Info,Found svchost
+2023-11-16 09:51:40,1,Info,Found svchost
+2023-11-16 09:51:40,1,Info,Found SearchUI
+2023-11-16 09:51:40,1,Info,Found LogonUI
+2023-11-16 09:51:40,1,Info,Found svchost
+2023-11-16 09:51:40,1,Info,Found GoogleCrashHandler64
+2023-11-16 09:51:40,1,Info,Found conhost
+2023-11-16 09:51:40,1,Info,Found svchost
+2023-11-16 09:51:40,1,Info,Found svchost
+2023-11-16 09:51:40,1,Info,Found MsMpEng
+2023-11-16 09:51:40,1,Info,Found svchost
+2023-11-16 09:51:40,1,Info,Found MainRunner
+2023-11-16 09:51:40,1,Info,Found fontdrvhost
+2023-11-16 09:51:40,1,Info,Found RuntimeBroker
+2023-11-16 09:51:40,1,Info,Found svchost
+2023-11-16 09:51:40,1,Info,Found csrss
+2023-11-16 09:51:40,1,Info,Found svchost
+2023-11-16 09:51:40,1,Info,Found rdpclip
+2023-11-16 09:51:40,1,Info,Found csrss
+2023-11-16 09:51:40,1,Info,Found svchost
+2023-11-16 09:51:40,1,Info,Found svchost
+2023-11-16 09:51:40,1,Info,Found svchost
+2023-11-16 09:51:40,1,Info,Found svchost
+2023-11-16 09:51:40,1,Info,Found svchost
+2023-11-16 09:51:40,1,Info,Found smss
+2023-11-16 09:51:40,1,Info,Found svchost
+2023-11-16 09:51:40,1,Info,Found msdtc
+2023-11-16 09:51:40,1,Info,Found svchost
+2023-11-16 09:51:40,1,Info,Found svchost
+2023-11-16 09:51:40,1,Info,Found svchost
+2023-11-16 09:51:40,1,Info,Found dllhost
+2023-11-16 09:51:40,1,Info,Found dwm
+2023-11-16 09:51:40,1,Info,Found Taskmgr
+2023-11-16 09:51:40,1,Info,Found svchost
+2023-11-16 09:51:40,1,Info,Found svchost
+2023-11-16 09:51:40,1,Info,Found svchost
+2023-11-16 09:51:40,1,Info,Found fontdrvhost
+2023-11-16 09:51:40,1,Info,Found taskhostw
+2023-11-16 09:51:40,1,Info,Found RuntimeBroker
+2023-11-16 09:51:40,1,Info,Found dfsrs
+2023-11-16 09:51:40,1,Info,Found svchost
+2023-11-16 09:51:40,1,Info,Found backgroundTaskHost
+2023-11-16 09:51:40,1,Info,Found svchost
+2023-11-16 09:51:40,1,Info,Found rundll32
+2023-11-16 09:51:40,1,Info,Found svchost
+2023-11-16 09:51:40,1,Info,Found conhost
+2023-11-16 09:51:40,1,Info,Found svchost
+2023-11-16 09:51:40,1,Info,Found LockApp
+2023-11-16 09:51:40,1,Info,Found svchost
+2023-11-16 09:51:40,1,Info,Found dwm
+2023-11-16 09:51:40,1,Info,Found lsass
+2023-11-16 09:51:40,1,Info,Found conhost
+2023-11-16 09:51:40,1,Info,Found svchost
+2023-11-16 09:51:40,1,Info,Found svchost
+2023-11-16 09:51:40,1,Info,Found ApplicationFrameHost
+2023-11-16 09:51:40,1,Info,Found svchost
+2023-11-16 09:51:40,1,Info,Found dfssvc
+2023-11-16 09:51:40,1,Info,Found RuntimeBroker
+2023-11-16 09:51:40,1,Info,Found svchost
+2023-11-16 09:51:40,1,Info,Found svchost
+2023-11-16 09:51:40,1,Info,Found services
+2023-11-16 09:51:40,1,Info,Found svchost
+2023-11-16 09:51:40,1,Info,Found svchost
+2023-11-16 09:51:40,1,Info,Found grafana-server
+2023-11-16 09:51:40,1,Info,Found svchost
+2023-11-16 09:51:40,1,Info,Found ShellExperienceHost
+2023-11-16 09:51:40,1,Info,Found dwm
+2023-11-16 09:51:40,1,Info,Found sihost
+2023-11-16 09:51:40,1,Info,Found svchost
+2023-11-16 09:51:40,1,Info,Found svchost
+2023-11-16 09:51:40,1,Info,Found explorer
+2023-11-16 09:51:40,1,Info,Found svchost
+2023-11-16 09:51:40,1,Info,Found spoolsv
+2023-11-16 09:51:40,1,Info,Found taskhostw
+2023-11-16 09:51:40,1,Info,Found Microsoft.ActiveDirectory.WebServices
+2023-11-16 09:51:40,1,Info,Found winlogon
+2023-11-16 09:51:40,1,Info,Found explorer
+2023-11-16 09:51:40,1,Info,Found svchost
+2023-11-16 09:51:40,1,Info,Found svchost
+2023-11-16 09:51:40,1,Info,Found svchost
+2023-11-16 09:51:40,1,Info,Found winlogon
+2023-11-16 09:51:40,1,Info,Found svchost
+2023-11-16 09:51:40,1,Info,Found LogonUI
+2023-11-16 09:51:40,1,Info,Found RuntimeBroker
+2023-11-16 09:51:40,1,Info,Found SecurityHealthService
+2023-11-16 09:51:40,1,Info,Found svchost
+2023-11-16 09:51:40,1,Info,Found svchost
+2023-11-16 09:51:40,1,Info,Found powershell_ise
+2023-11-16 09:51:40,1,Info,Found Registry
+2023-11-16 09:51:40,1,Info,Found SearchUI
+2023-11-16 09:51:40,1,Info,Found WUDFHost
+2023-11-16 09:51:40,1,Info,Found svchost
+2023-11-16 09:51:40,1,Info,Found svchost
+2023-11-16 09:51:40,1,Info,Found MusNotifyIcon
+2023-11-16 09:51:40,1,Info,Found RuntimeBroker
+2023-11-16 09:51:40,1,Info,Found svchost
+2023-11-16 09:51:40,1,Info,Found svchost
+2023-11-16 09:51:40,1,Info,Found svchost
+2023-11-16 09:51:40,1,Info,Found dns
+2023-11-16 09:51:40,1,Info,Found MySQLWorkbench
+2023-11-16 09:51:40,1,Info,Found svchost
+2023-11-16 09:51:40,1,Info,Found csrss
+2023-11-16 09:51:40,1,Info,Found ServerManager
+2023-11-16 09:51:40,1,Info,Found metricbeat
+2023-11-16 09:51:40,1,Info,Found wininit
+2023-11-16 09:51:40,1,Info,Found svchost
+2023-11-16 09:51:40,1,Info,Found svchost
+2023-11-16 09:51:40,1,Info,Found svchost
+2023-11-16 09:51:40,1,Info,Found svchost
+2023-11-16 09:51:40,1,Info,Found svchost
+2023-11-16 09:51:40,1,Info,Found svchost
+2023-11-16 09:51:40,1,Info,Found OfficeClickToRun
+2023-11-16 09:51:40,1,Info,Found svchost
+2023-11-16 09:51:40,1,Info,Found System
+2023-11-16 09:51:40,1,Info,Found Idle
+2023-11-16 09:51:40,1,Info,Found Ranstart
+2023-11-16 09:51:40,1,Info,Found svchost
+2023-11-16 09:51:40,1,Info,Found svchost
+2023-11-16 09:51:40,1,Info,Found RuntimeBroker
+2023-11-16 09:51:40,1,Info,Found svchost
+2023-11-16 09:51:40,1,Info,Found svchost
+2023-11-16 09:51:40,1,Info,Found Collector
+2023-11-16 09:51:40,1,Info,Found GoogleCrashHandler
+2023-11-16 09:51:40,1,Info,Found UltraViewer_Service
+2023-11-16 09:51:40,1,Info,Found svchost
+2023-11-16 09:51:40,1,Info,Found wlms
+2023-11-16 09:51:40,1,Info,Found svchost
+2023-11-16 09:51:40,1,Info,Found svchost
+2023-11-16 09:51:40,1,Info,Found svchost
+2023-11-16 09:51:40,1,Info,Found sihost
+2023-11-16 09:51:40,1,Info,Found csrss
+2023-11-16 09:51:40,1,Info,Found svchost
+2023-11-16 09:51:40,1,Info,Found svchost
+2023-11-16 09:51:40,1,Info,Found ismserv
+2023-11-16 09:51:40,1,Info,Found winlogon
+2023-11-16 09:51:40,1,Info,Found ctfmon
+2023-11-16 09:51:40,1,Info,Found conhost
+2023-11-16 09:51:40,1,Info,Found svchost
+2023-11-16 09:51:40,1,Info,Found fontdrvhost
+2023-11-16 09:51:40,1,Info,Found svchost
+2023-11-16 09:51:40,1,Info,Found fontdrvhost
+2023-11-16 09:51:40,1,Info,Found ShellExperienceHost
+2023-11-16 09:51:40,1,Info,Found nssm
+2023-11-16 09:51:40,1,Info,Found svchost
+2023-11-16 09:51:40,1,Info,Found svchost
+2023-11-16 09:51:40,1,Info,Found RuntimeBroker
+2023-11-16 09:51:40,1,Info,Found conhost
+2023-11-16 09:51:40,1,Info,Found notepad
+2023-11-16 09:51:40,1,Info,Found MainRunner
+2023-11-16 09:51:40,1,Info,Found NisSrv
+2023-11-16 09:51:40,1,Info,Found mmc
+2023-11-16 09:51:40,1,Info,Found svchost
+2023-11-16 09:51:40,1,Info,Found svchost
+2023-11-16 09:51:40,1,Info,Found SearchUI
+2023-11-16 09:51:40,1,Info,Found LogonUI
+2023-11-16 09:51:40,1,Info,Found svchost
+2023-11-16 09:51:40,1,Info,Found GoogleCrashHandler64
+2023-11-16 09:51:40,1,Info,Found conhost
+2023-11-16 09:51:40,1,Info,Found svchost
+2023-11-16 09:51:40,1,Info,Found svchost
+2023-11-16 09:51:40,1,Info,Found MsMpEng
+2023-11-16 09:51:40,1,Info,Found svchost
+2023-11-16 09:51:40,1,Info,Found MainRunner
+2023-11-16 09:51:40,1,Info,Found fontdrvhost
+2023-11-16 09:51:40,1,Info,Found RuntimeBroker
+2023-11-16 09:51:40,1,Info,Found svchost
+2023-11-16 09:51:40,1,Info,Found csrss
+2023-11-16 09:51:40,1,Info,Found svchost
+2023-11-16 09:51:40,1,Info,Found rdpclip
+2023-11-16 09:51:40,1,Info,Found csrss
+2023-11-16 09:51:40,1,Info,Found svchost
+2023-11-16 09:51:40,1,Info,Found svchost
+2023-11-16 09:51:40,1,Info,Found svchost
+2023-11-16 09:51:40,1,Info,Found svchost
+2023-11-16 09:51:40,1,Info,Found svchost
+2023-11-16 09:51:40,1,Info,Found smss
+2023-11-16 09:51:40,1,Info,Found svchost
+2023-11-16 09:51:40,1,Info,Found msdtc
+2023-11-16 09:51:40,1,Info,Found svchost
+2023-11-16 09:51:40,1,Info,Found svchost
+2023-11-16 09:51:40,1,Info,Found svchost
+2023-11-16 09:51:40,1,Info,Found dllhost
+2023-11-16 09:51:40,1,Info,Found dwm
+2023-11-16 09:51:40,1,Info,Found Taskmgr
+2023-11-16 09:51:40,1,Info,Found svchost
+2023-11-16 09:51:40,1,Info,Found svchost
+2023-11-16 09:51:40,1,Info,Found svchost
+2023-11-16 09:51:40,1,Info,Found fontdrvhost
+2023-11-16 09:51:40,1,Info,Found taskhostw
+2023-11-16 09:51:40,1,Info,Found RuntimeBroker
+2023-11-16 09:51:40,1,Info,Found dfsrs
+2023-11-16 09:51:40,1,Info,Found svchost
+2023-11-16 09:51:40,1,Info,Found backgroundTaskHost
+2023-11-16 09:51:40,1,Info,Found svchost
+2023-11-16 09:51:40,1,Info,Found rundll32
+2023-11-16 09:51:40,1,Info,Found svchost
+2023-11-16 09:51:40,1,Info,Found conhost
+2023-11-16 09:51:40,1,Info,Found svchost
+2023-11-16 09:51:40,1,Info,Found LockApp
+2023-11-16 09:51:40,1,Info,Found svchost
+2023-11-16 09:51:40,1,Info,Found dwm
+2023-11-16 09:51:40,1,Info,Found lsass
+2023-11-16 09:51:40,1,Info,Found conhost
+2023-11-16 09:51:40,1,Info,Found svchost
+2023-11-16 09:51:40,1,Info,Found svchost
+2023-11-16 09:51:40,1,Info,Found ApplicationFrameHost
+2023-11-16 09:51:40,1,Info,Found svchost
+2023-11-16 09:51:40,1,Info,Found dfssvc
+2023-11-16 09:51:40,1,Info,Found RuntimeBroker
+2023-11-16 09:51:40,1,Info,Found svchost
+2023-11-16 09:51:40,1,Info,Found svchost
+2023-11-16 09:51:40,1,Info,Found services
+2023-11-16 09:51:40,1,Info,Found svchost
+2023-11-16 09:51:40,1,Info,Found svchost
+2023-11-16 09:51:40,1,Info,Found grafana-server
+2023-11-16 09:51:40,1,Info,Found svchost
+2023-11-16 09:51:40,1,Info,Found ShellExperienceHost
+2023-11-16 09:51:40,1,Info,Found dwm
+2023-11-16 09:51:40,1,Info,Found sihost
+2023-11-16 09:51:40,1,Info,Found svchost
+2023-11-16 09:51:40,1,Info,Found svchost
+2023-11-16 09:51:40,1,Info,Found explorer
+2023-11-16 09:51:40,1,Info,Found svchost
+2023-11-16 09:51:40,1,Info,Found spoolsv
+2023-11-16 09:51:40,1,Info,Found taskhostw
+2023-11-16 09:51:40,1,Info,Found Microsoft.ActiveDirectory.WebServices
+2023-11-16 09:51:40,1,Info,Found winlogon
+2023-11-16 09:51:40,1,Info,Found explorer
+2023-11-16 09:51:40,1,Info,Found svchost
+2023-11-16 09:51:40,1,Info,Found svchost
+2023-11-16 09:51:40,1,Info,Found svchost
+2023-11-16 09:51:40,1,Info,Found winlogon
+2023-11-16 09:51:40,1,Info,Found svchost
+2023-11-16 09:51:40,1,Info,Found LogonUI
+2023-11-16 09:51:40,1,Info,Found RuntimeBroker
+2023-11-16 09:51:40,1,Info,Found SecurityHealthService
+2023-11-16 09:51:40,1,Info,Found svchost
+2023-11-16 09:51:40,1,Info,Found svchost
+2023-11-16 09:51:40,1,Info,Found powershell_ise
+2023-11-16 09:51:40,1,Info,Found Registry
+2023-11-16 09:51:40,1,Info,Found SearchUI
+2023-11-16 09:51:40,1,Info,Found WUDFHost
+2023-11-16 09:51:40,1,Info,Found svchost
+2023-11-16 09:51:40,1,Info,Found svchost
+2023-11-16 09:51:40,1,Info,Found MusNotifyIcon
+2023-11-16 09:51:40,1,Info,Found RuntimeBroker
+2023-11-16 09:51:40,1,Info,Found svchost
+2023-11-16 09:51:40,1,Info,Found svchost
+2023-11-16 09:51:40,1,Info,Found svchost
+2023-11-16 09:51:40,1,Info,Found dns
+2023-11-16 09:51:40,1,Info,Found MySQLWorkbench
+2023-11-16 09:51:40,1,Info,Found svchost
+2023-11-16 09:51:40,1,Info,Found csrss
+2023-11-16 09:51:40,1,Info,Found ServerManager
+2023-11-16 09:51:40,1,Info,Found metricbeat
+2023-11-16 09:51:40,1,Info,Found wininit
+2023-11-16 09:51:40,1,Info,Found svchost
+2023-11-16 09:51:40,1,Info,Found svchost
+2023-11-16 09:51:40,1,Info,Found svchost
+2023-11-16 09:51:40,1,Info,Found svchost
+2023-11-16 09:51:40,1,Info,Found svchost
+2023-11-16 09:51:40,1,Info,Found svchost
+2023-11-16 09:51:40,1,Info,Found OfficeClickToRun
+2023-11-16 09:51:40,1,Info,Found svchost
+2023-11-16 09:51:40,1,Info,Found System
+2023-11-16 09:51:40,1,Info,Found Idle
+2023-11-16 09:51:40,1,Info,Found Ranstart
+2023-11-16 09:51:40,1,Info,Found svchost
+2023-11-16 09:51:40,1,Info,Found svchost
+2023-11-16 09:51:40,1,Info,Found RuntimeBroker
+2023-11-16 09:51:40,1,Info,Found svchost
+2023-11-16 09:51:40,1,Info,Found svchost
+2023-11-16 09:51:40,1,Info,Found Collector
+2023-11-16 09:51:40,1,Info,Found GoogleCrashHandler
+2023-11-16 09:51:40,1,Info,Found UltraViewer_Service
+2023-11-16 09:51:40,1,Info,Found svchost
+2023-11-16 09:51:40,1,Info,Found wlms
+2023-11-16 09:51:40,1,Info,Found svchost
+2023-11-16 09:51:40,1,Info,Found svchost
+2023-11-16 09:51:40,1,Info,Found svchost
+2023-11-16 09:51:40,1,Info,Found sihost
+2023-11-16 09:51:40,1,Info,Found csrss
+2023-11-16 09:51:40,1,Info,Found svchost
+2023-11-16 09:51:40,1,Info,Found svchost
+2023-11-16 09:51:40,1,Info,Found ismserv
+2023-11-16 09:51:40,1,Info,Found winlogon
+2023-11-16 09:51:40,1,Info,Found ctfmon
+2023-11-16 09:51:40,1,Info,Found conhost
+2023-11-16 09:51:40,1,Info,Found svchost
+2023-11-16 09:51:40,1,Info,Found fontdrvhost
+2023-11-16 09:51:40,1,Info,Found svchost
+2023-11-16 09:51:40,1,Info,Found fontdrvhost
+2023-11-16 09:51:40,1,Info,Found ShellExperienceHost
+2023-11-16 09:51:40,1,Info,Found nssm
+2023-11-16 09:51:40,1,Info,Found svchost
+2023-11-16 09:51:40,1,Info,Found svchost
+2023-11-16 09:51:40,1,Info,Found RuntimeBroker
+2023-11-16 09:51:40,1,Info,Found conhost
+2023-11-16 09:51:40,1,Info,Found notepad
+2023-11-16 09:51:40,1,Info,Found MainRunner
+2023-11-16 09:51:40,1,Info,Found NisSrv
+2023-11-16 09:51:40,1,Info,Found mmc
+2023-11-16 09:51:40,1,Info,Found svchost
+2023-11-16 09:51:40,1,Info,Found svchost
+2023-11-16 09:51:40,1,Info,Found SearchUI
+2023-11-16 09:51:40,1,Info,Found LogonUI
+2023-11-16 09:51:40,1,Info,Found svchost
+2023-11-16 09:51:40,1,Info,Found GoogleCrashHandler64
+2023-11-16 09:51:40,1,Info,Found conhost
+2023-11-16 09:51:40,1,Info,Found svchost
+2023-11-16 09:51:40,1,Info,Found svchost
+2023-11-16 09:51:40,1,Info,Found MsMpEng
+2023-11-16 09:51:40,1,Info,Found svchost
+2023-11-16 09:51:40,1,Info,Found MainRunner
+2023-11-16 09:51:40,1,Info,Found fontdrvhost
+2023-11-16 09:51:40,1,Info,Found RuntimeBroker
+2023-11-16 09:51:40,1,Info,Found svchost
+2023-11-16 09:51:40,1,Info,Found csrss
+2023-11-16 09:51:40,1,Info,Found svchost
+2023-11-16 09:51:40,1,Info,Found rdpclip
+2023-11-16 09:51:40,1,Info,Found csrss
+2023-11-16 09:51:40,1,Info,Found svchost
+2023-11-16 09:51:40,1,Info,Found svchost
+2023-11-16 09:51:40,1,Info,Found svchost
+2023-11-16 09:51:40,1,Info,Found svchost
+2023-11-16 09:51:40,1,Info,Found svchost
+2023-11-16 09:51:40,1,Info,Found smss
+2023-11-16 09:51:40,1,Info,Found svchost
+2023-11-16 09:51:40,1,Info,Found msdtc
+2023-11-16 09:51:40,1,Info,Found svchost
+2023-11-16 09:51:40,1,Info,Found svchost
+2023-11-16 09:51:40,1,Info,Found svchost
+2023-11-16 09:51:40,1,Info,Found dllhost
+2023-11-16 09:51:40,1,Info,Found dwm
+2023-11-16 09:51:40,1,Info,Found Taskmgr
+2023-11-16 09:51:40,1,Info,Found svchost
+2023-11-16 09:51:40,1,Info,Found svchost
+2023-11-16 09:51:40,1,Info,Found svchost
+2023-11-16 09:51:40,1,Info,Found fontdrvhost
+2023-11-16 09:51:40,1,Info,Found taskhostw
+2023-11-16 09:51:40,1,Info,Found RuntimeBroker
+2023-11-16 09:51:40,1,Info,Found dfsrs
+2023-11-16 09:51:40,1,Info,Found svchost
+2023-11-16 09:51:40,1,Info,Found backgroundTaskHost
+2023-11-16 09:51:40,1,Info,Found svchost
+2023-11-16 09:51:40,1,Info,Found rundll32
+2023-11-16 09:51:40,1,Info,Found svchost
+2023-11-16 09:51:40,1,Info,Found conhost
+2023-11-16 09:51:40,1,Info,Found svchost
+2023-11-16 09:51:40,1,Info,Found LockApp
+2023-11-16 09:51:40,1,Info,Found svchost
+2023-11-16 09:51:40,1,Info,Found dwm
+2023-11-16 09:51:40,1,Info,Found lsass
+2023-11-16 09:51:40,1,Info,Found conhost
+2023-11-16 09:51:40,1,Info,Found svchost
+2023-11-16 09:51:40,1,Info,Found svchost
+2023-11-16 09:51:40,1,Info,Found ApplicationFrameHost
+2023-11-16 09:51:40,1,Info,Found svchost
+2023-11-16 09:51:40,1,Info,Found dfssvc
+2023-11-16 09:51:40,1,Info,Found RuntimeBroker
+2023-11-16 09:51:40,1,Info,Found svchost
+2023-11-16 09:51:40,1,Info,Found svchost
+2023-11-16 09:51:40,1,Info,Found services
+2023-11-16 09:51:40,1,Info,Found svchost
+2023-11-16 09:51:40,1,Info,Found svchost
+2023-11-16 09:51:40,1,Info,Found grafana-server
+2023-11-16 09:51:40,1,Info,Found svchost
+2023-11-16 09:51:40,1,Info,Found ShellExperienceHost
+2023-11-16 09:51:40,1,Info,Found dwm
+2023-11-16 09:51:40,1,Info,Found sihost
+2023-11-16 09:51:40,1,Info,Found svchost
+2023-11-16 09:51:40,1,Info,Found svchost
+2023-11-16 09:51:40,1,Info,Found explorer
+2023-11-16 09:51:40,1,Info,Found svchost
+2023-11-16 09:51:40,1,Info,Found spoolsv
+2023-11-16 09:51:40,1,Info,Found taskhostw
+2023-11-16 09:51:40,1,Info,Found Microsoft.ActiveDirectory.WebServices
+2023-11-16 09:51:40,1,Info,Found winlogon
+2023-11-16 09:51:40,1,Info,Found explorer
+2023-11-16 09:51:40,1,Info,Found svchost
+2023-11-16 09:51:40,1,Info,Found svchost
+2023-11-16 09:51:40,1,Info,Found svchost
+2023-11-16 09:51:40,1,Info,Found winlogon
+2023-11-16 09:51:40,1,Info,Found svchost
+2023-11-16 09:51:40,1,Info,Found LogonUI
+2023-11-16 09:51:40,1,Info,Found RuntimeBroker
+2023-11-16 09:51:40,1,Info,Found SecurityHealthService
+2023-11-16 09:51:40,1,Info,Found svchost
+2023-11-16 09:51:40,1,Info,Found svchost
+2023-11-16 09:51:40,1,Info,Found powershell_ise
+2023-11-16 09:51:40,1,Info,Found Registry
+2023-11-16 09:51:40,1,Info,Found SearchUI
+2023-11-16 09:51:40,1,Info,Found WUDFHost
+2023-11-16 09:51:40,1,Info,Found svchost
+2023-11-16 09:51:40,1,Info,Found svchost
+2023-11-16 09:51:40,1,Info,Found MusNotifyIcon
+2023-11-16 09:51:40,1,Info,Found RuntimeBroker
+2023-11-16 09:51:40,1,Info,Found svchost
+2023-11-16 09:51:40,1,Info,Found svchost
+2023-11-16 09:51:40,1,Info,Found svchost
+2023-11-16 09:51:40,1,Info,Found dns
+2023-11-16 09:51:40,1,Info,Found MySQLWorkbench
+2023-11-16 09:51:40,1,Info,Found svchost
+2023-11-16 09:51:40,1,Info,Found csrss
+2023-11-16 09:51:40,1,Info,Found ServerManager
+2023-11-16 09:51:40,1,Info,Found metricbeat
+2023-11-16 09:51:40,1,Info,Found wininit
+2023-11-16 09:51:40,1,Info,Found svchost
+2023-11-16 09:51:40,1,Info,Found svchost
+2023-11-16 09:51:40,1,Info,Found svchost
+2023-11-16 09:51:40,1,Info,Found svchost
+2023-11-16 09:51:40,1,Info,Found svchost
+2023-11-16 09:51:40,1,Info,Found svchost
+2023-11-16 09:51:40,1,Info,Found OfficeClickToRun
+2023-11-16 09:51:40,1,Info,Found svchost
+2023-11-16 09:51:40,1,Info,Found System
+2023-11-16 09:51:40,1,Info,Found Idle

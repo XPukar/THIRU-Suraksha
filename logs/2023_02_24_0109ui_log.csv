@@ -1,0 +1,6 @@
+2023-02-24 02:09:15,1,Info,Checking prerequisites..
+2023-02-24 02:09:15,1,Info,Dumping c
+2023-02-24 02:09:26,1,Error,Error running launcher - C:\KB4\Varsim;error: Operation did not complete successfully because the file contains a virus or potentially unwanted software, ,    at System.Diagnostics.Process.StartWithShellExecuteEx(ProcessStartInfo startInfo)
+   at System.Diagnostics.Process.Start()
+   at System.Diagnostics.Process.Start(ProcessStartInfo startInfo)
+   at RanframeDll.Runner.GetScenarios()
